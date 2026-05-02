@@ -93,5 +93,1650 @@
     "options": ["PSLV-C5", "GSLV-D5", "GSLV Mk III-D1", "PSLV-C11"],
     "correct": 1,
     "explanation": "GSLV-D5 (January 5, 2014) was the first successful flight of India's indigenous cryogenic upper stage (CE-7.5), making India the 6th country to master cryogenic rocket technology."
+  },
+  {
+    "id": "u11",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "The Indus Valley Civilization is also known as the Harappan Civilization because its remains were first discovered at:",
+    "options": ["Mohenjo-daro", "Harappa", "Lothal", "Kalibangan"],
+    "correct": 1,
+    "explanation": "The civilization was named after Harappa, a site in present-day Pakistan's Punjab province, where excavations were first conducted in 1921 by Daya Ram Sahni. Mohenjo-daro was discovered shortly after in 1922 by R.D. Banerji."
+  },
+  {
+    "id": "u12",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "Which of the following Indus Valley sites is located in Gujarat and was a major port town?",
+    "options": ["Kalibangan", "Banawali", "Lothal", "Rakhigarhi"],
+    "correct": 2,
+    "explanation": "Lothal, located in the Ahmedabad district of Gujarat, was a major port city of the Indus Valley Civilization. It had a remarkable dockyard and is considered one of the southernmost sites of the civilization."
+  },
+  {
+    "id": "u13",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Rig Vedic Aryans did NOT know which of the following?",
+    "options": ["Cattle rearing", "Iron", "Horse", "Fire sacrifice"],
+    "correct": 1,
+    "explanation": "Iron was unknown to the Rig Vedic Aryans. Iron (called 'Shyama' or 'Krishna ayas') appears only in the Later Vedic period (around 1000–600 BCE). The Rig Vedic people were familiar with bronze/copper ('ayas'), cattle, horses, and fire rituals."
+  },
+  {
+    "id": "u14",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The concept of 'Anekantavada' (non-absolutism or many-sidedness) is associated with which ancient Indian school of thought?",
+    "options": ["Buddhism", "Jainism", "Charvaka", "Ajivika"],
+    "correct": 1,
+    "explanation": "Anekantavada is a key Jain philosophical doctrine asserting that reality and truth are complex, with multiple aspects. It is complemented by Syadvada (conditional predication) and Nayavada (standpoints). This doctrine was developed prominently by Mahavira's teachings."
+  },
+  {
+    "id": "u15",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "Chandragupta Maurya founded the Mauryan Empire after defeating which ruler of the Nanda dynasty?",
+    "options": ["Dhana Nanda", "Mahapadma Nanda", "Kalivela Nanda", "Pandhuka Nanda"],
+    "correct": 0,
+    "explanation": "Chandragupta Maurya, assisted by Chanakya (Kautilya), defeated Dhana Nanda, the last ruler of the Nanda dynasty, around 321 BCE to establish the Mauryan Empire. Mahapadma Nanda was the founder of the Nanda dynasty."
+  },
+  {
+    "id": "u16",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "Ashoka's Rock Edicts were written primarily in which script?",
+    "options": ["Sanskrit", "Brahmi", "Devanagari", "Kharosthi"],
+    "correct": 1,
+    "explanation": "The majority of Ashoka's inscriptions were written in Brahmi script, which ran from left to right. Some northwestern inscriptions used Kharosthi script (right to left), and a few used Aramaic or Greek, reflecting the multilingual character of the empire."
+  },
+  {
+    "id": "u17",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Arthashastra, attributed to Kautilya, is primarily a treatise on:",
+    "options": ["Military strategy and warfare", "Economic thought and trade", "Statecraft, governance, and economic policy", "Philosophical ethics and dharma"],
+    "correct": 2,
+    "explanation": "The Arthashastra is a comprehensive manual on statecraft, economic policy, military strategy, and governance. It covers topics such as taxation, diplomacy, law, espionage, and the duties of a king. It was rediscovered by R. Shamasastry in 1905."
+  },
+  {
+    "id": "u18",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Gupta Age is often called the 'Golden Age of India' primarily because of:",
+    "options": [
+      "Territorial expansion to Southeast Asia",
+      "Flourishing of art, literature, science, and mathematics",
+      "Introduction of Buddhism as the state religion",
+      "Establishment of a uniform legal code"
+    ],
+    "correct": 1,
+    "explanation": "The Gupta period (4th–6th century CE) saw extraordinary achievements in literature (Kalidasa), mathematics (Aryabhata, decimal system), astronomy, metallurgy (Iron Pillar), and temple architecture. It is considered India's classical age."
+  },
+  {
+    "id": "u19",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "Aryabhata's famous astronomical work 'Aryabhatiya' was written in which century CE?",
+    "options": ["3rd century CE", "4th century CE", "5th century CE", "6th century CE"],
+    "correct": 2,
+    "explanation": "Aryabhata wrote the Aryabhatiya in 499 CE (5th century CE) when he was 23 years old. In it, he proposed the heliocentric concept, calculated the value of pi to four decimal places, and explained solar and lunar eclipses correctly."
+  },
+  {
+    "id": "u20",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Chalukyas of Badami were defeated by which Pallava ruler, leading to the sacking of Vatapi?",
+    "options": ["Mahendravarman I", "Narasimhavarman I", "Paramesvaravarman I", "Nandivarman II"],
+    "correct": 1,
+    "explanation": "Narasimhavarman I (630–668 CE) of the Pallava dynasty defeated and killed the Chalukya king Pulakesi II and sacked Vatapi (Badami) around 642 CE, earning the title 'Vatapikonda' (conqueror of Vatapi)."
+  },
+  {
+    "id": "u21",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "Muhammad of Ghor's victory in the Second Battle of Tarain (1192) established Muslim rule in North India. Whom did he defeat?",
+    "options": ["Prithviraj Chahamana (Prithviraj III)", "Jaichandra of Kannauj", "Bhimdev of Gujarat", "Paramardideva of Chandela"],
+    "correct": 0,
+    "explanation": "In the Second Battle of Tarain (1192), Muhammad of Ghor decisively defeated Prithviraj III (Prithviraj Chahamana), ruler of the Chahamana (Chauhan) dynasty. This battle laid the foundation for the Delhi Sultanate."
+  },
+  {
+    "id": "u22",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "Who founded the Delhi Sultanate?",
+    "options": ["Muhammad of Ghor", "Qutb-ud-din Aibak", "Iltutmish", "Balban"],
+    "correct": 1,
+    "explanation": "Qutb-ud-din Aibak, a slave-general of Muhammad of Ghor, founded the Delhi Sultanate in 1206 CE. He was the founder of the Slave (Mamluk) Dynasty and began construction of the Qutb Minar."
+  },
+  {
+    "id": "u23",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The administrative system of the Delhi Sultanate under Alauddin Khilji that involved state control of market prices was called:",
+    "options": ["Dagh system", "Market Reforms (Bazar regulations)", "Zabti system", "Nasaq system"],
+    "correct": 1,
+    "explanation": "Alauddin Khilji introduced market reforms (Bazar regulations) establishing four markets in Delhi — grain market, cloth market, cattle market, and general goods market — each under a shahna (controller). Prices were strictly fixed and violators were harshly punished."
+  },
+  {
+    "id": "u24",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "Which Mughal emperor abolished the Jizya tax on non-Muslims, only for it to be reimposed by Aurangzeb?",
+    "options": ["Babur", "Humayun", "Akbar", "Jahangir"],
+    "correct": 2,
+    "explanation": "Akbar abolished the Jizya (poll tax on non-Muslims) in 1564 as part of his policy of religious tolerance and sulh-i-kul (universal peace). Aurangzeb reimposed it in 1679, which alienated many Hindu subjects and contributed to rebellions."
+  },
+  {
+    "id": "u25",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Vijayanagara Empire's greatest ruler, Krishnadevaraya (r. 1509–1529), was a contemporary of which Mughal emperor?",
+    "options": ["Babur", "Humayun", "Akbar", "Shah Jahan"],
+    "correct": 0,
+    "explanation": "Krishnadevaraya (1509–1529) was contemporary with Babur (who invaded India in 1526). Krishnadevaraya is famous for his military conquests, patronage of Telugu literature (Amuktamalyada), and construction activities at Hampi."
+  },
+  {
+    "id": "u26",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Battle of Talikota (1565) that destroyed the Vijayanagara Empire was fought between Vijayanagara and a confederacy of which Deccan Sultanates?",
+    "options": [
+      "Bijapur, Ahmadnagar, Golconda, and Bidar",
+      "Bijapur, Bidar, Berar, and Golconda",
+      "Ahmadnagar, Berar, Bidar, and Bijapur",
+      "Bijapur, Ahmadnagar, Berar, and Golconda"
+    ],
+    "correct": 0,
+    "explanation": "The Battle of Talikota was fought between the Vijayanagara Empire under Aliya Rama Raya and a confederacy of four Deccan Sultanates: Bijapur, Ahmadnagar, Golconda, and Bidar. The defeat and death of Rama Raya effectively ended Vijayanagara's supremacy."
+  },
+  {
+    "id": "u27",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "Vasco da Gama first landed in India at which port in 1498?",
+    "options": ["Mumbai", "Goa", "Calicut (Kozhikode)", "Surat"],
+    "correct": 2,
+    "explanation": "Vasco da Gama, the Portuguese explorer, arrived at Calicut (present-day Kozhikode) on the Malabar Coast of Kerala on May 20, 1498, establishing the first direct sea route from Europe to India. He was received by the Zamorin (ruler) of Calicut."
+  },
+  {
+    "id": "u28",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Doctrine of Lapse, used by the British to annex Indian states, was associated with which Governor-General?",
+    "options": ["Lord Wellesley", "Lord Cornwallis", "Lord Dalhousie", "Lord Canning"],
+    "correct": 2,
+    "explanation": "Lord Dalhousie (1848–1856) applied the Doctrine of Lapse to annex states like Satara (1848), Jhansi (1853), Nagpur (1854), and Awadh (1856). The doctrine held that if a ruler died without a natural heir, the state would lapse to the British."
+  },
+  {
+    "id": "u29",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The immediate cause of the Revolt of 1857 was:",
+    "options": [
+      "Introduction of railways and telegraphs",
+      "Greased cartridges for the new Enfield rifle",
+      "Doctrine of Lapse applied to Jhansi",
+      "Taxation of Indian peasants"
+    ],
+    "correct": 1,
+    "explanation": "The immediate spark for the 1857 Revolt was the introduction of greased cartridges for the new Enfield rifle. Sepoys believed the grease was made from cow and pig fat, which offended both Hindu and Muslim soldiers. The first spark came at Meerut on May 10, 1857."
+  },
+  {
+    "id": "u30",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "The Indian National Congress was founded in 1885 by:",
+    "options": ["Bal Gangadhar Tilak", "Dadabhai Naoroji", "A.O. Hume", "Gopal Krishna Gokhale"],
+    "correct": 2,
+    "explanation": "Allan Octavian Hume, a retired British civil servant, founded the Indian National Congress in 1885 with the help of Dadabhai Naoroji and Dinshaw Wacha. The first session was held in Bombay (Mumbai) in December 1885, presided over by W.C. Bonnerjee."
+  },
+  {
+    "id": "u31",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Partition of Bengal (1905) was reversed in which year?",
+    "options": ["1907", "1909", "1911", "1919"],
+    "correct": 2,
+    "explanation": "The Partition of Bengal, ordered by Viceroy Lord Curzon in 1905 and which sparked the Swadeshi Movement, was annulled in 1911 during the Delhi Durbar of King George V. Bengal was reunited, though a new partition created a separate Bihar and Orissa province."
+  },
+  {
+    "id": "u32",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Lucknow Pact (1916) was an agreement between the Indian National Congress and the All India Muslim League. Which Congress leader played a key role in negotiating it?",
+    "options": ["Gopal Krishna Gokhale", "Bal Gangadhar Tilak", "Bipin Chandra Pal", "Lala Lajpat Rai"],
+    "correct": 1,
+    "explanation": "Bal Gangadhar Tilak played a key role in negotiating the Lucknow Pact, which represented a rare moment of Hindu-Muslim political unity. The pact agreed on separate electorates for Muslims and joint demands for constitutional reforms from the British."
+  },
+  {
+    "id": "u33",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "Gandhi launched the Non-Cooperation Movement in 1920 in response to which event?",
+    "options": ["Rowlatt Act (1919)", "Jallianwala Bagh massacre (1919)", "Simon Commission (1927)", "Chauri Chaura incident (1922)"],
+    "correct": 1,
+    "explanation": "Gandhi launched the Non-Cooperation Movement in September 1920 primarily in response to the Jallianwala Bagh massacre (April 1919) and the government's response to it. The Khilafat issue also played a role. The movement involved boycott of British goods, courts, schools, and titles."
+  },
+  {
+    "id": "u34",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "Gandhi's Dandi March (Salt March) of 1930 covered approximately how many kilometers from Sabarmati Ashram to Dandi?",
+    "options": ["241 km", "385 km", "450 km", "540 km"],
+    "correct": 1,
+    "explanation": "Gandhi's Dandi March covered approximately 385 km (240 miles) from Sabarmati Ashram in Ahmedabad to Dandi on the Gujarat coast, from March 12 to April 6, 1930. The march launched the Civil Disobedience Movement against the salt tax."
+  },
+  {
+    "id": "u35",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "The Quit India Movement was launched by Gandhi and the Indian National Congress in which year?",
+    "options": ["1940", "1942", "1944", "1946"],
+    "correct": 1,
+    "explanation": "The Quit India Movement (August Kranti) was launched on August 8, 1942, at the Bombay session of the All India Congress Committee. Gandhi's call was 'Do or Die.' The British immediately arrested Congress leaders, and the movement was suppressed within a few weeks."
+  },
+  {
+    "id": "u36",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Cabinet Mission Plan (1946) proposed which type of constitutional arrangement for India?",
+    "options": [
+      "Full independence with partition into two dominions",
+      "A federal union with a weak center and strong provinces",
+      "A three-tier structure with union, groups of provinces, and provinces",
+      "Dominion status without partition"
+    ],
+    "correct": 2,
+    "explanation": "The Cabinet Mission Plan proposed a three-tier structure: a Union of India, groups of provinces (Section A for Hindu-majority areas, Section B for Muslim-majority northwest, Section C for Bengal and Assam), and individual provinces. It aimed to keep India united while addressing Muslim League concerns."
+  },
+  {
+    "id": "u37",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The French Revolution began with which event in 1789?",
+    "options": ["Execution of King Louis XVI", "Storming of the Bastille", "Declaration of the Rights of Man", "Formation of the National Assembly"],
+    "correct": 1,
+    "explanation": "The French Revolution is conventionally dated from the Storming of the Bastille on July 14, 1789, which symbolized the uprising against royal tyranny. The National Assembly had already been formed and the Tennis Court Oath taken, but Bastille Day marks the popular revolution."
+  },
+  {
+    "id": "u38",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The immediate cause of World War I was:",
+    "options": [
+      "German invasion of Belgium",
+      "Assassination of Archduke Franz Ferdinand",
+      "Austria-Hungary's declaration of war on Serbia",
+      "Sinking of the Lusitania"
+    ],
+    "correct": 1,
+    "explanation": "The assassination of Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, by Gavrilo Princip in Sarajevo on June 28, 1914, was the immediate trigger for WWI. This set off a chain of ultimatums and mobilizations due to the alliance system."
+  },
+  {
+    "id": "u39",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Molotov-Ribbentrop Pact (1939) was a non-aggression treaty between:",
+    "options": ["Germany and Italy", "Germany and Japan", "Soviet Union and Germany", "Soviet Union and Japan"],
+    "correct": 2,
+    "explanation": "The Molotov-Ribbentrop Pact, signed on August 23, 1939, was a non-aggression treaty between the Soviet Union (Foreign Minister Molotov) and Nazi Germany (Foreign Minister Ribbentrop). A secret protocol divided Eastern Europe into spheres of influence. Germany violated it by invading the USSR in June 1941."
+  },
+  {
+    "id": "u40",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Cold War term 'Iron Curtain' was popularized by which leader in a 1946 speech?",
+    "options": ["Harry Truman", "Winston Churchill", "Joseph Stalin", "George Marshall"],
+    "correct": 1,
+    "explanation": "Winston Churchill used the term 'Iron Curtain' in his famous speech at Westminster College, Fulton, Missouri, on March 5, 1946, stating that an iron curtain had descended across Europe. The speech is considered one of the opening salvos of the Cold War."
+  },
+  {
+    "id": "u41",
+    "subject": "Geography",
+    "difficulty": "easy",
+    "text": "Which is the longest river in India?",
+    "options": ["Yamuna", "Godavari", "Ganga", "Krishna"],
+    "correct": 2,
+    "explanation": "The Ganga is the longest river in India, flowing approximately 2,525 km from the Gangotri glacier in Uttarakhand to the Bay of Bengal. The Godavari (1,465 km) is the longest river in peninsular India and the second longest overall in India."
+  },
+  {
+    "id": "u42",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The Brahmaputra river is known by what name in China?",
+    "options": ["Tsangpo", "Mekong", "Salween", "Irrawaddy"],
+    "correct": 0,
+    "explanation": "The Brahmaputra originates as the Yarlung Tsangpo in Tibet (China), flowing eastward before making a spectacular U-turn around the Namcha Barwa peak and entering India through Arunachal Pradesh. It is called Jamuna in Bangladesh."
+  },
+  {
+    "id": "u43",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which passes through the Pir Panjal range in Jammu & Kashmir, connecting Jammu and Srinagar?",
+    "options": ["Zoji La Pass", "Banihal Pass", "Khardung La Pass", "Rohtang Pass"],
+    "correct": 1,
+    "explanation": "Banihal Pass (2,832 m) in the Pir Panjal range connects Jammu with the Kashmir Valley. The Jawahar Tunnel near Banihal provides an all-weather route. Zoji La connects Kashmir Valley with Ladakh, and Khardung La connects Leh with the Shyok Valley."
+  },
+  {
+    "id": "u44",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "The 'Black Cotton Soil' of India is also known as Regur soil and is most suitable for growing:",
+    "options": ["Rice and jute", "Cotton and sugarcane", "Wheat and mustard", "Tea and coffee"],
+    "correct": 1,
+    "explanation": "Regur (Black Cotton) soil, found mainly in the Deccan trap region (Maharashtra, Madhya Pradesh, Gujarat), is ideal for growing cotton due to its high moisture-retaining capacity. It is rich in lime, iron, and magnesium, but poor in nitrogen and organic matter."
+  },
+  {
+    "id": "u45",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The Indian monsoon is primarily caused by:",
+    "options": [
+      "The movement of the ITCZ northward in summer",
+      "Differential heating of land and sea creating pressure gradients",
+      "The Himalayan barrier blocking cold winds from Central Asia",
+      "The Tibetan plateau acting as a heat source in summer"
+    ],
+    "correct": 1,
+    "explanation": "The Indian monsoon is primarily driven by differential heating — the Asian landmass heats up much faster than the Indian Ocean in summer, creating a low-pressure area over the subcontinent. Moist oceanic air rushes in to fill the vacuum, bringing the southwest monsoon."
+  },
+  {
+    "id": "u46",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which Indian state receives the highest average annual rainfall?",
+    "options": ["Kerala", "Assam", "Meghalaya", "West Bengal"],
+    "correct": 2,
+    "explanation": "Meghalaya receives the highest average annual rainfall in India. Mawsynram in Meghalaya holds the world record for highest average annual rainfall (approximately 11,871 mm), surpassing even nearby Cherrapunji (Sohra). The state's topography forces intense orographic rainfall."
+  },
+  {
+    "id": "u47",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "Which strait separates India's Andaman Islands from Myanmar (Burma)?",
+    "options": ["Ten Degree Channel", "Coco Channel", "Duncan Passage", "Preparis Channel"],
+    "correct": 1,
+    "explanation": "The Coco Channel separates the Coco Islands of Myanmar from North Andaman Island. The Ten Degree Channel separates the Andaman Islands from the Nicobar Islands, while Duncan Passage separates South Andaman from Little Andaman."
+  },
+  {
+    "id": "u48",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The Chilika Lake, the largest coastal lagoon in India, is located in which state?",
+    "options": ["Andhra Pradesh", "Tamil Nadu", "Odisha", "West Bengal"],
+    "correct": 2,
+    "explanation": "Chilika Lake in Odisha is India's largest coastal lagoon and the largest wintering ground for migratory birds in the Indian subcontinent. It was the first Indian wetland to be designated a Ramsar site (1981) and is home to the Irrawaddy dolphin."
+  },
+  {
+    "id": "u49",
+    "subject": "Geography",
+    "difficulty": "easy",
+    "text": "The Deccan Plateau is bounded by which two mountain ranges on its eastern and western sides?",
+    "options": [
+      "Vindhya and Satpura ranges",
+      "Eastern Ghats and Western Ghats",
+      "Aravalli and Nilgiri ranges",
+      "Sahyadri and Cardamom Hills"
+    ],
+    "correct": 1,
+    "explanation": "The Deccan Plateau is bounded by the Western Ghats (Sahyadri) on the west and the Eastern Ghats on the east. It is a triangular-shaped plateau tilting gently eastward, which is why most peninsular rivers flow eastward into the Bay of Bengal."
+  },
+  {
+    "id": "u50",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which ocean current keeps the ports of Western Europe free of ice in winter despite high latitudes?",
+    "options": ["California Current", "North Atlantic Drift", "Labrador Current", "Canary Current"],
+    "correct": 1,
+    "explanation": "The North Atlantic Drift (an extension of the Gulf Stream) is a warm ocean current that flows northeastward from the Gulf of Mexico across the Atlantic to Western Europe. It moderates temperatures significantly, keeping ports like Oslo, Bergen, and even some Arctic Norwegian ports ice-free."
+  },
+  {
+    "id": "u51",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "The 'Roaring Forties', 'Furious Fifties', and 'Screaming Sixties' are strong westerly winds found in the Southern Hemisphere between latitudes:",
+    "options": ["20°–40° S", "40°–70° S", "30°–60° S", "50°–80° S"],
+    "correct": 1,
+    "explanation": "The Roaring Forties (40°–50°S), Furious Fifties (50°–60°S), and Screaming Sixties (60°–70°S) are strong westerly winds in the Southern Hemisphere, virtually unobstructed by landmass. They are used by sailing ships on the 'clipper route' and are associated with very strong storms."
+  },
+  {
+    "id": "u52",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The Strait of Malacca, a crucial shipping lane, connects which two bodies of water?",
+    "options": [
+      "South China Sea and Indian Ocean",
+      "Pacific Ocean and Indian Ocean",
+      "Andaman Sea and Java Sea",
+      "Bay of Bengal and South China Sea"
+    ],
+    "correct": 0,
+    "explanation": "The Strait of Malacca connects the Andaman Sea (part of the Indian Ocean) to the South China Sea (part of the Pacific Ocean). It is one of the world's most important shipping lanes, through which about a quarter of global trade passes, separating peninsular Malaysia and the island of Sumatra."
+  },
+  {
+    "id": "u53",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which of the following Indian ports is located on the eastern coast?",
+    "options": ["Kandla", "Nhava Sheva (JNPT)", "Paradip", "Mundra"],
+    "correct": 2,
+    "explanation": "Paradip Port (also called Paradwip) is located in Odisha on the eastern coast (Bay of Bengal). It is a major port for handling iron ore and thermal coal. Kandla, JNPT (Jawaharlal Nehru Port), and Mundra are all on the western coast of India."
+  },
+  {
+    "id": "u54",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "The 'Ring of Fire' in the Pacific Ocean is primarily associated with:",
+    "options": [
+      "Convergence of warm and cold ocean currents",
+      "Tectonic plate boundaries with high seismic and volcanic activity",
+      "Tropical cyclone formation zones",
+      "Presence of extensive coral reef systems"
+    ],
+    "correct": 1,
+    "explanation": "The Pacific Ring of Fire is a 40,000-km horseshoe-shaped zone around the Pacific Ocean characterized by high earthquake and volcanic activity. It sits along the boundaries of several tectonic plates and contains about 75% of the world's volcanoes and 90% of seismic activity."
+  },
+  {
+    "id": "u55",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which is the deepest lake in the world?",
+    "options": ["Lake Superior", "Caspian Sea", "Lake Baikal", "Lake Tanganyika"],
+    "correct": 2,
+    "explanation": "Lake Baikal in Siberia, Russia, is the world's deepest lake (1,642 m deep) and contains approximately 20% of the world's unfrozen surface fresh water. It is also the world's oldest freshwater lake at approximately 25 million years old."
+  },
+  {
+    "id": "u56",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The laterite soils of India are mostly found in areas with:",
+    "options": [
+      "High temperature and high rainfall with distinct dry season",
+      "High temperature and low rainfall",
+      "Low temperature and high snowfall",
+      "Moderate temperature and moderate rainfall"
+    ],
+    "correct": 0,
+    "explanation": "Laterite soils form under conditions of high temperature and heavy rainfall alternating with a dry season, through a process called laterization. Heavy leaching removes silica, leaving behind iron and aluminium oxides. They are found in parts of Kerala, Karnataka, Odisha, and northeastern states."
+  },
+  {
+    "id": "u57",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "The International Date Line roughly follows which meridian but deviates to avoid cutting through land?",
+    "options": ["0° meridian (Prime Meridian)", "90°E meridian", "180° meridian", "90°W meridian"],
+    "correct": 2,
+    "explanation": "The International Date Line roughly follows the 180° meridian (antimeridian) but deviates to avoid bisecting land areas. It zigzags through the Pacific Ocean, and crossing it going westward means advancing a calendar day, while going eastward means going back a day."
+  },
+  {
+    "id": "u58",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which of the following is a cold desert in India?",
+    "options": ["Thar Desert", "Rann of Kutch", "Ladakh", "Deccan Plateau"],
+    "correct": 2,
+    "explanation": "Ladakh is India's cold high-altitude desert. Located at elevations above 3,000 m in the rain shadow of the Himalayas and Karakoram, it receives very little precipitation (about 100 mm annually), has extreme cold temperatures, and is characterized by sparse vegetation adapted to arid alpine conditions."
+  },
+  {
+    "id": "u59",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The Narmada river is unique among Indian rivers because it flows:",
+    "options": [
+      "Northward before turning east",
+      "Westward through a rift valley",
+      "Southward to join the Tapti river",
+      "Eastward to meet the Mahanadi"
+    ],
+    "correct": 1,
+    "explanation": "The Narmada flows westward through a rift valley (tectonic graben) between the Vindhya and Satpura mountain ranges, eventually draining into the Arabian Sea via the Gulf of Khambhat. It is unusual for a major peninsular river, as most others flow eastward. It is also called 'Rewa'."
+  },
+  {
+    "id": "u60",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "The Suez Canal connecting the Red Sea to the Mediterranean Sea passes through which country?",
+    "options": ["Israel", "Jordan", "Egypt", "Libya"],
+    "correct": 2,
+    "explanation": "The Suez Canal, opened in 1869, passes entirely through Egyptian territory, connecting the Red Sea (Gulf of Suez) to the Mediterranean Sea. It is about 193 km long, eliminating the need to sail around Africa's Cape of Good Hope and reducing the Europe-Asia shipping distance by approximately 7,000 km."
+  },
+  {
+    "id": "u61",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which of the following mountain ranges runs along the northeastern states of India and acts as a boundary with Myanmar?",
+    "options": ["Patkai Hills", "Mizo Hills", "Khasi Hills", "Garo Hills"],
+    "correct": 0,
+    "explanation": "The Patkai Hills (including Naga Hills and Manipur Hills) form the boundary between India's northeastern states (Nagaland, Manipur, Mizoram) and Myanmar. The Khasi, Garo, and Jaintia hills are part of the Meghalaya Plateau, which is an eastward extension of the Peninsular Plateau."
+  },
+  {
+    "id": "u62",
+    "subject": "Geography",
+    "difficulty": "easy",
+    "text": "India's Standard Meridian (IST = UTC+5:30) passes through which city?",
+    "options": ["Mumbai", "Nagpur", "Allahabad (Prayagraj)", "Bhopal"],
+    "correct": 2,
+    "explanation": "India's Standard Meridian of 82°30'E passes through Naini near Allahabad (now Prayagraj) in Uttar Pradesh. Indian Standard Time (IST) is UTC+5:30, which means India is 5 hours and 30 minutes ahead of Greenwich Mean Time."
+  },
+  {
+    "id": "u63",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which of the following is NOT correctly matched — Biosphere Reserve: State?",
+    "options": [
+      "Nilgiri Biosphere Reserve: Tamil Nadu/Kerala/Karnataka",
+      "Sundarbans Biosphere Reserve: West Bengal",
+      "Nokrek Biosphere Reserve: Meghalaya",
+      "Dibru-Saikhowa Biosphere Reserve: Tripura"
+    ],
+    "correct": 3,
+    "explanation": "Dibru-Saikhowa Biosphere Reserve is located in Assam, not Tripura. It is known for its feral horses and riverine ecosystem along the Brahmaputra. Nokrek is in Meghalaya, Sundarbans is in West Bengal, and Nilgiri covers three states."
+  },
+  {
+    "id": "u64",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "The 'Bermuda Triangle' is an area of the Atlantic Ocean roughly bounded by Miami, Bermuda, and:",
+    "options": ["Puerto Rico", "Cuba", "Jamaica", "Bahamas"],
+    "correct": 0,
+    "explanation": "The Bermuda Triangle is an area of the North Atlantic Ocean bounded by Miami (Florida), Bermuda, and Puerto Rico. While many ships and aircraft disappearances have been attributed to mysterious causes here, most researchers attribute incidents to natural phenomena and human error."
+  },
+  {
+    "id": "u65",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The river Teesta, a tributary of the Brahmaputra, flows through which Indian states before entering Bangladesh?",
+    "options": [
+      "Sikkim and West Bengal",
+      "Assam and Meghalaya",
+      "Arunachal Pradesh and Assam",
+      "Sikkim and Assam"
+    ],
+    "correct": 0,
+    "explanation": "The Teesta river originates in Sikkim from the Tso Lhamo lake and flows through Sikkim and West Bengal before entering Bangladesh. It eventually joins the Brahmaputra (called Jamuna in Bangladesh). The Teesta water-sharing agreement between India and Bangladesh has long been a bilateral issue."
+  },
+  {
+    "id": "u66",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which volcanic island is the only active volcano in India?",
+    "options": ["Car Nicobar", "Barren Island", "Narcondam Island", "North Sentinel Island"],
+    "correct": 1,
+    "explanation": "Barren Island in the Andaman Sea is the only confirmed active volcano in India and the entire South Asian region. It last had a major eruption in 1991 and has shown activity multiple times since. Narcondam is a dormant volcanic island in the same region."
+  },
+  {
+    "id": "u67",
+    "subject": "Geography",
+    "difficulty": "hard",
+    "text": "The 'Foehn' wind is a warm, dry wind that descends the leeward side of mountains. The Indian equivalent in the Deccan is called:",
+    "options": ["Loo", "Norwesters", "Kal Baisakhi", "Anda"],
+    "correct": 0,
+    "explanation": "The 'Loo' is a hot, dry, dusty wind that blows over northern India (particularly the Indo-Gangetic plain) from the west and northwest during summer (May-June). While the Loo is more of a regional hot wind, the 'Anda' (also called 'Foehn-type' winds) refers to warm, dry winds descending the Western Ghats."
+  },
+  {
+    "id": "u68",
+    "subject": "Polity",
+    "difficulty": "easy",
+    "text": "The Constitution of India was adopted by the Constituent Assembly on:",
+    "options": ["15 August 1947", "26 January 1950", "26 November 1949", "2 October 1948"],
+    "correct": 2,
+    "explanation": "The Constitution of India was adopted by the Constituent Assembly on November 26, 1949, which is now celebrated as Constitution Day (Samvidhan Diwas). It came into force on January 26, 1950, celebrated as Republic Day."
+  },
+  {
+    "id": "u69",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "Which of the following Fundamental Rights cannot be suspended even during a National Emergency?",
+    "options": [
+      "Freedom of speech and expression",
+      "Right to constitutional remedies",
+      "Right against exploitation",
+      "Rights under Articles 20 and 21"
+    ],
+    "correct": 3,
+    "explanation": "Under Article 359, during a National Emergency, rights under Articles 20 and 21 cannot be suspended. Article 20 protects against double jeopardy and self-incrimination, while Article 21 protects life and personal liberty. The 44th Amendment (1978) made this change, unlike previously when all Fundamental Rights could be suspended."
+  },
+  {
+    "id": "u70",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The concept of 'Judicial Review' in the Indian Constitution is derived from which country's constitution?",
+    "options": ["UK", "USA", "Ireland", "Canada"],
+    "correct": 1,
+    "explanation": "The concept of Judicial Review — the power of courts to examine the constitutional validity of legislative and executive actions — was borrowed from the United States Constitution. However, in India, judicial review is more limited than in the USA, as Parliament cannot be challenged on policy matters."
+  },
+  {
+    "id": "u71",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "Which Article of the Constitution empowers the President of India to promulgate Ordinances when Parliament is not in session?",
+    "options": ["Article 72", "Article 123", "Article 143", "Article 352"],
+    "correct": 1,
+    "explanation": "Article 123 empowers the President to promulgate Ordinances during the recess of Parliament (when both Houses are not in session). An Ordinance has the same force as an Act of Parliament but must be laid before Parliament and ceases to operate 6 weeks after Parliament reassembles."
+  },
+  {
+    "id": "u72",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The Directive Principles of State Policy (DPSP) in Part IV of the Constitution are inspired by the constitution of which country?",
+    "options": ["USA", "Soviet Union", "Ireland", "Australia"],
+    "correct": 2,
+    "explanation": "The Directive Principles of State Policy were inspired by the Irish Constitution's Directive Principles of Social Policy. Dr. B.R. Ambedkar called the DPSP 'novel features' of the Constitution. They are non-justiciable (not enforceable by courts) but are fundamental to governance."
+  },
+  {
+    "id": "u73",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "In the Kesavananda Bharati v. State of Kerala (1973) case, the Supreme Court established which doctrine?",
+    "options": [
+      "Doctrine of Basic Structure",
+      "Doctrine of Implied Limitation",
+      "Doctrine of Harmonious Construction",
+      "Doctrine of Occupied Field"
+    ],
+    "correct": 0,
+    "explanation": "In the landmark Kesavananda Bharati case (1973), the Supreme Court by a 7-6 majority established the Basic Structure Doctrine — that while Parliament can amend the Constitution under Article 368, it cannot alter the 'basic structure' of the Constitution, which includes democracy, federalism, secularism, rule of law, and judicial review."
+  },
+  {
+    "id": "u74",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The Fundamental Duties were added to the Constitution by which amendment?",
+    "options": ["42nd Amendment, 1976", "44th Amendment, 1978", "52nd Amendment, 1985", "61st Amendment, 1989"],
+    "correct": 0,
+    "explanation": "The 42nd Constitutional Amendment (1976), passed during the Emergency, added Fundamental Duties (Article 51-A) to the Constitution on the recommendation of the Swaran Singh Committee. Originally 10 duties were added; an 11th duty related to providing opportunities for education to children was added by the 86th Amendment (2002)."
+  },
+  {
+    "id": "u75",
+    "subject": "Polity",
+    "difficulty": "easy",
+    "text": "Under the Indian Constitution, the power to create a new state or alter the boundaries of existing states lies with:",
+    "options": ["The President alone", "The Parliament alone", "The State Legislature alone", "Both Parliament and concerned State Legislatures"],
+    "correct": 1,
+    "explanation": "Under Article 3, Parliament has the exclusive power to form new states, alter state boundaries, change state names, or merge states. Parliament can do this even without the consent of the concerned state legislature — it only needs to 'refer' the bill to the state for its views, not obtain consent."
+  },
+  {
+    "id": "u76",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "Which of the following is NOT a condition for the imposition of President's Rule (Article 356) in a state?",
+    "options": [
+      "Failure of constitutional machinery in a state",
+      "Receipt of a report from the Governor",
+      "Approval of both Houses of Parliament within 2 months",
+      "Recommendation of the Council of Ministers"
+    ],
+    "correct": 3,
+    "explanation": "Article 356 allows the President to impose President's Rule on a state if the Governor reports that the constitutional machinery has failed. The proclamation must be approved by both Houses of Parliament within two months. The Council of Ministers' recommendation is not required — the President acts on the Governor's report (or even otherwise)."
+  },
+  {
+    "id": "u77",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The Comptroller and Auditor General (CAG) of India is appointed by the President. After retirement, to which body can a former CAG be appointed?",
+    "options": [
+      "Supreme Court",
+      "Finance Commission",
+      "Neither the Supreme Court nor the High Courts",
+      "Rajya Sabha (as a nominated member)"
+    ],
+    "correct": 2,
+    "explanation": "Article 148(4) of the Constitution expressly prohibits the CAG from holding any further office under the Union or State Government after ceasing to hold office. This prohibition ensures the CAG's independence and impartiality during tenure. The CAG cannot be appointed to any post including as a judge."
+  },
+  {
+    "id": "u78",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The concept of 'Zero Hour' in the Indian Parliament refers to:",
+    "options": [
+      "The period when the House first convenes each day",
+      "The informal device allowing members to raise urgent matters at 12 noon",
+      "The time allowed for private member bills",
+      "The question hour during which no supplementary questions are allowed"
+    ],
+    "correct": 1,
+    "explanation": "Zero Hour is an informal but important parliamentary device in India, beginning at 12 noon (hence the name), after Question Hour. Members can raise urgent matters of public importance without prior notice to the Speaker. It is unique to the Indian Parliament and is not mentioned in the Constitution or Rules of Procedure."
+  },
+  {
+    "id": "u79",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The Finance Commission is constituted under which Article of the Constitution, and how often must it be set up?",
+    "options": [
+      "Article 280; every five years or earlier",
+      "Article 266; every three years",
+      "Article 282; every five years",
+      "Article 280; every ten years"
+    ],
+    "correct": 0,
+    "explanation": "The Finance Commission is constituted under Article 280 of the Constitution. The President must constitute a Finance Commission every five years (or at such earlier time as deemed necessary). Its primary function is to recommend the distribution of tax revenues between the Union and States."
+  },
+  {
+    "id": "u80",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The 'Anti-Defection Law' in India is contained in which Schedule of the Constitution?",
+    "options": ["Ninth Schedule", "Tenth Schedule", "Eleventh Schedule", "Twelfth Schedule"],
+    "correct": 1,
+    "explanation": "The Tenth Schedule, added by the 52nd Constitutional Amendment (1985), contains the Anti-Defection Law. It disqualifies a member of Parliament or State Legislature if they voluntarily give up party membership or vote against party direction without permission. The Speaker/Chairman decides disqualification."
+  },
+  {
+    "id": "u81",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The 'Doctrine of Colourable Legislation' in Indian constitutional law means:",
+    "options": [
+      "A legislature cannot do indirectly what it cannot do directly",
+      "Laws that discriminate based on colour of skin are unconstitutional",
+      "Legislation must be coloured (highlighted) in official records",
+      "Parliament can legislate on any subject in times of emergency"
+    ],
+    "correct": 0,
+    "explanation": "The Doctrine of Colourable Legislation holds that what cannot be done directly cannot be done indirectly. A legislature cannot disguise its lack of competence by framing legislation so it appears to fall within its powers while actually trespassing on another legislature's domain. The substance, not the form, is examined."
+  },
+  {
+    "id": "u82",
+    "subject": "Polity",
+    "difficulty": "easy",
+    "text": "The Rajya Sabha is a permanent body. Which fraction of its members retire every two years?",
+    "options": ["One-half", "One-third", "One-fourth", "Two-thirds"],
+    "correct": 1,
+    "explanation": "One-third of Rajya Sabha members retire every two years. The term of each Rajya Sabha member is six years. This rotation ensures continuity of the House, which is why the Rajya Sabha is never dissolved as a whole, unlike the Lok Sabha."
+  },
+  {
+    "id": "u83",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "Under which Article of the Indian Constitution can the Supreme Court transfer any case pending before one High Court to another High Court?",
+    "options": ["Article 136", "Article 139A", "Article 141", "Article 142"],
+    "correct": 1,
+    "explanation": "Article 139A empowers the Supreme Court to transfer cases pending before a High Court to itself or to another High Court if it involves a substantial question of law as to the interpretation of the Constitution, or if the same question is pending in two or more High Courts."
+  },
+  {
+    "id": "u84",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The concept of 'separation of powers' in the Indian Constitution is based on which model?",
+    "options": [
+      "Strict American model with clear demarcations",
+      "A modified model with checks and balances but functional overlap",
+      "Westminster parliamentary model with complete fusion of powers",
+      "French model with strong executive dominance"
+    ],
+    "correct": 1,
+    "explanation": "India follows a modified version of the separation of powers — unlike the US where the three branches are strictly separated, India has functional overlaps (e.g., the executive is part of the legislature, judges are appointed by the executive). However, checks and balances are maintained through judicial review, constitutional limits on executive power, etc."
+  },
+  {
+    "id": "u85",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The UPSC (Union Public Service Commission) is described under which Articles of the Constitution?",
+    "options": ["Articles 315–323", "Articles 324–329", "Articles 308–314", "Articles 330–342"],
+    "correct": 0,
+    "explanation": "Articles 315–323 deal with the Union Public Service Commission (UPSC) and State Public Service Commissions. Article 315 provides for the establishment of these commissions, Article 316 covers appointment of members, and Article 317 deals with removal of UPSC members."
+  },
+  {
+    "id": "u86",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The 'Doctrine of Pleasure' under Article 310 of the Indian Constitution means civil servants hold office at the pleasure of the President or Governor. Which constitutional provision limits this doctrine?",
+    "options": ["Article 309", "Article 311", "Article 312", "Article 313"],
+    "correct": 1,
+    "explanation": "Article 311 provides safeguards against arbitrary dismissal, limiting the Doctrine of Pleasure. It mandates that no government servant shall be dismissed or removed by an authority subordinate to that which appointed them, and they shall have a reasonable opportunity of being heard before any penalty is imposed."
+  },
+  {
+    "id": "u87",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The 74th Constitutional Amendment Act (1992) is related to:",
+    "options": [
+      "Panchayati Raj Institutions",
+      "Urban Local Bodies",
+      "Cooperative Societies",
+      "National Judicial Commission"
+    ],
+    "correct": 1,
+    "explanation": "The 74th Constitutional Amendment Act (1992) deals with Urban Local Bodies (Municipalities). It added the 12th Schedule (listing 18 functions of municipalities) and Part IX-A to the Constitution. It is the urban counterpart of the 73rd Amendment which dealt with rural Panchayati Raj."
+  },
+  {
+    "id": "u88",
+    "subject": "Polity",
+    "difficulty": "easy",
+    "text": "Under which writ can a court direct a public authority to perform a duty it is legally bound to perform but has failed to do?",
+    "options": ["Habeas Corpus", "Mandamus", "Certiorari", "Quo Warranto"],
+    "correct": 1,
+    "explanation": "Mandamus (Latin: 'we command') is a writ issued by a higher court to a lower court, tribunal, or public authority, directing it to perform a public duty which it has failed to do. It cannot be issued against private individuals or bodies, or to enforce contractual obligations."
+  },
+  {
+    "id": "u89",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The 'Special Majority' required under Article 368 for amending most provisions of the Constitution requires:",
+    "options": [
+      "Two-thirds majority in each House separately",
+      "Two-thirds majority of members present and voting, and an absolute majority of total membership",
+      "Three-fourths majority of both Houses in a joint session",
+      "Two-thirds majority in Lok Sabha and simple majority in Rajya Sabha"
+    ],
+    "correct": 1,
+    "explanation": "Article 368 requires a special majority — a bill must be passed in each House by a majority of not less than two-thirds of the members of the House present and voting, AND a majority of the total membership of that House. This double-majority requirement ensures broad support for constitutional amendments."
+  },
+  {
+    "id": "u90",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The First Schedule of the Indian Constitution relates to:",
+    "options": [
+      "Languages recognized by the Constitution",
+      "Names of states and their territories",
+      "Oaths and affirmations",
+      "Allocation of seats in Rajya Sabha"
+    ],
+    "correct": 1,
+    "explanation": "The First Schedule of the Indian Constitution contains the names of all the States and Union Territories of India along with their territories. The Eighth Schedule lists 22 recognized languages, the Second Schedule contains salary provisions, and the Third Schedule contains forms of oaths and affirmations."
+  },
+  {
+    "id": "u91",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The National Development Council (NDC) was reconstituted as NITI Aayog in:",
+    "options": ["2013", "2014", "2015", "2016"],
+    "correct": 2,
+    "explanation": "NITI (National Institution for Transforming India) Aayog was established on January 1, 2015, replacing the Planning Commission, which was abolished in 2014. NITI Aayog functions as a policy think tank and advisory body, without the power to allocate funds as the old Planning Commission did."
+  },
+  {
+    "id": "u92",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "Under the Indian system, 'Money Bills' can be introduced only in:",
+    "options": ["Rajya Sabha", "Lok Sabha", "Either House with President's assent", "Joint Session of Parliament"],
+    "correct": 1,
+    "explanation": "Under Article 110, Money Bills can only be introduced in the Lok Sabha. The Rajya Sabha has very limited powers over Money Bills — it can only make recommendations, which the Lok Sabha may or may not accept. If the Rajya Sabha does not return a Money Bill within 14 days, it is deemed passed."
+  },
+  {
+    "id": "u93",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The 'Doctrine of Eclipse' in Indian constitutional law refers to:",
+    "options": [
+      "A fundamental right that was existing before the Constitution but is inconsistent with it becomes void only prospectively",
+      "A pre-constitutional law inconsistent with a fundamental right becomes unenforceable but is not void — it remains dormant and can be revived",
+      "A law passed during emergency ceases to operate after emergency is lifted",
+      "Constitutional amendments can eclipse ordinary laws on the same subject"
+    ],
+    "correct": 1,
+    "explanation": "The Doctrine of Eclipse holds that a pre-constitutional law that is inconsistent with a fundamental right does not become completely void — it becomes eclipsed by the fundamental right and remains dormant. If the fundamental right is later amended or removed, the law can be revived and enforced (as held in Bhikaji Narain Dhakras v. State of M.P., 1955)."
+  },
+  {
+    "id": "u94",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The election of the Vice-President of India is conducted by:",
+    "options": [
+      "An electoral college consisting of elected members of both Houses of Parliament",
+      "Members of both Houses of Parliament (elected and nominated)",
+      "Elected members of both Houses and state legislatures",
+      "Only elected members of the Lok Sabha"
+    ],
+    "correct": 1,
+    "explanation": "Under Article 66, the Vice-President is elected by an Electoral College consisting of members of both Houses of Parliament — including nominated members. This differs from the President's election, which includes elected members of Parliament and state legislative assemblies."
+  },
+  {
+    "id": "u95",
+    "subject": "Polity",
+    "difficulty": "easy",
+    "text": "Which article of the Indian Constitution prohibits traffic in human beings and forced labour?",
+    "options": ["Article 23", "Article 24", "Article 17", "Article 15"],
+    "correct": 0,
+    "explanation": "Article 23 prohibits traffic in human beings (human trafficking), begar (unpaid/forced labour), and other similar forms of forced labour. It is a Fundamental Right available to both citizens and non-citizens. Article 24 separately prohibits employment of children below 14 years in hazardous occupations."
+  },
+  {
+    "id": "u96",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The Economic Reforms of 1991 in India were initiated primarily in response to:",
+    "options": [
+      "A severe balance of payments (BoP) crisis and near-depletion of foreign exchange reserves",
+      "Excessive unemployment and poverty levels",
+      "Pressure from the World Trade Organization",
+      "Political instability following Rajiv Gandhi's assassination"
+    ],
+    "correct": 0,
+    "explanation": "India's 1991 economic reforms were triggered by a severe balance of payments crisis — foreign exchange reserves fell to less than 2 weeks of import cover. India had to pledge 67 tonnes of gold to the IMF and Bank of England as collateral for emergency loans. Dr. Manmohan Singh, as Finance Minister, initiated liberalization, privatization, and globalization (LPG) reforms."
+  },
+  {
+    "id": "u97",
+    "subject": "Economy",
+    "difficulty": "easy",
+    "text": "The Reserve Bank of India (RBI) was established in which year?",
+    "options": ["1930", "1935", "1947", "1949"],
+    "correct": 1,
+    "explanation": "The Reserve Bank of India was established on April 1, 1935, under the Reserve Bank of India Act, 1934, based on the recommendations of the Hilton Young Commission. It was nationalized on January 1, 1949, after independence."
+  },
+  {
+    "id": "u98",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The Goods and Services Tax (GST) in India was implemented on:",
+    "options": ["1 April 2017", "1 July 2017", "1 January 2018", "26 January 2017"],
+    "correct": 1,
+    "explanation": "GST was implemented in India on July 1, 2017, replacing a complex system of multiple indirect taxes (central excise, service tax, VAT, etc.). It is a destination-based tax with four main slabs: 5%, 12%, 18%, and 28%. The constitutional amendment enabling GST was the 101st Amendment (2016)."
+  },
+  {
+    "id": "u99",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The concept of 'Headline Inflation' in India is measured by:",
+    "options": [
+      "Wholesale Price Index (WPI)",
+      "Consumer Price Index — Combined (CPI-C)",
+      "Producer Price Index (PPI)",
+      "GDP Deflator"
+    ],
+    "correct": 1,
+    "explanation": "Since April 2014, the RBI has used CPI-Combined (CPI-C) as the primary measure of inflation (headline inflation) for its monetary policy framework under the Flexible Inflation Targeting (FIT) framework. CPI measures price changes at the retail consumer level across urban and rural areas."
+  },
+  {
+    "id": "u100",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) guarantees employment for how many days per year to rural households?",
+    "options": ["90 days", "100 days", "150 days", "200 days"],
+    "correct": 1,
+    "explanation": "MGNREGA, enacted in 2005, guarantees 100 days of wage employment per financial year to every rural household whose adult members volunteer to do unskilled manual work. The wages are set by state governments and must meet the minimum wage. States like Rajasthan extended it to 150 days using their own funds."
+  },
+  {
+    "id": "u101",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "NABARD (National Bank for Agriculture and Rural Development) was set up on the recommendations of which committee?",
+    "options": ["Narasimham Committee", "B. Sivaraman Committee", "Raja Chellaiah Committee", "Rangarajan Committee"],
+    "correct": 1,
+    "explanation": "NABARD was established in July 1982 on the recommendations of the B. Sivaraman Committee (Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development — CRAFICARD). It took over the agricultural credit functions from RBI and Agricultural Refinance and Development Corporation."
+  },
+  {
+    "id": "u102",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "In India's Union Budget, the term 'Fiscal Deficit' is defined as:",
+    "options": [
+      "Total expenditure minus total revenue receipts",
+      "Total expenditure minus total receipts (excluding borrowings)",
+      "Revenue expenditure minus revenue receipts",
+      "Capital expenditure minus capital receipts"
+    ],
+    "correct": 1,
+    "explanation": "Fiscal Deficit = Total Expenditure - Total Receipts (excluding borrowings and other liabilities). It indicates the total borrowing requirements of the government. A fiscal deficit means the government must borrow to meet its expenditure, which can lead to inflationary pressure and debt accumulation."
+  },
+  {
+    "id": "u103",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) scheme provides income support of how much per year to eligible farmer families?",
+    "options": ["Rs. 4,000", "Rs. 6,000", "Rs. 8,000", "Rs. 10,000"],
+    "correct": 1,
+    "explanation": "PM-KISAN, launched in February 2019, provides Rs. 6,000 per year (in three equal installments of Rs. 2,000) directly to bank accounts of eligible small and marginal farmer families. The scheme provides income support for procurement of agricultural inputs and household needs."
+  },
+  {
+    "id": "u104",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The 'Narasimham Committee I' (1991) and 'Narasimham Committee II' (1998) were primarily concerned with reforms in which sector?",
+    "options": ["Capital markets", "Insurance sector", "Banking sector", "Foreign exchange markets"],
+    "correct": 2,
+    "explanation": "Both Narasimham Committees focused on financial sector reforms, particularly the banking sector. The First Narasimham Committee (1991) recommended reducing CRR and SLR, setting up Asset Reconstruction Companies, and bank autonomy. The Second Committee (1998) focused on bank mergers, NPA reduction, and capital adequacy."
+  },
+  {
+    "id": "u105",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The term 'Base Erosion and Profit Shifting (BEPS)' is associated with actions by multinational companies to avoid:",
+    "options": ["Capital gains tax", "Corporate income tax", "Import duties", "Value Added Tax"],
+    "correct": 1,
+    "explanation": "BEPS refers to tax planning strategies used by multinational enterprises that exploit gaps in tax rules to artificially shift profits from high-tax to low-tax jurisdictions, thereby eroding the corporate income tax base of countries. The OECD/G20 BEPS project (2013 onwards) developed measures to combat this."
+  },
+  {
+    "id": "u106",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The Pradhan Mantri Awas Yojana (PMAY) – Urban aims to provide housing for all by constructing pucca houses using which technology among the following?",
+    "options": [
+      "Only conventional brick-and-mortar construction",
+      "Light House Projects using green and innovative technologies",
+      "Only prefabricated steel structures",
+      "Traditional wood and bamboo construction"
+    ],
+    "correct": 1,
+    "explanation": "PMAY-Urban's 'In-situ Slum Redevelopment' and 'Affordable Housing' components have included Light House Projects (LHPs) in six cities using innovative green construction technologies like prefab construction, monolithic concrete construction, and other modern methods. PMAY aims for 'Housing for All' by 2022."
+  },
+  {
+    "id": "u107",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "In the context of India's external sector, 'Sterilization' by the RBI refers to:",
+    "options": [
+      "Banning foreign investment in sensitive sectors",
+      "Draining excess rupee liquidity created by foreign exchange purchases through open market operations",
+      "Setting limits on current account convertibility",
+      "Prohibiting export of essential commodities"
+    ],
+    "correct": 1,
+    "explanation": "When the RBI buys foreign exchange (to prevent rupee appreciation), it injects rupees into the system, potentially causing inflation. Sterilization involves draining this excess liquidity by selling government securities (open market operations) or raising the Cash Reserve Ratio, thus neutralizing the monetary impact of forex interventions."
+  },
+  {
+    "id": "u108",
+    "subject": "Economy",
+    "difficulty": "easy",
+    "text": "Which organization publishes the 'Human Development Report' annually?",
+    "options": ["World Bank", "IMF", "UNDP", "WTO"],
+    "correct": 2,
+    "explanation": "The Human Development Report is published annually by the United Nations Development Programme (UNDP). It introduced the Human Development Index (HDI) in 1990, developed by Pakistani economist Mahbub ul Haq and Indian economist Amartya Sen, measuring development through life expectancy, education, and income."
+  },
+  {
+    "id": "u109",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "Non-Performing Assets (NPAs) in banking terminology refer to loans where repayment of principal or interest has not been made for at least how many days?",
+    "options": ["60 days", "90 days", "120 days", "180 days"],
+    "correct": 1,
+    "explanation": "An asset (loan/advance) becomes a Non-Performing Asset when it remains 'overdue' for a period of more than 90 days. Overdue means interest or installment of principal remains unpaid past the due date. NPAs are classified into Substandard, Doubtful, and Loss Assets based on the duration."
+  },
+  {
+    "id": "u110",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The 'Laffer Curve' in economics illustrates the relationship between:",
+    "options": [
+      "Price levels and unemployment rates",
+      "Tax rates and tax revenues",
+      "Money supply and inflation",
+      "Government spending and economic growth"
+    ],
+    "correct": 1,
+    "explanation": "The Laffer Curve, popularized by economist Arthur Laffer, shows that both a 0% tax rate and a 100% tax rate yield zero government revenue. At some optimal rate in between, tax revenue is maximized. The concept suggests that cutting high tax rates can actually increase total tax revenue."
+  },
+  {
+    "id": "u111",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "Which index measures the degree of income inequality within a country, ranging from 0 (perfect equality) to 1 (perfect inequality)?",
+    "options": ["Human Development Index", "Gini Coefficient", "Phillips Curve Index", "Purchasing Power Parity Index"],
+    "correct": 1,
+    "explanation": "The Gini Coefficient (or Gini Index) is a statistical measure of income distribution within a population. A value of 0 represents perfect equality (everyone has the same income), while 1 represents perfect inequality (one person has all income). It is represented graphically by the Lorenz Curve."
+  },
+  {
+    "id": "u112",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "India's first Five Year Plan (1951–56) gave highest priority to:",
+    "options": ["Heavy industries", "Agriculture and irrigation", "Infrastructure development", "Social sector and education"],
+    "correct": 1,
+    "explanation": "The First Five Year Plan (1951–56) was heavily influenced by the Harrod-Domar model and gave highest priority to agriculture, land reforms, and irrigation to address post-partition food shortages. The Bhakra Nangal dam and other irrigation projects were highlighted. The plan achieved its growth target of 3.6%."
+  },
+  {
+    "id": "u113",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The 'Marginal Standing Facility (MSF)' of the RBI allows scheduled commercial banks to borrow overnight funds against:",
+    "options": [
+      "Government securities, at a rate higher than the repo rate",
+      "Any approved financial securities at the repo rate",
+      "Gold deposits at a concessional rate",
+      "Foreign exchange at the prevailing market rate"
+    ],
+    "correct": 0,
+    "explanation": "The Marginal Standing Facility (MSF), introduced in May 2011, allows scheduled commercial banks to borrow additional amounts overnight from the RBI above the repo limit, by pledging government securities (within the SLR portfolio) as collateral. The MSF rate is 25 basis points above the repo rate, making it more expensive than the regular repo window."
+  },
+  {
+    "id": "u114",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The 'Current Account' of a country's Balance of Payments records:",
+    "options": [
+      "All foreign direct investments and portfolio investments",
+      "Trade in goods, services, income, and current transfers",
+      "Changes in official foreign exchange reserves",
+      "External borrowings by government and private sector"
+    ],
+    "correct": 1,
+    "explanation": "The Current Account of the Balance of Payments records: (1) trade in goods (merchandise trade — exports and imports), (2) trade in services (invisibles), (3) factor income (investment income, employee compensation), and (4) current transfers (remittances, grants). It excludes capital transactions."
+  },
+  {
+    "id": "u115",
+    "subject": "Economy",
+    "difficulty": "easy",
+    "text": "The 'Insolvency and Bankruptcy Code (IBC)' was enacted in India in which year?",
+    "options": ["2014", "2015", "2016", "2018"],
+    "correct": 2,
+    "explanation": "The Insolvency and Bankruptcy Code (IBC) was enacted in 2016, consolidating all laws related to insolvency and bankruptcy. It established the National Company Law Tribunal (NCLT) as the adjudicating authority and the Insolvency and Bankruptcy Board of India (IBBI) as the regulator."
+  },
+  {
+    "id": "u116",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "Which of the following is NOT a function of NABARD?",
+    "options": [
+      "Refinancing rural cooperative banks and regional rural banks",
+      "Inspecting cooperative banks and RRBs",
+      "Regulating the stock market for agricultural commodities",
+      "Promoting rural development and credit for agriculture"
+    ],
+    "correct": 2,
+    "explanation": "Regulating the stock market for agricultural commodities is NOT a function of NABARD. That function belongs to SEBI (for securities) and SEBI also regulates commodity derivatives markets after the merger with FMC (Forward Markets Commission) in 2015. NABARD's functions include refinancing, inspection of cooperative banks, and rural development."
+  },
+  {
+    "id": "u117",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The 'Monetary Transmission Mechanism' refers to the process by which:",
+    "options": [
+      "The government's fiscal deficit is monetized by the central bank",
+      "Changes in central bank policy rates affect economic variables like output and inflation",
+      "Foreign exchange transactions affect the domestic money supply",
+      "Commercial banks transmit funds between different regions of the country"
+    ],
+    "correct": 1,
+    "explanation": "The Monetary Transmission Mechanism describes how changes in the central bank's policy interest rate (like the repo rate) propagate through the financial system to affect real economic variables including output, employment, and inflation. Key channels include interest rate, credit, asset price, exchange rate, and expectations channels."
+  },
+  {
+    "id": "u118",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "PM-MUDRA Yojana was launched to provide credit to:",
+    "options": [
+      "Large industries for technology upgradation",
+      "Micro and small enterprises in non-farm sectors",
+      "Farmers for purchasing agricultural equipment",
+      "Urban poor for housing construction"
+    ],
+    "correct": 1,
+    "explanation": "PM MUDRA Yojana (Micro Units Development and Refinance Agency) was launched in April 2015 to provide loans up to Rs. 10 lakh to micro and small non-farm enterprises. MUDRA loans are classified into Shishu (up to Rs. 50,000), Kishor (Rs. 50,001–5 lakh), and Tarun (Rs. 5–10 lakh)."
+  },
+  {
+    "id": "u119",
+    "subject": "Economy",
+    "difficulty": "easy",
+    "text": "Which institution is the apex body for regulating the insurance sector in India?",
+    "options": ["SEBI", "RBI", "IRDA (IRDAI)", "PFRDA"],
+    "correct": 2,
+    "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) is the apex body regulating and developing the insurance sector in India. Established under the IRDA Act of 1999, it protects policyholders' interests and regulates both life and non-life insurance companies."
+  },
+  {
+    "id": "u120",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The 'Export Earnings Instability' problem faced by developing countries is best explained by:",
+    "options": [
+      "Their heavy reliance on primary commodity exports, which face volatile international prices",
+      "Their lack of access to international shipping routes",
+      "Protectionist tariffs imposed by developed countries",
+      "Inability to maintain stable exchange rates"
+    ],
+    "correct": 0,
+    "explanation": "Developing countries that primarily export agricultural commodities and raw materials face export earnings instability because primary commodity prices are highly volatile in international markets due to inelastic supply and demand, speculation, and weather-related disruptions. This makes economic planning difficult."
+  },
+  {
+    "id": "u121",
+    "subject": "Environment",
+    "difficulty": "easy",
+    "text": "The Kyoto Protocol (1997) required developed nations to reduce greenhouse gas emissions. It entered into force in which year?",
+    "options": ["1998", "2000", "2005", "2010"],
+    "correct": 2,
+    "explanation": "The Kyoto Protocol, adopted in 1997, entered into force on February 16, 2005, after Russia's ratification completed the requirement of 55 countries accounting for at least 55% of Annex I (developed country) emissions. The USA never ratified it."
+  },
+  {
+    "id": "u122",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "The Paris Agreement on climate change (2015) aims to limit global average temperature rise to:",
+    "options": [
+      "1°C above pre-industrial levels",
+      "1.5°C above pre-industrial levels, and well below 2°C",
+      "2°C above pre-industrial levels only",
+      "2.5°C above pre-industrial levels"
+    ],
+    "correct": 1,
+    "explanation": "The Paris Agreement, adopted in December 2015 at COP21, commits countries to holding global average temperature increases to well below 2°C above pre-industrial levels, while pursuing efforts to limit it to 1.5°C. It replaced the Kyoto Protocol's top-down approach with Nationally Determined Contributions (NDCs)."
+  },
+  {
+    "id": "u123",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "India's first Biosphere Reserve was established at:",
+    "options": ["Nilgiri", "Nanda Devi", "Great Nicobar", "Sundarban"],
+    "correct": 0,
+    "explanation": "Nilgiri Biosphere Reserve was established in 1986 as India's first biosphere reserve, covering parts of Tamil Nadu, Kerala, and Karnataka. It encompasses the Mudumalai, Wayanad, Nagarhole, and Bandipur national parks/sanctuaries. It was recognized as a UNESCO Man and Biosphere (MAB) site in 2000."
+  },
+  {
+    "id": "u124",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "The 'CITES' (Convention on International Trade in Endangered Species) classifies species into three appendices. Species in Appendix I include those that are:",
+    "options": [
+      "Not currently threatened but may become so",
+      "Threatened with extinction — trade is permitted only in exceptional circumstances",
+      "Regulated to prevent unsustainable use",
+      "Locally extinct in certain countries but common globally"
+    ],
+    "correct": 1,
+    "explanation": "CITES Appendix I includes species threatened with extinction. Commercial trade in Appendix I species is generally prohibited; trade is allowed only in exceptional circumstances (e.g., scientific research). Indian examples include the Bengal Tiger, Snow Leopard, and Asiatic Lion. Appendix II covers species not yet threatened but could become so."
+  },
+  {
+    "id": "u125",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "The 'Ramsar Convention' on Wetlands of International Importance was signed in which city?",
+    "options": ["Vienna", "Geneva", "Ramsar (Iran)", "Stockholm"],
+    "correct": 2,
+    "explanation": "The Ramsar Convention was signed in Ramsar, Iran, in 1971, and entered into force in 1975. It is an international treaty for the conservation and sustainable use of wetlands. India has over 75 Ramsar-designated wetland sites. Chilika Lake and Keoladeo National Park were India's first Ramsar sites (1981)."
+  },
+  {
+    "id": "u126",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "The 'Montreal Protocol' (1987) addresses the phase-out of substances depleting the:",
+    "options": ["Ionosphere", "Troposphere", "Ozone layer (stratosphere)", "Thermosphere"],
+    "correct": 2,
+    "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in 1987. It phases out the production and consumption of ozone-depleting substances (ODS) like chlorofluorocarbons (CFCs), halons, and HCFCs. It is considered the most successful environmental treaty, and the ozone layer is recovering."
+  },
+  {
+    "id": "u127",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "Which of the following is a 'biodiversity hotspot' in India as designated by Conservation International?",
+    "options": [
+      "Thar Desert and Indo-Gangetic Plains",
+      "Western Ghats and Sri Lanka, and Indo-Burma",
+      "Sundarbans and Rann of Kutch",
+      "Himalayan Foothills and Deccan Plateau"
+    ],
+    "correct": 1,
+    "explanation": "India has parts of four global biodiversity hotspots: the Western Ghats & Sri Lanka, the Indo-Burma hotspot (northeastern India), the Eastern Himalayas (Himalaya hotspot), and the Sundaland (extending to the Nicobar Islands). The Indo-Gangetic Plains and Thar Desert are not hotspots."
+  },
+  {
+    "id": "u128",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "The National Tiger Conservation Authority (NTCA) oversees the Project Tiger reserves in India. Project Tiger was launched in which year?",
+    "options": ["1970", "1973", "1980", "1985"],
+    "correct": 1,
+    "explanation": "Project Tiger was launched on April 1, 1973, by Prime Minister Indira Gandhi, beginning with 9 tiger reserves. It is the world's largest wildlife conservation project for a single species. The NTCA was established in 2005 under the Wildlife Protection Act. India currently has over 50 tiger reserves."
+  },
+  {
+    "id": "u129",
+    "subject": "Environment",
+    "difficulty": "easy",
+    "text": "Which gas is responsible for the 'Acid Rain' phenomenon when it combines with water in the atmosphere?",
+    "options": ["Carbon dioxide (CO₂)", "Ozone (O₃)", "Sulphur dioxide (SO₂) and Nitrogen oxides (NOₓ)", "Carbon monoxide (CO)"],
+    "correct": 2,
+    "explanation": "Acid rain is caused primarily by sulphur dioxide (SO₂) and nitrogen oxides (NOₓ) released from burning fossil fuels in power plants, vehicles, and industries. These gases react with water in the atmosphere to form sulphuric acid and nitric acid, lowering rainfall pH below 5.6."
+  },
+  {
+    "id": "u130",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "The Siberian Crane (Grus leucogeranus) is a critically endangered migratory bird that historically wintered in India at which site?",
+    "options": ["Bharatpur (Keoladeo Ghana) National Park", "Chilika Lake", "Sultanpur Bird Sanctuary", "Point Calimere"],
+    "correct": 0,
+    "explanation": "The Siberian Crane historically wintered at Keoladeo Ghana National Park (Bharatpur, Rajasthan), one of the world's most important bird sanctuaries and a UNESCO World Heritage Site. The last confirmed sighting was in 2002. The species faces extinction due to hunting along its migration route through Central Asia."
+  },
+  {
+    "id": "u131",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "The 'Nagoya Protocol' (2010) is supplementary to the Convention on Biological Diversity (CBD) and deals with:",
+    "options": [
+      "Reducing emissions from deforestation and forest degradation",
+      "Access to genetic resources and fair sharing of benefits arising from their utilization",
+      "Conservation of migratory marine species",
+      "Regulation of trade in endangered species"
+    ],
+    "correct": 1,
+    "explanation": "The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (ABS) was adopted in 2010 in Nagoya, Japan. It provides a legal framework ensuring that countries and communities that provide genetic resources receive a fair share of the benefits."
+  },
+  {
+    "id": "u132",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Eutrophication in water bodies is primarily caused by excessive accumulation of which nutrients?",
+    "options": [
+      "Iron and calcium",
+      "Nitrogen and phosphorus",
+      "Potassium and sulfur",
+      "Carbon and silicon"
+    ],
+    "correct": 1,
+    "explanation": "Eutrophication is the process by which a water body becomes enriched with dissolved nutrients (especially nitrogen and phosphorus from agricultural runoff and sewage). This triggers explosive algal blooms that deplete dissolved oxygen when decomposed, creating 'dead zones' where aquatic life cannot survive."
+  },
+  {
+    "id": "u133",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "India's Great Indian Bustard (Ardeotis nigriceps) is critically endangered. Which state has the highest population of this bird?",
+    "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"],
+    "correct": 1,
+    "explanation": "Rajasthan has the highest population of the Great Indian Bustard, with the Desert National Park near Jaisalmer being the primary habitat. The species faces threats from habitat loss, power line collisions, and human disturbance. The Supreme Court of India has ordered underground power lines in its critical habitat."
+  },
+  {
+    "id": "u134",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "The IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services) published its landmark Global Assessment Report in 2019. Its most alarming finding was:",
+    "options": [
+      "Global CO₂ levels crossed 450 ppm for the first time",
+      "Approximately one million species are threatened with extinction",
+      "All coral reefs will bleach by 2030 due to ocean acidification",
+      "Freshwater species declined by 90% since 1970"
+    ],
+    "correct": 1,
+    "explanation": "The 2019 IPBES Global Assessment Report found that approximately one million animal and plant species are currently threatened with extinction — more than at any previous time in human history. The report identified land/sea use change, direct exploitation of organisms, climate change, pollution, and invasive alien species as the five main drivers."
+  },
+  {
+    "id": "u135",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Which of the following is NOT a schedule under the Wildlife Protection Act, 1972?",
+    "options": [
+      "Schedule I — species with absolute protection",
+      "Schedule VI — protected plants",
+      "Schedule IV — fur-bearing animals banned from trade",
+      "Schedule III — agricultural pests permitted to be hunted"
+    ],
+    "correct": 3,
+    "explanation": "The Wildlife Protection Act, 1972 has no Schedule III for 'agricultural pests permitted to be hunted.' Schedule I covers animals with absolute protection (highest penalty), Schedule II covers other animals with lesser protection, Schedule III and IV list animals that can be hunted with a game license, Schedule V has vermin, and Schedule VI covers protected plants."
+  },
+  {
+    "id": "u136",
+    "subject": "Environment",
+    "difficulty": "easy",
+    "text": "Which is the largest national park in India by area?",
+    "options": ["Jim Corbett National Park", "Hemis National Park", "Sundarbans National Park", "Namdapha National Park"],
+    "correct": 1,
+    "explanation": "Hemis National Park in Ladakh is the largest national park in India, covering approximately 4,400 sq km. It is home to the Snow Leopard and is one of the few areas where Snow Leopard populations are relatively healthy. Jim Corbett (Uttarakhand) is the oldest national park in India."
+  },
+  {
+    "id": "u137",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "The 'Carbon Budget' concept in climate science refers to:",
+    "options": [
+      "A government's annual expenditure on carbon tax collection",
+      "The maximum cumulative amount of CO₂ that can be emitted to stay within a given temperature limit",
+      "Carbon credits allocated to developing countries under UNFCCC",
+      "Annual national greenhouse gas emissions inventories"
+    ],
+    "correct": 1,
+    "explanation": "The Carbon Budget is the cumulative amount of CO₂ emissions permitted over a period of time to keep within a certain temperature threshold (e.g., 1.5°C or 2°C). The IPCC estimates that to limit warming to 1.5°C, only about 300–500 gigatonnes of CO₂ can be emitted from 2020 onwards, at current emission rates giving about 8–12 years."
+  },
+  {
+    "id": "u138",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Blue Carbon refers to the carbon stored in which ecosystems?",
+    "options": [
+      "Blue-green algae mats in freshwater lakes",
+      "Coastal and marine ecosystems like mangroves, salt marshes, and seagrasses",
+      "Deep ocean geological carbon stores",
+      "Arctic permafrost and ice-covered tundra"
+    ],
+    "correct": 1,
+    "explanation": "Blue Carbon refers to the carbon captured and stored by the world's ocean and coastal ecosystems, particularly mangroves, salt marshes, and seagrasses. These ecosystems sequester carbon at rates up to 10 times greater than tropical forests, and their conservation is crucial for climate mitigation."
+  },
+  {
+    "id": "u139",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "The Indian state with the highest forest cover as a percentage of its geographical area is:",
+    "options": ["Assam", "Arunachal Pradesh", "Mizoram", "Nagaland"],
+    "correct": 2,
+    "explanation": "According to the India State of Forest Report (ISFR), Mizoram has the highest percentage of forest cover relative to its geographical area (approximately 85%). Among northeastern states, Mizoram, Arunachal Pradesh, and Meghalaya consistently rank highest. In absolute terms, Madhya Pradesh has the most forest area."
+  },
+  {
+    "id": "u140",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "The 'Biological Oxygen Demand (BOD)' is a measure of:",
+    "options": [
+      "The amount of oxygen produced by aquatic plants through photosynthesis",
+      "The amount of dissolved oxygen needed by aerobic biological organisms to break down organic material",
+      "The oxygen concentration at different depths of a water body",
+      "The oxygen released during volcanic activity on the ocean floor"
+    ],
+    "correct": 1,
+    "explanation": "Biological Oxygen Demand (BOD) measures the amount of dissolved oxygen consumed by aerobic microorganisms when decomposing organic matter in water. High BOD indicates high organic pollution (from sewage, agricultural runoff) and low water quality. A BOD of less than 3 mg/L indicates clean water; above 10 mg/L indicates heavily polluted water."
+  },
+  {
+    "id": "u141",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "India's Chandrayaan-3 mission (2023) successfully soft-landed on the Moon's South Pole. The lander was named:",
+    "options": ["Vikram", "Pragyan", "Aditya", "Shanti"],
+    "correct": 0,
+    "explanation": "Chandrayaan-3's lander was named Vikram (after ISRO's founder Dr. Vikram Sarabhai) and its rover was named Pragyan (meaning wisdom). The mission landed on August 23, 2023, making India the first country to land near the lunar South Pole. India became the 4th country to achieve a soft lunar landing."
+  },
+  {
+    "id": "u142",
+    "subject": "Science & Tech",
+    "difficulty": "easy",
+    "text": "India's first dedicated astronomy satellite, launched to study X-ray sources in the universe, is:",
+    "options": ["Astrosat", "RISAT-2", "Megha-Tropiques", "Resourcesat-2"],
+    "correct": 0,
+    "explanation": "AstroSat, launched on September 28, 2015, was India's first dedicated multi-wavelength space telescope. It observes celestial objects in ultraviolet, optical, low and high energy X-ray wavebands simultaneously. It is operated by ISRO and is India's answer to NASA's Hubble Space Telescope."
+  },
+  {
+    "id": "u143",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "India's Mars Orbiter Mission (Mangalyaan), launched in 2013, made India the first Asian country to reach Mars orbit. ISRO achieved this in its:",
+    "options": ["Second attempt", "First attempt", "Third attempt", "It had not yet reached Mars orbit"],
+    "correct": 1,
+    "explanation": "India's Mars Orbiter Mission (MOM), also known as Mangalyaan, reached Mars orbit on September 24, 2014, in its very first attempt. This made India the only country to have succeeded in its first Mars mission and the first Asian nation to reach Mars orbit. The mission cost only $74 million — the cheapest interplanetary mission ever."
+  },
+  {
+    "id": "u144",
+    "subject": "Science & Tech",
+    "difficulty": "hard",
+    "text": "DRDO's 'Agni-V' ballistic missile is significant because it is India's first:",
+    "options": [
+      "Submarine-launched ballistic missile",
+      "Intercontinental Ballistic Missile (ICBM) with a range exceeding 5,000 km",
+      "Anti-satellite (ASAT) capable missile",
+      "Hypersonic cruise missile"
+    ],
+    "correct": 1,
+    "explanation": "Agni-V is India's first Intercontinental Ballistic Missile (ICBM), with a strike range of over 5,000 km (estimated 5,500–8,000 km). First tested in April 2012, it can carry a nuclear warhead of over 1 tonne. It makes India part of an exclusive club of countries with ICBM capability."
+  },
+  {
+    "id": "u145",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "The PSLV (Polar Satellite Launch Vehicle) uses a unique combination of propulsion stages. Which combination is correct?",
+    "options": [
+      "All liquid fuel stages",
+      "Alternating solid and liquid stages — solid, liquid, solid, liquid",
+      "All solid fuel stages",
+      "Liquid, solid, liquid, solid stages"
+    ],
+    "correct": 1,
+    "explanation": "PSLV has four stages alternating between solid and liquid propulsion: Stage 1 — solid (HTPB), Stage 2 — liquid (Vikas engine, UDMH+N₂O₄), Stage 3 — solid (HTPB), Stage 4 — liquid (Earth storable). Six strap-on boosters using solid fuel assist the first stage. PSLV has a remarkable success rate and is ISRO's workhorse launch vehicle."
+  },
+  {
+    "id": "u146",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "India's first nuclear power plant was established at:",
+    "options": ["Kaiga (Karnataka)", "Rawatbhata (Rajasthan)", "Tarapur (Maharashtra)", "Kudankulam (Tamil Nadu)"],
+    "correct": 2,
+    "explanation": "Tarapur Atomic Power Station (TAPS) in Maharashtra was India's first nuclear power plant, commissioned in 1969. It was built with US assistance (General Electric) under the 1963 Indo-US nuclear cooperation agreement. India's nuclear programme is managed by the Department of Atomic Energy (DAE) and Nuclear Power Corporation of India Limited (NPCIL)."
+  },
+  {
+    "id": "u147",
+    "subject": "Science & Tech",
+    "difficulty": "hard",
+    "text": "CRISPR-Cas9 gene editing technology is significant because it:",
+    "options": [
+      "Allows researchers to insert entire chromosomes from one species to another",
+      "Enables precise cutting and editing of specific DNA sequences using guide RNA",
+      "Uses viral vectors to deliver genes without any off-target effects",
+      "Can only add genes, not delete or modify existing ones"
+    ],
+    "correct": 1,
+    "explanation": "CRISPR-Cas9 (Clustered Regularly Interspaced Short Palindromic Repeats) uses a guide RNA to direct the Cas9 protein to cut specific DNA sequences with high precision. Developed by Jennifer Doudna and Emmanuelle Charpentier (2012 Nobel Prize in Chemistry), it can edit, delete, or insert genes and has revolutionized genetics, medicine, and agriculture."
+  },
+  {
+    "id": "u148",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "Which vaccine was developed to combat the H1N1 swine influenza pandemic of 2009?",
+    "options": [
+      "BCG vaccine",
+      "Monovalent H1N1 vaccine",
+      "Pneumococcal conjugate vaccine",
+      "Rotavirus vaccine"
+    ],
+    "correct": 1,
+    "explanation": "The 2009 H1N1 influenza pandemic (caused by a novel H1N1 strain) led to rapid development of monovalent H1N1 vaccines. Since 2010, the H1N1 strain has been incorporated into the seasonal trivalent and quadrivalent influenza vaccines. In India, the National Pandemic Influenza Vaccine (NPIV) was developed by Serum Institute of India."
+  },
+  {
+    "id": "u149",
+    "subject": "Science & Tech",
+    "difficulty": "easy",
+    "text": "HIV (Human Immunodeficiency Virus) attacks which specific cells of the human immune system?",
+    "options": ["B lymphocytes (B cells)", "CD4+ T lymphocytes (T-helper cells)", "Neutrophils", "Red blood cells"],
+    "correct": 1,
+    "explanation": "HIV specifically targets CD4+ T lymphocytes (T-helper cells), which are critical coordinators of the immune response. HIV uses the CD4 receptor to enter and infect these cells, replicating inside and eventually destroying them. When CD4 count falls below 200 cells/μL, the condition is classified as AIDS."
+  },
+  {
+    "id": "u150",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "The phenomenon of 'Superconductivity' refers to:",
+    "options": [
+      "Extremely high electrical conductivity at room temperature",
+      "Zero electrical resistance and expulsion of magnetic fields below a critical temperature",
+      "Perfect optical transparency in certain materials",
+      "Maximum thermal conductivity in metallic alloys"
+    ],
+    "correct": 1,
+    "explanation": "Superconductivity is a phenomenon where certain materials exhibit exactly zero electrical resistance and expel magnetic fields (Meissner effect) below a critical temperature (Tc). Discovered by Kamerlingh Onnes in 1911, applications include MRI machines, maglev trains, and particle accelerators. High-temperature superconductors (above 77K) are a major research frontier."
+  },
+  {
+    "id": "u151",
+    "subject": "Science & Tech",
+    "difficulty": "hard",
+    "text": "India's 'Aditya-L1' mission, launched in 2023, is studying the Sun. It is positioned at the Lagrange Point L1. What is a Lagrange Point?",
+    "options": [
+      "The point of maximum solar radiation in Earth's orbit",
+      "A point in space where gravitational forces of two large bodies balance the centripetal force on a smaller object",
+      "The orbital intersection point where comets approach the Sun closest",
+      "The midpoint between Earth and Moon where gravity becomes zero"
+    ],
+    "correct": 1,
+    "explanation": "A Lagrange Point is a location in space where the combined gravitational pull of two large masses (e.g., Sun and Earth) provides exactly the centripetal force needed for a smaller object to move with them. At L1 (between Sun and Earth, ~1.5 million km from Earth), Aditya-L1 can continuously observe the Sun without eclipses."
+  },
+  {
+    "id": "u152",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "Which technology forms the backbone of Bitcoin and other cryptocurrencies?",
+    "options": ["Cloud Computing", "Blockchain (distributed ledger technology)", "Quantum Computing", "Artificial Neural Networks"],
+    "correct": 1,
+    "explanation": "Bitcoin and most cryptocurrencies are built on Blockchain technology — a decentralized, distributed ledger where transactions are recorded in 'blocks' linked cryptographically in a 'chain.' The consensus mechanism (Proof of Work for Bitcoin) prevents tampering without a central authority. The technology was introduced in Bitcoin's whitepaper by Satoshi Nakamoto in 2008."
+  },
+  {
+    "id": "u153",
+    "subject": "Science & Tech",
+    "difficulty": "easy",
+    "text": "Which organ does the hepatitis virus primarily infect?",
+    "options": ["Kidneys", "Lungs", "Liver", "Brain"],
+    "correct": 2,
+    "explanation": "Hepatitis viruses (types A, B, C, D, and E) primarily infect the liver, causing inflammation (hepatitis = 'hepar' meaning liver + 'itis' meaning inflammation). Hepatitis B and C can cause chronic infection leading to cirrhosis and liver cancer. India has a high burden of hepatitis B, with estimated 40 million carriers."
+  },
+  {
+    "id": "u154",
+    "subject": "Science & Tech",
+    "difficulty": "hard",
+    "text": "India's GAGAN (GPS Aided GEO Augmented Navigation) system is significant because:",
+    "options": [
+      "It is India's fully independent satellite navigation system replacing GPS",
+      "It augments GPS accuracy over Indian airspace for civil aviation safety",
+      "It is a military navigation system for precision-guided munitions",
+      "It provides navigation for Indian submarines using low-frequency signals"
+    ],
+    "correct": 1,
+    "explanation": "GAGAN (GPS Aided GEO Augmented Navigation) is a Satellite Based Augmentation System (SBAS) jointly developed by ISRO and Airports Authority of India (AAI). It augments GPS signals over Indian airspace to provide better accuracy (from ~15m to ~3m), availability, and integrity for civil aviation. India is the first country in the Asia-Pacific to implement SBAS."
+  },
+  {
+    "id": "u155",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "The three types of radiation emitted during radioactive decay in order of increasing penetrating power are:",
+    "options": [
+      "Beta, Alpha, Gamma",
+      "Alpha, Gamma, Beta",
+      "Alpha, Beta, Gamma",
+      "Gamma, Beta, Alpha"
+    ],
+    "correct": 2,
+    "explanation": "Alpha particles (helium nuclei, charge +2) have the least penetrating power and can be stopped by paper or skin. Beta particles (electrons/positrons) have moderate penetration, stopped by a few mm of aluminium. Gamma rays (electromagnetic radiation) have the highest penetrating power and require thick lead or concrete for shielding."
+  },
+  {
+    "id": "u156",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "The 5G wireless technology primarily offers improvements over 4G in terms of:",
+    "options": [
+      "Longer transmission distances without signal degradation",
+      "Ultra-low latency, higher data speeds, and massive device connectivity",
+      "Better voice quality for phone calls",
+      "Improved battery life for mobile devices"
+    ],
+    "correct": 1,
+    "explanation": "5G (fifth generation wireless technology) offers three key improvements: enhanced Mobile Broadband (eMBB) with speeds up to 10 Gbps, Ultra-Reliable Low Latency Communications (URLLC) with latency as low as 1ms, and Massive Machine Type Communications (mMTC) supporting millions of IoT devices per km². These enable applications like autonomous vehicles, smart cities, and telemedicine."
+  },
+  {
+    "id": "u157",
+    "subject": "Science & Tech",
+    "difficulty": "hard",
+    "text": "India's nuclear doctrine is based on 'No First Use' (NFU) policy. Which body is responsible for political control and management of India's nuclear weapons?",
+    "options": [
+      "The Ministry of Defence",
+      "The Nuclear Command Authority (NCA)",
+      "The Strategic Forces Command",
+      "The Defence Research and Development Organisation (DRDO)"
+    ],
+    "correct": 1,
+    "explanation": "India's Nuclear Command Authority (NCA) was established in 2003 and comprises a Political Council (chaired by the Prime Minister) that authorizes nuclear use, and an Executive Council (chaired by the National Security Advisor) that provides inputs and executes directives. The Strategic Forces Command (under the Integrated Defence Staff) manages the nuclear arsenal."
+  },
+  {
+    "id": "u158",
+    "subject": "Science & Tech",
+    "difficulty": "medium",
+    "text": "Nano-technology deals with materials and structures at a scale of:",
+    "options": ["1–100 micrometers", "1–100 nanometers", "1–100 picometers", "1–100 angstroms"],
+    "correct": 1,
+    "explanation": "Nanotechnology involves the manipulation of matter at the scale of 1–100 nanometers (1 nanometer = 10⁻⁹ meters, roughly the size of 10 hydrogen atoms in a row). At this scale, materials exhibit unique physical and chemical properties different from their bulk counterparts. Applications include drug delivery, electronics, energy storage, and materials science."
+  },
+  {
+    "id": "u159",
+    "subject": "Science & Tech",
+    "difficulty": "easy",
+    "text": "Which planet in our Solar System has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correct": 1,
+    "explanation": "Saturn has the most confirmed moons — as of 2023, scientists confirmed 146 moons of Saturn, surpassing Jupiter's 95 confirmed moons. Saturn's largest moon, Titan, is the second-largest moon in the Solar System and is the only moon with a dense atmosphere and liquid lakes (of methane and ethane)."
+  },
+  {
+    "id": "u160",
+    "subject": "Science & Tech",
+    "difficulty": "hard",
+    "text": "The 'Square Kilometre Array (SKA)' project, in which India is a participating nation, is:",
+    "options": [
+      "A high-resolution satellite imaging project for Earth observation",
+      "The world's largest radio telescope array that will study the early universe",
+      "A quantum computing research collaboration to build a 1-million qubit processor",
+      "A joint climate modelling project using supercomputer networks"
+    ],
+    "correct": 1,
+    "explanation": "The Square Kilometre Array (SKA) is an international project to build the world's largest radio telescope, with a total collecting area of approximately one square kilometre. Antennas will be spread across South Africa and Australia. SKA will study the formation of the first stars and galaxies, dark matter, and test Einstein's General Relativity. India is a founding member through NCRA-TIFR."
   }
 ]

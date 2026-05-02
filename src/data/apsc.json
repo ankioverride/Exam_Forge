@@ -60,7 +60,7 @@
   },
   {
     "id": "a7",
-    "subject": "History",
+    "subject": "Assam History",
     "difficulty": "medium",
     "text": "The Ahom Kingdom ruled Assam for approximately how many years before British annexation?",
     "options": ["200 years", "400 years", "600 years", "800 years"],
@@ -69,7 +69,7 @@
   },
   {
     "id": "a8",
-    "subject": "History",
+    "subject": "Assam History",
     "difficulty": "medium",
     "text": "The Battle of Saraighat (1671) was fought between the Ahom Kingdom and:",
     "options": ["British East India Company", "Mughal Empire", "Maratha Confederacy", "Burma Kingdom"],
@@ -93,5 +93,905 @@
     "options": ["Guwahati", "Jorhat", "Dispur", "Dibrugarh"],
     "correct": 2,
     "explanation": "Dispur, located within the Guwahati metropolitan area, is the capital of Assam where the Assam Legislative Assembly is situated. Guwahati is the largest city and commercial hub, but the administrative capital is Dispur."
+  },
+  {
+    "id": "a11",
+    "subject": "Assam History",
+    "difficulty": "easy",
+    "text": "In which year did Sukaphaa, the founder of the Ahom Kingdom, arrive in Assam?",
+    "options": ["1128 AD", "1228 AD", "1328 AD", "1428 AD"],
+    "correct": 1,
+    "explanation": "Sukaphaa (also spelled Sukapha) crossed the Patkai Hills from Mong Mao (present-day Yunnan, China) and entered Assam in 1228 AD. He established the Ahom Kingdom in the Brahmaputra Valley and is venerated as the first Swargadeo (king) of the Ahoms."
+  },
+  {
+    "id": "a12",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "Which was the first capital of the Ahom Kingdom, established by Sukaphaa?",
+    "options": ["Garhgaon", "Rangpur", "Charaideo", "Dikhow"],
+    "correct": 2,
+    "explanation": "Charaideo, near present-day Sibsagar, was the first capital of the Ahom Kingdom established by Sukaphaa around 1253 AD. It is also the site of the royal maidams (burial mounds) of the Ahom kings and is now a UNESCO World Heritage Site."
+  },
+  {
+    "id": "a13",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "The Treaty of Yandabo (1826), which brought Assam under British control, was signed between the British East India Company and:",
+    "options": ["Ahom Kingdom", "Kingdom of Burma (Konbaung Dynasty)", "Mughal Empire", "Koch Kingdom"],
+    "correct": 1,
+    "explanation": "The Treaty of Yandabo was signed on 24 February 1826 between the British East India Company and the Kingdom of Burma (Konbaung Dynasty), ending the First Anglo-Burmese War. Under this treaty, Burma ceded Assam, Arakan, and Tenasserim to the British."
+  },
+  {
+    "id": "a14",
+    "subject": "Assam History",
+    "difficulty": "hard",
+    "text": "Lachit Borphukan held which position in the Ahom administrative system?",
+    "options": ["Borphukan (viceroy of western Assam)", "Burhagohain (prime minister)", "Borgohain (chief of eastern territory)", "Phukan (district administrator)"],
+    "correct": 0,
+    "explanation": "Borphukan was the title of the Ahom viceroy who administered the western territories of the Ahom Kingdom, with headquarters at Guwahati. Lachit Borphukan held this post and led the famous naval victory against the Mughals at the Battle of Saraighat in 1671."
+  },
+  {
+    "id": "a15",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "The Moamoriya Rebellion (1769–1805) was a revolt by which community against Ahom royal authority?",
+    "options": ["Bodo community", "Moran and Matak Vaishnavas (Moamoriya sect)", "Koch Rajbongshi community", "Chutia community"],
+    "correct": 1,
+    "explanation": "The Moamoriya Rebellion was led by the Moamoriya (Moran) Vaishnavas who followed the Mayamara Satra. It was a series of civil wars that severely weakened the Ahom kingdom and contributed to the subsequent Burmese invasions (1817–1826) that devastated Assam."
+  },
+  {
+    "id": "a16",
+    "subject": "Assam History",
+    "difficulty": "hard",
+    "text": "Which Mughal governor led the large-scale offensive against the Ahoms that ultimately resulted in the Battle of Saraighat?",
+    "options": ["Mir Jumla II", "Ram Singh I", "Aurangzeb", "Shaista Khan"],
+    "correct": 0,
+    "explanation": "Mir Jumla II (Mir Muhammad Said Mir Jumla) invaded Assam in 1661–62 and captured Garhgaon temporarily, though the Ahoms recovered after his death. His campaign weakened the Ahoms but also exposed Mughal vulnerabilities; the subsequent offensive under Ram Singh I led to the Battle of Saraighat in 1671."
+  },
+  {
+    "id": "a17",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "Garhgaon served as the capital of the Ahom Kingdom during which period (approximately)?",
+    "options": ["1253–1400 AD", "1400–1540 AD", "1540–1681 AD", "1681–1788 AD"],
+    "correct": 2,
+    "explanation": "Garhgaon (Garh Gaon) in present-day Sibsagar district served as the Ahom capital from approximately 1540 to 1681 AD, during a long stretch of Ahom expansion and consolidation. After 1681 the capital shifted to Rangpur (modern Sibsagar town)."
+  },
+  {
+    "id": "a18",
+    "subject": "Assam History",
+    "difficulty": "easy",
+    "text": "The Koch Kingdom, a powerful medieval state in Assam and Bengal, was founded in the 16th century by:",
+    "options": ["Biswa Singha", "Nara Narayana", "Chilarai", "Bali Narayan"],
+    "correct": 0,
+    "explanation": "Biswa Singha founded the Koch Kingdom around 1515 AD. His son Nara Narayana (with his brother Chilarai as military commander) brought the Koch Kingdom to its greatest extent, controlling large parts of present-day Assam, West Bengal, and Bangladesh."
+  },
+  {
+    "id": "a19",
+    "subject": "Assam History",
+    "difficulty": "hard",
+    "text": "The Chutia Kingdom, which the Ahoms eventually absorbed, had its capital at:",
+    "options": ["Sadiya", "Tezpur", "Dimapur", "Sibsagar"],
+    "correct": 0,
+    "explanation": "The Chutia Kingdom had its capital at Sadiya in present-day Tinsukia district. The Chutias controlled the upper Brahmaputra region before the Ahoms expanded eastward and finally annexed their territory in the 16th century."
+  },
+  {
+    "id": "a20",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "During the British colonial period, which famous social reformer led movements against child marriage and sati in Assam?",
+    "options": ["Anandaram Dhekial Phukan", "Hemchandra Barua", "Gunabhiram Barua", "Lakshminath Bezbaroa"],
+    "correct": 2,
+    "explanation": "Gunabhiram Barua (1837–1894) was a pioneering social reformer in Assam who campaigned vigorously against child marriage, sati, and for widow remarriage. He wrote 'Ram Navami' and founded the Assam Bandhu newspaper, making him one of the earliest Assamese social reformers of the colonial era."
+  },
+  {
+    "id": "a21",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "The Assam Accord of 1985 was signed between the Government of India and:",
+    "options": ["All Assam Students Union (AASU) and All Assam Gana Sangram Parishad (AAGSP)", "Bodo Liberation Front and Government of Assam", "United Liberation Front of Assam (ULFA) and Union Government", "All Party Hill Leaders Conference (APHLC)"],
+    "correct": 0,
+    "explanation": "The Assam Accord was signed on 15 August 1985 between the Government of India and the AASU and AAGSP, ending the six-year Assam Agitation (1979–1985) against illegal immigration. Clause 6 of the accord provides special provisions for protecting the constitutional, legislative, and cultural rights of Assamese people."
+  },
+  {
+    "id": "a22",
+    "subject": "Assam History",
+    "difficulty": "hard",
+    "text": "The Dimasa Kingdom (Dimasapur), which was a predecessor state of the Kachari Kingdom, had its capital at which modern-day city in Nagaland?",
+    "options": ["Kohima", "Dimapur", "Mokokchung", "Wokha"],
+    "correct": 1,
+    "explanation": "Dimapur (meaning 'Dimasa capital' in Assamese) in present-day Nagaland was the capital of the Dimasa (Kachari) Kingdom before it was sacked by the Ahoms in 1536. The Kachari kings then moved their capital southward to Maibong and later to Khaspur near Silchar."
+  },
+  {
+    "id": "a23",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "Which battle is popularly called the '7th Battle of Saraighat' or the decisive naval encounter where Lachit Borphukan, despite being ill, led from his boat?",
+    "options": ["The battle at Alaboi (1669)", "The Battle of Saraighat (1671)", "The battle at Itakhuli (1682)", "The battle at Guwahati (1667)"],
+    "correct": 1,
+    "explanation": "The Battle of Saraighat in 1671 is the famous encounter where a gravely ill Lachit Borphukan is said to have boarded his boat to personally lead the Ahom fleet, declaring he would not rest while the enemy was at the gates. His inspiring leadership turned the tide against the larger Mughal force under Ram Singh I."
+  },
+  {
+    "id": "a24",
+    "subject": "Assam History",
+    "difficulty": "easy",
+    "text": "On which date is 'Lachit Divas' celebrated in Assam to commemorate the birth anniversary of Lachit Borphukan?",
+    "options": ["November 24", "December 1", "January 22", "March 15"],
+    "correct": 0,
+    "explanation": "Lachit Divas is observed on 24 November each year, marking the birth anniversary of Lachit Borphukan (1622–1672). The day is celebrated with great patriotic fervor in Assam, and the Lachit Borphukan gold medal is awarded to the best cadet graduating from the National Defence Academy."
+  },
+  {
+    "id": "a25",
+    "subject": "Assam History",
+    "difficulty": "hard",
+    "text": "Which Ahom king's reign is associated with the construction of the Rang Ghar (the royal amphitheatre) in Sibsagar?",
+    "options": ["Swargadeo Siba Singha", "Swargadeo Rudra Singha (Sukhrungphaa)", "Swargadeo Rajeswar Singha", "Swargadeo Pramatta Singha"],
+    "correct": 1,
+    "explanation": "Rang Ghar was built by Swargadeo Rudra Singha (Sukhrungphaa) in the early 18th century (c. 1746 AD under later completion) as a royal sports pavilion for watching elephant fights and other games. It is one of the earliest surviving amphitheatres in Asia and a protected monument."
+  },
+  {
+    "id": "a26",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "The Burmese invasions of Assam (Manmaria period) took place during which years?",
+    "options": ["1769–1800", "1817–1826", "1800–1815", "1826–1838"],
+    "correct": 1,
+    "explanation": "Burma (Ava Kingdom) invaded Assam three times between 1817 and 1826, a period remembered in Assamese history as 'Manmaria' (Burmese era). The invasions caused widespread devastation and depopulation, and ultimately led to the British intervention and the First Anglo-Burmese War culminating in the Treaty of Yandabo."
+  },
+  {
+    "id": "a27",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "Maniram Dewan, the first Indian tea planter in Assam, was executed by the British for his role in which uprising?",
+    "options": ["Phulaguri Dhawa (1861)", "Revolt of 1857", "Peasant uprising of 1894", "Non-Cooperation Movement (1920–22)"],
+    "correct": 1,
+    "explanation": "Maniram Dewan (Maniram Barua) participated in the Revolt of 1857 by conspiring with Kandarpeswar Singha to restore the Ahom throne. He was arrested, tried, and hanged at Jorhat on 26 February 1858, becoming one of Assam's earliest martyrs in the struggle against British rule."
+  },
+  {
+    "id": "a28",
+    "subject": "Assam History",
+    "difficulty": "hard",
+    "text": "Which Assamese literary figure wrote 'Hastir-Bividha Gunaguna', considered one of the earliest known prose texts in the Assamese language?",
+    "options": ["Hema Saraswati", "Madhava Kandali", "Sukumar Barkaith (under Ahom patronage)", "Harihar Vipra"],
+    "correct": 2,
+    "explanation": "Hastir-Bividha Gunaguna (a treatise on elephants) is attributed to the Ahom court and is among the earliest extant Assamese prose texts. Madhava Kandali (14th century), however, is most famous for his verse translation of the Ramayana into Assamese — the first such translation in any Indian vernacular language."
+  },
+  {
+    "id": "a29",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "The Phulaguri Dhawa (Phulaguri Uprising) of 1861 is significant because it was directed against:",
+    "options": ["Forced labour (begar) policy of the British", "The British imposition of tax on madak (poppy) cultivation", "Tea plantation labour laws", "The partition of Assam in 1874"],
+    "correct": 1,
+    "explanation": "The Phulaguri Uprising of 1861 in Nowgong district was one of the earliest peasant revolts against British rule in Assam. The peasants, mostly cultivators who grew madak (a variety of poppy used in local medicine), rose against the British ban and taxation on poppy cultivation, resulting in the death of a British officer."
+  },
+  {
+    "id": "a30",
+    "subject": "Assam History",
+    "difficulty": "medium",
+    "text": "In which year was Assam separated from Bengal Presidency to form a separate Chief Commissioner's Province?",
+    "options": ["1826", "1857", "1874", "1905"],
+    "correct": 2,
+    "explanation": "Assam was separated from Bengal Presidency in 1874 and made a separate Chief Commissioner's Province. This administrative reorganization was primarily driven by the need to manage the rapidly expanding tea industry and the diverse ethnic groups of the northeastern region."
+  },
+  {
+    "id": "a31",
+    "subject": "Assam History",
+    "difficulty": "hard",
+    "text": "The Assam Rifles, one of India's oldest paramilitary forces, was originally raised in 1835 under which name?",
+    "options": ["Frontier Police", "Cachar Levy", "Cuttack Legion", "Naga Hills Frontier Police"],
+    "correct": 0,
+    "explanation": "The Assam Rifles traces its origin to 1835 when it was raised as the Cachar Levy and then reorganized as the Frontier Police. Headquartered at Shillong, it is the oldest paramilitary force in India and is popularly known as 'Sentinels of the Northeast' and 'Friends of the Hill People'."
+  },
+  {
+    "id": "a32",
+    "subject": "Assam Geography",
+    "difficulty": "easy",
+    "text": "The Brahmaputra River enters India from which country/region?",
+    "options": ["Nepal", "Bhutan", "Tibet (China)", "Bangladesh"],
+    "correct": 2,
+    "explanation": "The Brahmaputra originates as the Yarlung Tsangpo in Tibet (China), near Mount Kailash. It enters India through Arunachal Pradesh after cutting through the Himalayas near Namcha Barwa, then flows westward through Assam before entering Bangladesh where it is called the Jamuna."
+  },
+  {
+    "id": "a33",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "The Subansiri River, a major tributary of the Brahmaputra, originates in:",
+    "options": ["Bhutan", "Tibet (China)", "Meghalaya hills", "Nagaland"],
+    "correct": 1,
+    "explanation": "The Subansiri River originates in the Tibetan plateau (China) and flows southward through Arunachal Pradesh before joining the Brahmaputra in Assam. It is one of the largest tributaries of the Brahmaputra by discharge and is often called 'Gold River' due to gold deposits in its sands."
+  },
+  {
+    "id": "a34",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "Majuli, the world's largest river island, is formed by which rivers?",
+    "options": ["Brahmaputra and Subansiri", "Brahmaputra and Lohit", "Brahmaputra and Kherkutia Xuti (a subsidiary channel)", "Brahmaputra and Barak"],
+    "correct": 2,
+    "explanation": "Majuli Island is formed between the main Brahmaputra river and its subsidiary channel Kherkutia Xuti (Lohit) to the south and east. Located in Jorhat district, Majuli was declared a district in 2016 and has been nominated for UNESCO World Heritage status due to its cultural significance and the Sattra monasteries."
+  },
+  {
+    "id": "a35",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "The Barak Valley in southern Assam drains into which river system?",
+    "options": ["Brahmaputra River system", "Irrawaddy River system", "Barak-Surma-Meghna River system", "Mahanadi River system"],
+    "correct": 2,
+    "explanation": "The Barak Valley is drained by the Barak River, which flows from Manipur through the Cachar hills of Assam, then divides at Bhanga into the Surma and Kushiyara rivers in Bangladesh, ultimately joining the Meghna. The Barak Valley is distinct geographically and culturally from the Brahmaputra Valley."
+  },
+  {
+    "id": "a36",
+    "subject": "Assam Geography",
+    "difficulty": "easy",
+    "text": "Assam shares its longest international boundary with which neighboring country?",
+    "options": ["China", "Bangladesh", "Bhutan", "Myanmar"],
+    "correct": 2,
+    "explanation": "Assam shares a long border with Bhutan to the north (approximately 263 km), making it the longest international boundary for the state. Assam also borders Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, Meghalaya, and West Bengal among Indian states."
+  },
+  {
+    "id": "a37",
+    "subject": "Assam Geography",
+    "difficulty": "hard",
+    "text": "The Kopili River, a tributary of the Brahmaputra, flows through which districts before its confluence?",
+    "options": ["Karbi Anglong and Nagaon", "Sonitpur and Lakhimpur", "Dhubri and Bongaigaon", "Cachar and Hailakandi"],
+    "correct": 0,
+    "explanation": "The Kopili River originates in the Meghalaya hills, enters Assam, and flows through Karbi Anglong and Nagaon districts before joining the Brahmaputra near Jakhalabandha in Nagaon. The Kopili Hydroelectric Project (KHEP) on this river is a major power source for Assam and Meghalaya."
+  },
+  {
+    "id": "a38",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "Digboi, famous for Asia's oldest oil refinery, is located in which district of Assam?",
+    "options": ["Jorhat", "Dibrugarh", "Sibsagar", "Tinsukia"],
+    "correct": 3,
+    "explanation": "Digboi is located in Tinsukia district of Assam. The Digboi Refinery, commissioned in 1901 by Assam Oil Company, is the oldest continuously operating oil refinery in Asia. The area's oil fields are operated by OIL (Oil India Limited) and Indian Oil Corporation."
+  },
+  {
+    "id": "a39",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "The Jia Bharali (Kameng) River, before entering Assam, flows through which state?",
+    "options": ["Meghalaya", "Nagaland", "Arunachal Pradesh", "Bhutan"],
+    "correct": 2,
+    "explanation": "The Jia Bharali River is called the Kameng in Arunachal Pradesh, where it originates in the mountains near the China border. It flows through the Pakke Tiger Reserve in Arunachal Pradesh before entering Assam's Sonitpur district, where it joins the Brahmaputra."
+  },
+  {
+    "id": "a40",
+    "subject": "Assam Geography",
+    "difficulty": "easy",
+    "text": "Assam is classified in which seismic zone (as per BIS IS 1893)?",
+    "options": ["Zone II (Low Damage Risk)", "Zone III (Moderate Damage Risk)", "Zone IV (High Damage Risk)", "Zone V (Very High Damage Risk)"],
+    "correct": 3,
+    "explanation": "Most of Assam falls under Seismic Zone V — the highest risk zone in India — making it extremely earthquake-prone. The 1950 Assam earthquake (magnitude 8.6) was one of the largest recorded earthquakes in history and is evidence of the region's intense tectonic activity where the Indian Plate collides with the Eurasian Plate."
+  },
+  {
+    "id": "a41",
+    "subject": "Assam Geography",
+    "difficulty": "hard",
+    "text": "Which coalfield in Assam is considered part of the Tertiary coal belt of northeastern India?",
+    "options": ["Jharia", "Makum (Margherita-Ledo) coalfield", "Talcher", "Singareni"],
+    "correct": 1,
+    "explanation": "The Makum coalfield (Margherita-Ledo area in Tinsukia district) is part of the northeastern Tertiary coal belt and contains some of India's best quality coking coal. Ledo coal was historically used for the famous Ledo Road (Stilwell Road) construction during World War II."
+  },
+  {
+    "id": "a42",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "Char lands (river islands) in Assam are primarily associated with which river?",
+    "options": ["Barak River", "Kopili River", "Brahmaputra River", "Subansiri River"],
+    "correct": 2,
+    "explanation": "Char lands are low-lying sandbars and river islands that form and disappear due to the dynamic course of the Brahmaputra. These temporary alluvial formations house a significant population, often facing repeated displacement due to floods and erosion. Dhubri and Barpeta districts have large char populations."
+  },
+  {
+    "id": "a43",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "The Numaligarh Refinery, a major petroleum refinery in Assam, is located in which district?",
+    "options": ["Sibsagar", "Jorhat", "Golaghat", "Lakhimpur"],
+    "correct": 2,
+    "explanation": "Numaligarh Refinery Limited (NRL) is located at Numaligarh in Golaghat district of Assam. It was set up as part of the Assam Accord commitments to develop the region and has a processing capacity of 3 MMTPA. It is connected to Paradip Port via the longest LPG pipeline in India."
+  },
+  {
+    "id": "a44",
+    "subject": "Assam Geography",
+    "difficulty": "easy",
+    "text": "Which city is known as the 'Gateway to Northeast India'?",
+    "options": ["Jorhat", "Dibrugarh", "Guwahati", "Silchar"],
+    "correct": 2,
+    "explanation": "Guwahati is called the 'Gateway to Northeast India' as it is the region's largest city and the primary transport hub — rail, road, air, and river — connecting the eight northeastern states. It houses the high court of Assam and many central government offices for the region."
+  },
+  {
+    "id": "a45",
+    "subject": "Assam Geography",
+    "difficulty": "hard",
+    "text": "Loktak Lake and Wular Lake are famous lakes in India. Which is the most significant natural lake entirely within Assam?",
+    "options": ["Chandubi Lake", "Son Beel (Sonbil)", "Dipor Bil", "Haflong Lake"],
+    "correct": 2,
+    "explanation": "Deepor Beel (Dipor Bil) near Guwahati is the only Ramsar Wetland site in Assam and the largest wetland in the Brahmaputra valley. It is a permanent freshwater lake that serves as an important bird sanctuary (IBA) and is home to over 200 species of birds, as well as elephants from the nearby Rani forest."
+  },
+  {
+    "id": "a46",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "The Dhansiri River is a tributary of the Brahmaputra that flows through which two states?",
+    "options": ["Arunachal Pradesh and Assam", "Nagaland and Assam", "Manipur and Assam", "Meghalaya and Assam"],
+    "correct": 1,
+    "explanation": "The Dhansiri River originates in the Naga Hills of Nagaland and flows northwestward through Karbi Anglong before joining the Brahmaputra at Golaghat. The Doyang River in Nagaland is one of its important tributaries. There are actually two Dhansiri rivers — the Dhansiri (North) and Dhansiri (South) — both joining the Brahmaputra in Assam."
+  },
+  {
+    "id": "a47",
+    "subject": "Assam Geography",
+    "difficulty": "easy",
+    "text": "Sualkuchi, known as the 'Manchester of Assam', is famous for producing which textile?",
+    "options": ["Cotton fabric", "Jute goods", "Silk fabric (Muga and Pat)", "Woolen shawls"],
+    "correct": 2,
+    "explanation": "Sualkuchi, located on the north bank of the Brahmaputra in Kamrup district, is the silk-weaving capital of Assam and earns the title 'Manchester of Assam' (or 'Manchester of the East'). It produces Muga (golden silk), Pat (mulberry silk), and Eri silk fabrics that are renowned worldwide."
+  },
+  {
+    "id": "a48",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "The Lohit River, which forms part of the boundary between India and China, originates in:",
+    "options": ["Bhutan", "Nagaland hills", "Tibet (China)", "Arunachal Pradesh"],
+    "correct": 2,
+    "explanation": "The Lohit (called Zayul Chu in Tibet) originates in the Tibetan plateau near Rima and forms part of the India-China boundary along the McMahon Line before entering Arunachal Pradesh. It joins the Brahmaputra at Sadiya in Assam, and the Brahmaputra downstream from this confluence is sometimes called the Lohit."
+  },
+  {
+    "id": "a49",
+    "subject": "Assam Geography",
+    "difficulty": "medium",
+    "text": "Upper Assam tea gardens are primarily concentrated in which district group?",
+    "options": ["Kamrup, Barpeta, Dhubri", "Dibrugarh, Tinsukia, Sibsagar", "Sonitpur, Biswanath, Udalguri", "Cachar, Hailakandi, Karimganj"],
+    "correct": 1,
+    "explanation": "Upper Assam — particularly the districts of Dibrugarh, Tinsukia, and Sibsagar (Charaideo) — constitutes the heartland of Assam tea cultivation. The region's climate, rainfall, and soil make it ideal for producing the strong, full-bodied Assam Orthodox and CTC teas that are famous worldwide."
+  },
+  {
+    "id": "a50",
+    "subject": "Assam Geography",
+    "difficulty": "hard",
+    "text": "How many districts does Assam currently have (as of 2024)?",
+    "options": ["27 districts", "33 districts", "35 districts", "30 districts"],
+    "correct": 1,
+    "explanation": "Assam currently has 35 districts following the creation of new districts including Bajali (2021) and others in recent years. However, at the time of many competitive exams, the count cited is 33 — which was the number prior to the 2021 reorganization. The current official number is 35 districts."
+  },
+  {
+    "id": "a51",
+    "subject": "Art & Culture",
+    "difficulty": "easy",
+    "text": "Rongali Bihu, the spring festival of Assam, is celebrated to mark the beginning of which agricultural activity?",
+    "options": ["Rice harvest", "Tea plucking season", "Assamese New Year and onset of the sowing season", "Mustard harvesting"],
+    "correct": 2,
+    "explanation": "Rongali Bihu (also known as Bohag Bihu) is celebrated in mid-April to mark the Assamese New Year and the beginning of the agricultural sowing season. It coincides with Vaisakh (the first month of the Assamese calendar) and is the most joyous of the three Bihus, celebrated with music, dance, and feasting."
+  },
+  {
+    "id": "a52",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "Kongali Bihu, the 'festival of the empty granaries,' is observed in which Assamese month?",
+    "options": ["Bohag (April)", "Kati (October)", "Magh (January)", "Phagun (February-March)"],
+    "correct": 1,
+    "explanation": "Kongali (Kati) Bihu is observed in mid-October during the Assamese month of Kati (Kartik). 'Kongali' means 'poor' or 'empty' — a time when granaries are depleted before the harvest. Earthen lamps (saki) are lit on the evening of this Bihu near the tulsi plant and paddy fields."
+  },
+  {
+    "id": "a53",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "The Ankiya Naat, a one-act play form developed by Srimanta Sankardeva, was meant to be performed where?",
+    "options": ["Royal courts (Rajmahal)", "Open-air village theatres (Namaghars)", "Namghar and Sattras (Vaishnavite monasteries)", "Public market festivals (Jonbeel Mela)"],
+    "correct": 2,
+    "explanation": "Ankiya Naat (one-act plays) was a theatrical form devised by Srimanta Sankardeva as a vehicle for spreading Neo-Vaishnavism. They were performed inside the prayer halls (Namghars and Sattra premises), using music, dance, and drama based on puranic themes. Bhaona is the performance event at which Ankiya Naat is staged."
+  },
+  {
+    "id": "a54",
+    "subject": "Art & Culture",
+    "difficulty": "easy",
+    "text": "Muga silk, produced exclusively in Assam, is distinguished by which unique characteristic?",
+    "options": ["It is artificially dyed golden", "It is the world's only naturally golden-yellow silk", "It comes from mulberry silkworms", "It is the strongest natural fiber in the world"],
+    "correct": 1,
+    "explanation": "Muga silk is produced by the Antheraea assamensis silkworm, which feeds primarily on som (Machilus bombycina) and soalu trees. It is the only naturally golden-yellow silk in the world and has a GI (Geographical Indication) tag. The luster of Muga silk increases with each wash, unlike other silks."
+  },
+  {
+    "id": "a55",
+    "subject": "Art & Culture",
+    "difficulty": "hard",
+    "text": "Borgeet, the devotional songs composed by Srimanta Sankardeva and Madhavdeva, are set in which musical framework?",
+    "options": ["Carnatic ragas only", "Hindustani ragas only", "Classical ragas adapted within the Sattriya tradition", "Tribal folk tunes exclusive to the Sattra tradition"],
+    "correct": 2,
+    "explanation": "Borgeets are devotional compositions set in classical Indian ragas (such as Bhairavi, Purabi, and Kedara) adapted within the Sattriya tradition. They are accompanied by the khol (drum) and taal (cymbals). Sankardeva composed 240 Borgeets while Madhavdeva composed 192 Naam, and these remain integral to daily Sattra worship."
+  },
+  {
+    "id": "a56",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "The Kamakhya Temple, one of the most important Shakti Peethas, is located on which hill in Guwahati?",
+    "options": ["Chunsali Hill", "Nilachal Hill", "Sarumotoria Hill", "Nabagraha Hill"],
+    "correct": 1,
+    "explanation": "The Kamakhya Temple is situated on Nilachal Hill (also written as Neelachal Hill) in western Guwahati. It is dedicated to the goddess Kamakhya, representing the womb of the goddess Sati. The Ambubachi Mela held annually during June-July celebrates the goddess's menstrual cycle and draws thousands of pilgrims and tantriks."
+  },
+  {
+    "id": "a57",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "The Jonbeel Mela, a famous fair in Assam where barter trade is still practiced, is held near which town?",
+    "options": ["Tezpur", "Jagiroad (Morigaon district)", "Hajo", "Barpeta"],
+    "correct": 1,
+    "explanation": "Jonbeel Mela is held at Jagiroad in Morigaon district during January (Magh month). It is one of the rare surviving examples of a traditional barter economy where different tribal communities like the Tiwa (Lalung), Karbi, and Rabha exchange goods without using currency. The mela is presided over by the Tiwa king."
+  },
+  {
+    "id": "a58",
+    "subject": "Art & Culture",
+    "difficulty": "easy",
+    "text": "The Namahar/Namghar, central to the Neo-Vaishnavite tradition in Assam, serves as:",
+    "options": ["A royal palace", "A community prayer hall and social institution", "A type of Buddhist monastery", "A government-run granary"],
+    "correct": 1,
+    "explanation": "The Namghar (or Namahar) is a community prayer hall central to Assamese village life, introduced by Srimanta Sankardeva. It serves not only as a place of worship (for reciting the Naam and Kirtan) but also as a community center where village matters are discussed — functioning as a social institution that transcends caste."
+  },
+  {
+    "id": "a59",
+    "subject": "Art & Culture",
+    "difficulty": "hard",
+    "text": "The Hemkosh, the first comprehensive Assamese dictionary, was compiled by:",
+    "options": ["Hemchandra Barua", "Anandaram Dhekial Phukan", "Lakshminath Bezbaroa", "Nilmoni Phukan"],
+    "correct": 0,
+    "explanation": "Hemchandra Barua (1835–1896) compiled the Hemkosh — the first comprehensive Assamese-to-Assamese dictionary — published posthumously in 1900. He also wrote 'Asamiya Lorar Byakaran' (Assamese grammar) and the satirical drama 'Kaniyar Kirtan,' making him one of the most important figures of modern Assamese literature."
+  },
+  {
+    "id": "a60",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "Ali-Ai-Ligang is the spring festival of which tribal community in Assam?",
+    "options": ["Bodo community", "Karbi community", "Mising (Mishing) community", "Rabha community"],
+    "correct": 2,
+    "explanation": "Ali-Ai-Ligang is celebrated by the Mising (Mishing) tribe of Assam, primarily in Dhemaji and Lakhimpur districts. 'Ali' means roots/seeds, 'Ai' means fruits/flowers, and 'Ligang' means sowing. It marks the beginning of the paddy-sowing season and is celebrated with Po:Ro Poi dance, rice beer (Apong), and traditional music."
+  },
+  {
+    "id": "a61",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "The Sattra (Vaishnava monastery) tradition in Assam was founded by Srimanta Sankardeva in the 15th century. Which Sattra is located on Majuli island and is the largest?",
+    "options": ["Auniati Sattra", "Dakhinpat Sattra", "Kamalabari Sattra", "Garamur Sattra"],
+    "correct": 0,
+    "explanation": "Auniati Sattra (also spelled Auniati Satra), founded in 1663, is the largest and most prominent Sattra on Majuli island. It follows the Purusha school of Neo-Vaishnavism and is known for its collection of ancient Ahom-era artifacts, ornaments, jewelry, and manuscripts. Majuli has about 22 functional Sattras."
+  },
+  {
+    "id": "a62",
+    "subject": "Art & Culture",
+    "difficulty": "easy",
+    "text": "The pepa is a traditional musical instrument used in Bihu music. It is made from:",
+    "options": ["Bamboo", "Buffalo horn (with a metal reed or mouthpiece)", "Clay", "Wood and gourd"],
+    "correct": 1,
+    "explanation": "The pepa is a wind instrument (similar to a hornpipe) made from the horn of a buffalo, with a small metal reed at the mouthpiece. It produces a distinctive, high-pitched sound and is an iconic instrument of Bihu music. Along with the dhol (drum) and gogona (jaw harp), the pepa defines the sound of Rongali Bihu."
+  },
+  {
+    "id": "a63",
+    "subject": "Art & Culture",
+    "difficulty": "hard",
+    "text": "The Jonaki magazine, a landmark in Assamese literary history, was first published in which year?",
+    "options": ["1846", "1872", "1889", "1917"],
+    "correct": 2,
+    "explanation": "Jonaki (meaning 'firefly') was published in 1889 from Calcutta and marked the beginning of the Romantic era in Assamese literature. It was edited by Lakshminath Bezbaroa, Chandra Kumar Agarwala, and Hemchandra Goswami — the triumvirate who are considered the fathers of modern Assamese poetry and prose."
+  },
+  {
+    "id": "a64",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "The Ambubachi Mela at Kamakhya Temple is celebrated during which season?",
+    "options": ["Winter (December-January)", "Spring (March-April)", "Monsoon (June-July)", "Autumn (October-November)"],
+    "correct": 2,
+    "explanation": "Ambubachi Mela (also called Ameti or Tantric fertility festival) is held annually for three days during mid-June to early July (Assamese month of Ahaar) when the goddess Kamakhya is believed to be in her annual cycle. The temple remains closed for three days, then reopens for a grand celebration. It is one of the largest tantric fairs in South Asia."
+  },
+  {
+    "id": "a65",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "Bhogali Bihu (Magh Bihu) is associated with:",
+    "options": ["Paddy sowing and celebrating the new year", "Lighting lamps and worshipping the rice paddy", "Harvest festival with community feasting (Meji burning)", "Worshipping cattle and exchanging Bihu gifts"],
+    "correct": 2,
+    "explanation": "Bhogali Bihu (Magh Bihu) is a harvest festival celebrated in mid-January, marking the end of the winter harvest. The highlight is the construction and ceremonial burning of the Meji (a bonfire structure) on the morning of the main day. Communities build Bhelaghar (temporary huts) and feast together the night before — 'Bhogali' comes from 'Bhoga' meaning 'enjoyment through food'."
+  },
+  {
+    "id": "a66",
+    "subject": "Art & Culture",
+    "difficulty": "hard",
+    "text": "Srimanta Sankardeva was born in which village and in which approximate year?",
+    "options": ["Bardowa (Nagaon), c. 1449 AD", "Batadrava (Nowgong), c. 1449 AD", "Charaideo (Sibsagar), c. 1468 AD", "Majuli Island, c. 1449 AD"],
+    "correct": 1,
+    "explanation": "Srimanta Sankardeva was born at Batadrava (Bordowa) in Nagaon (Nowgong) district around 1449 AD. He founded the Ekasarana Dharma (Neo-Vaishnavism of Assam) which emphasizes monotheism, devotion to Vishnu-Krishna, and rejects caste discrimination. He is revered as a saint, scholar, playwright, musician, and social reformer."
+  },
+  {
+    "id": "a67",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "Ojapali is a traditional performative art of Assam that combines:",
+    "options": ["Martial arts and acrobatics", "Narrative singing, dance, and storytelling on religious themes", "Shadow puppetry and instrumental music", "Classical dance and Sanskrit recitation"],
+    "correct": 1,
+    "explanation": "Ojapali is a traditional narrative singing and dancing art form of Assam where the Oja (lead performer-narrator) sings mythological stories while the Pali (associates) sing in chorus and perform stylized gestures. It has two main forms: Deodhani Ojapali (related to the goddess Manasa) and Byah Ojapali (related to Vaishnavism)."
+  },
+  {
+    "id": "a68",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The Bodoland Territorial Council (BTC), established in 2003, is governed under which provision?",
+    "options": ["Fifth Schedule of the Constitution", "Sixth Schedule of the Constitution", "Article 371 of the Constitution", "Panchayati Raj Act"],
+    "correct": 1,
+    "explanation": "The Bodoland Territorial Council (BTC) was created under the Sixth Schedule of the Indian Constitution by a Memorandum of Settlement in 2003. It covers four districts: Chirang (now Bongaigaon-amalgamated), Kokrajhar, Baksa, and Udalguri — collectively known as the Bodoland Territorial Area Districts (BTAD) or Bodoland Territorial Region (BTR)."
+  },
+  {
+    "id": "a69",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The National Register of Citizens (NRC) in Assam was last updated in which year?",
+    "options": ["1951", "1985", "2019", "2021"],
+    "correct": 2,
+    "explanation": "The final NRC for Assam was published on 31 August 2019, listing 31.1 million people as citizens out of 33 million applicants, leaving about 1.9 million people excluded. The original NRC was prepared in 1951 based on the 1951 census. The Assam Accord mandated updating the NRC using 24 March 1971 as the cut-off date."
+  },
+  {
+    "id": "a70",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The Karbi Anglong Autonomous Council (KAAC) is headquartered at:",
+    "options": ["Diphu", "Haflong", "Kokrajhar", "Bokojan"],
+    "correct": 0,
+    "explanation": "The Karbi Anglong Autonomous Council (KAAC) is headquartered at Diphu in Karbi Anglong district. It is one of the autonomous district councils established under the Sixth Schedule to protect the interests of the Karbi tribal community. The North Cachar Hills Autonomous Council (NCHAC) is headquartered at Haflong."
+  },
+  {
+    "id": "a71",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The Assam Legislative Assembly has how many seats (total strength)?",
+    "options": ["104 seats", "126 seats", "147 seats", "182 seats"],
+    "correct": 1,
+    "explanation": "The Assam Legislative Assembly (Vidhan Sabha) has a total strength of 126 seats, of which 84 are for the General category, 16 are reserved for Scheduled Castes (SC), and 26 are reserved for Scheduled Tribes (ST). Assam sends 14 members to the Lok Sabha and 7 to the Rajya Sabha."
+  },
+  {
+    "id": "a72",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The Assam Accord (1985) contains a specific clause under which the cutoff year for detecting illegal immigrants in Assam is:",
+    "options": ["1947 (Independence)", "1950 (Constitution adoption)", "1966 (January 1)", "1971 (March 24)"],
+    "correct": 3,
+    "explanation": "Clause 5 of the Assam Accord specifies 24 March 1971 (the eve of the Bangladesh Liberation War) as the cutoff date. Persons who entered Assam between 1 January 1966 and 24 March 1971 are registered as voters after a 10-year cooling-off period, while those entering after 24 March 1971 are to be detected and deported."
+  },
+  {
+    "id": "a73",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The Gauhati High Court, which has jurisdiction over Assam, is located at:",
+    "options": ["Dispur", "Guwahati", "Jorhat", "Nagaon"],
+    "correct": 1,
+    "explanation": "The Gauhati High Court is located in Guwahati and is one of the oldest High Courts in India. It has jurisdiction over Assam, Nagaland, Mizoram, and Arunachal Pradesh, making it the court with the largest territorial jurisdiction in India. It was established in 1948."
+  },
+  {
+    "id": "a74",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "Under the Sixth Schedule, who has the power to annul or suspend laws made by Autonomous District Councils if they affect the peace and good governance of the area?",
+    "options": ["Chief Minister of the State", "Governor of the State", "President of India", "Union Home Minister"],
+    "correct": 1,
+    "explanation": "Under Para 13 of the Sixth Schedule, the Governor has the power to annul or suspend laws made by the Autonomous District Councils. The Governor can also dissolve the council and assume its functions. In Assam, Meghalaya, Tripura, and Mizoram, the Governor can also alter the list of tribal areas by notification, subject to Presidential assent."
+  },
+  {
+    "id": "a75",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "ASTC (Assam State Transport Corporation) is the state-owned body responsible for:",
+    "options": ["Electricity distribution", "Road transport (bus services)", "River ferry operations", "Air connectivity to remote areas"],
+    "correct": 1,
+    "explanation": "ASTC (Assam State Transport Corporation) is the government-owned public road transport corporation of Assam that provides bus services throughout the state and to neighboring states. It was established in 1956. APDCL (Assam Power Distribution Company Limited) handles electricity distribution, while IWT (Inland Water Transport) handles river ferries."
+  },
+  {
+    "id": "a76",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "Which article of the Indian Constitution contains special provisions with respect to the State of Assam?",
+    "options": ["Article 370", "Article 371", "Article 371B", "Article 371A"],
+    "correct": 2,
+    "explanation": "Article 371B contains special provisions with respect to the State of Assam — it empowers the President to constitute a committee of the Assam Legislative Assembly consisting of members elected from tribal areas in the state. Article 371A applies to Nagaland and Article 370 (now abrogated) applied to Jammu and Kashmir."
+  },
+  {
+    "id": "a77",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The Illegal Migrants (Determination by Tribunals) Act, or IMDT Act (1983), was struck down by the Supreme Court in which landmark case?",
+    "options": ["Assam Sanmilita Mahasangha vs Union of India (2014)", "Sarbananda Sonowal vs Union of India (2005)", "Indra Sawhney vs Union of India (1992)", "State of Assam vs Rataneswar Bharali (2007)"],
+    "correct": 1,
+    "explanation": "The Supreme Court struck down the IMDT Act in the landmark Sarbananda Sonowal vs Union of India (2005) case, declaring it unconstitutional. The court held the Act violated Article 355 of the Constitution (which imposes a duty on the Union to protect states from external aggression) as it made it nearly impossible to detect and deport illegal immigrants."
+  },
+  {
+    "id": "a78",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "Oil India Limited (OIL), one of the largest public sector oil companies in India, has its headquarters in:",
+    "options": ["Guwahati", "Digboi", "Duliajan", "Jorhat"],
+    "correct": 2,
+    "explanation": "Oil India Limited (OIL) has its corporate headquarters at Duliajan in Dibrugarh district of Assam. It was established in 1959 as a joint venture between the Government of India and Burmah Oil Company (BOC) and became fully government-owned in 1981. It operates the Naharkatiya and Hugrijan oil fields."
+  },
+  {
+    "id": "a79",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "Assam tea is primarily of which variety, which gives it a distinctive strong, malty flavor?",
+    "options": ["Camellia sinensis var. sinensis (China variety)", "Camellia sinensis var. assamica (Assam variety)", "Camellia sinensis var. cambodiensis", "Camellia japonica"],
+    "correct": 1,
+    "explanation": "Assam tea is produced from Camellia sinensis var. assamica, a large-leafed variety indigenous to the Brahmaputra Valley. This variety produces the characteristic strong, full-bodied, malty, and brisk tea that Assam is famous for. Robert Bruce discovered wild tea plants of this variety in Assam in 1823."
+  },
+  {
+    "id": "a80",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The Hindustan Fertilizer Corporation (HFC) plant at Namrup, Assam, primarily produces:",
+    "options": ["Urea fertilizer using natural gas as feedstock", "Phosphatic fertilizers from imported rock phosphate", "Potash fertilizers", "Organic compost from agricultural waste"],
+    "correct": 0,
+    "explanation": "The HFC plant at Namrup in Dibrugarh district uses natural gas from the Assam gas fields as feedstock to produce urea fertilizer. The Namrup Thermal Power Station also operates in the same area. However, the HFC Namrup plant has faced long closures due to feedstock and financial issues."
+  },
+  {
+    "id": "a81",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The Tea Board of India, which regulates and promotes the Indian tea industry, is headquartered in:",
+    "options": ["Guwahati", "Kolkata", "New Delhi", "Darjeeling"],
+    "correct": 1,
+    "explanation": "The Tea Board of India is headquartered in Kolkata, West Bengal, and operates under the Ministry of Commerce and Industry. It was established in 1954 under the Tea Act. Assam, being the largest tea-producing state in India, has major Tea Board regional offices in Guwahati and Dibrugarh."
+  },
+  {
+    "id": "a82",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "Assam is the largest producer of which crop in India?",
+    "options": ["Jute", "Tea", "Mustard", "Betel nut"],
+    "correct": 1,
+    "explanation": "Assam is the largest producer of tea in India, accounting for approximately 50–55% of India's total tea production. India is the second largest tea producer in the world (after China), and Assam's annual production is over 600 million kg. The state has more than 800 large tea estates and thousands of small growers."
+  },
+  {
+    "id": "a83",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The Bongaigaon Refinery (BPCL subsidiary) in Assam primarily processes crude oil from:",
+    "options": ["Digboi and Naharkatiya fields only", "Imported crude and Assam domestic crude", "Only imported Middle East crude", "Only Numaligarh fields"],
+    "correct": 1,
+    "explanation": "Bongaigaon Refinery and Petrochemicals Limited (BRPL), now a subsidiary of Bharat Petroleum Corporation Limited (BPCL), processes a mix of imported crude oil and domestic crude from Assam's oil fields. Established in 1974, it is located at Dhaligaon in Bongaigaon district and also has a petrochemicals division producing polypropylene."
+  },
+  {
+    "id": "a84",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "Assam contributes significantly to India's betel nut (supari) production. Betel nut cultivation is concentrated in which part of Assam?",
+    "options": ["Upper Assam (Sibsagar, Jorhat)", "Lower Assam (Kamrup, Nalbari, Barpeta)", "Barak Valley (Cachar, Silchar)", "Karbi Anglong hills"],
+    "correct": 1,
+    "explanation": "Betel nut (Areca catechu) cultivation in Assam is concentrated in Lower Assam, particularly in the districts of Kamrup, Nalbari, Barpeta, and Darrang. Assam is among the top betel nut producing states in India. The crop is culturally significant as it is integral to Assamese hospitality and ritual practices (Tamul-Paan)."
+  },
+  {
+    "id": "a85",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "The CTC method of tea processing refers to:",
+    "options": ["Central Tea Commission processing", "Crush-Tear-Curl method", "Cold Temperature Curing method", "Classical Two-Cut method"],
+    "correct": 1,
+    "explanation": "CTC stands for Crush-Tear-Curl, a method of tea processing developed in 1930 by W. McKercher. In this process, tea leaves are passed through a series of cylindrical rollers with sharp teeth that crush, tear, and curl the leaves into small particles. CTC tea produces a stronger, more astringent brew ideal for tea bags and is widely produced in Assam."
+  },
+  {
+    "id": "a86",
+    "subject": "Economy",
+    "difficulty": "medium",
+    "text": "The BHEL (Bharat Heavy Electricals Limited) plant in Assam is located at:",
+    "options": ["Guwahati", "Bongaigaon", "Tezpur", "Dibrugarh"],
+    "correct": 1,
+    "explanation": "BHEL has a plant at Bongaigaon in Assam, primarily involved in manufacturing of industrial boilers, pressure vessels, and other heavy equipment. Bongaigaon is an important industrial town in lower Assam and also houses the Bongaigaon Refinery."
+  },
+  {
+    "id": "a87",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Manas National Park in Assam is a UNESCO World Heritage Site and a Project Tiger reserve. It is located at the foothills of which mountain range?",
+    "options": ["Shillong Plateau", "Patkai Range", "Bhutan Himalaya (Bhutan border)", "Naga Hills"],
+    "correct": 2,
+    "explanation": "Manas National Park (also a Tiger Reserve, Elephant Reserve, and Biosphere Reserve) lies at the foothills of the Bhutan Himalaya along the Bhutan border in Barpeta and Chirang districts. The Manas River (from which the park gets its name) flows through it as a boundary between India and Bhutan."
+  },
+  {
+    "id": "a88",
+    "subject": "Environment",
+    "difficulty": "easy",
+    "text": "The hoolock gibbon, found in Assam, holds which distinction in India?",
+    "options": ["India's fastest primate", "India's only ape (non-human)", "India's most endangered primate", "India's largest primate"],
+    "correct": 1,
+    "explanation": "The hoolock gibbon (Hoolock hoolock — Western hoolock gibbon) is India's only ape. Unlike monkeys (which have tails), apes have no tails and are more closely related to humans. Hoolock gibbons are found in the forests of Assam and other northeastern states, with significant populations in Gibbon Wildlife Sanctuary in Jorhat district."
+  },
+  {
+    "id": "a89",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Orang National Park in Assam is sometimes called 'Mini Kaziranga' because:",
+    "options": ["It is adjacent to Kaziranga and shares the same ecosystem", "It has a similar population of one-horned rhinos and tigers in a smaller area", "It was carved out of Kaziranga National Park", "It has more rhinos than any other park except Kaziranga"],
+    "correct": 1,
+    "explanation": "Orang National Park in Darrang and Sonitpur districts is called 'Mini Kaziranga' because it has a significant population of Indian one-horned rhinoceros and tigers in a much smaller area compared to Kaziranga. Located on the northern bank of the Brahmaputra, it became a National Park in 1999 and is also a Tiger Reserve."
+  },
+  {
+    "id": "a90",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "The golden langur (Trachypithecus geei), found only in a small region of the world, is endemic to:",
+    "options": ["Assam and Bangladesh", "Assam and Bhutan only", "Northeast India only", "Assam, Bhutan, and Arunachal Pradesh"],
+    "correct": 1,
+    "explanation": "The golden langur (Gee's golden langur), named after naturalist E.P. Gee, is one of the most endangered primates in the world and is found only in a small pocket — the forests between the Manas and Sankosh rivers in western Assam and contiguous Bhutan. It is listed as Endangered on the IUCN Red List."
+  },
+  {
+    "id": "a91",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Dibru-Saikhowa National Park in Assam is notable for its population of:",
+    "options": ["Indian one-horned rhinos", "Feral horses (Feral equine, possibly derived from military horses)", "Snow leopards", "Greater adjutant stork"],
+    "correct": 1,
+    "explanation": "Dibru-Saikhowa National Park and Biosphere Reserve in Tinsukia district is unique for its population of feral (wild) horses — descendants of horses used by British military forces. The park is also home to Gangetic river dolphins, tigers, elephants, and is a major habitat for migratory birds on the river islands (chapori)."
+  },
+  {
+    "id": "a92",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "The pygmy hog (Porcula salvania), one of the world's rarest mammals, was rediscovered in Assam after being thought extinct and is now conserved at which sanctuary?",
+    "options": ["Pobitora Wildlife Sanctuary", "Sonai Rupai Wildlife Sanctuary", "Manas-Bornadi area (Barnadi Wildlife Sanctuary)", "Gibbon Wildlife Sanctuary"],
+    "correct": 2,
+    "explanation": "The pygmy hog was rediscovered in 1971 in the tall grasslands of Assam (Barnadi Wildlife Sanctuary area near Bornadi, now part of the greater Manas landscape). A captive breeding program at Pygmy Hog Research and Breeding Centre in Potasali (Kamrup district) was established with IUCN support, and animals have been reintroduced into Manas and other sanctuaries."
+  },
+  {
+    "id": "a93",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Nameri National Park in Assam, along the Arunachal Pradesh border, is particularly known for which bird?",
+    "options": ["Greater Adjutant Stork", "Bengal Florican", "White-winged Wood Duck", "Siberian Crane"],
+    "correct": 2,
+    "explanation": "Nameri National Park in Sonitpur district is particularly noted for the White-winged Wood Duck (Cairina scutulata), one of the world's rarest ducks and listed as Endangered. The park is bisected by the Jia Bharali River and is a popular destination for white-water rafting. It is contiguous with Pakhui (Pakke) Tiger Reserve in Arunachal Pradesh."
+  },
+  {
+    "id": "a94",
+    "subject": "Environment",
+    "difficulty": "easy",
+    "text": "Deepor Beel near Guwahati has been designated as a:",
+    "options": ["Tiger Reserve under Project Tiger", "Ramsar Wetland of International Importance", "UNESCO Biosphere Reserve", "Marine Protected Area"],
+    "correct": 1,
+    "explanation": "Deepor Beel (Dipor Bil) was designated as a Ramsar Site (Wetland of International Importance) in November 2002 — the only Ramsar site in Assam. It is a permanent freshwater lake on the southwest edge of Guwahati and is a critical habitat for migratory birds, elephants, and fish. Urban encroachment poses a serious threat to this wetland."
+  },
+  {
+    "id": "a95",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "The Greater Adjutant Stork (Leptoptilos dubius), a Critically Endangered bird, has its largest known breeding colony in the world at:",
+    "options": ["Manas National Park", "Kaziranga National Park", "Areas around Guwahati (Kamrup district)", "Dibru-Saikhowa National Park"],
+    "correct": 2,
+    "explanation": "Assam, particularly the areas around Guwahati and in Kamrup and Nagaon districts, hosts the world's largest known breeding colonies of the Greater Adjutant Stork. The bird was once widespread but is now Critically Endangered, with the Assam population (especially near Bhatapoori and Dadara villages) constituting a large portion of the global population of about 1,200 birds."
+  },
+  {
+    "id": "a96",
+    "subject": "Environment",
+    "difficulty": "hard",
+    "text": "Kaziranga National Park was designated a UNESCO World Heritage Site in which year?",
+    "options": ["1974", "1985", "1992", "2000"],
+    "correct": 1,
+    "explanation": "Kaziranga was declared a National Park in 1974 and was inscribed as a UNESCO World Heritage Site in 1985, recognized for its outstanding universal value in harboring the world's largest population of the Indian one-horned rhinoceros. It spans 430 sq km across Nagaon and Golaghat districts on the southern bank of the Brahmaputra."
+  },
+  {
+    "id": "a97",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "The Indus Valley Civilization (Harappan Civilization) flourished around which period?",
+    "options": ["5000–3000 BCE", "3300–1300 BCE", "1000–500 BCE", "500 BCE – 300 CE"],
+    "correct": 1,
+    "explanation": "The Indus Valley Civilization (also called Harappan Civilization) flourished approximately from 3300 BCE to 1300 BCE, with its mature phase from 2600 to 1900 BCE. Major cities included Mohenjo-daro, Harappa, Dholavira, Ganweriwala, and Rakhigarhi. It was remarkable for its urban planning, drainage systems, and standardized weights."
+  },
+  {
+    "id": "a98",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The 'Discovery of India' was authored by which Indian statesman?",
+    "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "Subhas Chandra Bose"],
+    "correct": 2,
+    "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' while imprisoned in Ahmednagar Fort between April and September 1944. The book traces the history of India from ancient civilizations to the colonial period and articulates Nehru's vision of India's composite culture and civilizational heritage."
+  },
+  {
+    "id": "a99",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Quit India Movement was launched by Mahatma Gandhi on:",
+    "options": ["August 8, 1942", "January 26, 1930", "March 12, 1930", "August 15, 1947"],
+    "correct": 0,
+    "explanation": "The Quit India Movement (also called the August Movement or Bharat Chhodo Andolan) was launched by the Indian National Congress on 8 August 1942, at the Bombay session. Gandhi gave the call 'Do or Die' (Karo ya Maro). The British promptly arrested all major Congress leaders, but the movement spread spontaneously across India."
+  },
+  {
+    "id": "a100",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Charter Act of 1833, a landmark in Indian constitutional history, made English the medium of higher education in India. Which adviser is associated with drafting the education policy that followed?",
+    "options": ["Lord Macaulay", "Lord Dalhousie", "Charles Wood", "Lord Bentinck"],
+    "correct": 0,
+    "explanation": "Lord Macaulay (Thomas Babington Macaulay) drafted the 'Minute on Indian Education' in 1835, which advocated English as the medium of higher education, arguing that a class of Indians educated in English culture would be created to serve as intermediaries between the British rulers and Indian subjects. Lord Bentinck implemented the policy."
+  },
+  {
+    "id": "a101",
+    "subject": "Geography",
+    "difficulty": "easy",
+    "text": "The Tropic of Cancer passes through how many states of India?",
+    "options": ["6 states", "8 states", "10 states", "12 states"],
+    "correct": 1,
+    "explanation": "The Tropic of Cancer (23.5° N latitude) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It also passes through the union territory of Dadra and Nagar Haveli. Tripura and Mizoram in the Northeast are the only northeastern states it crosses."
+  },
+  {
+    "id": "a102",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The Eastern Ghats and Western Ghats meet at which location in South India?",
+    "options": ["Palni Hills", "Nilgiri Hills", "Anamalai Hills", "Cardamom Hills"],
+    "correct": 1,
+    "explanation": "The Eastern Ghats and Western Ghats meet at the Nilgiri Hills (Blue Mountains) in Tamil Nadu, where the highest peak Doddabetta (2,637 m) is located. The Nilgiris form a junction between these two mountain ranges and the area is known for its biodiversity, tea plantations, and the famous Ooty hill station."
+  },
+  {
+    "id": "a103",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "India's largest freshwater lake is:",
+    "options": ["Chilika Lake", "Wular Lake", "Loktak Lake", "Dal Lake"],
+    "correct": 1,
+    "explanation": "Wular Lake in Jammu and Kashmir (Bandipora district) is India's largest freshwater lake, covering an area of approximately 189 sq km at maximum extent. Chilika Lake in Odisha is the largest coastal lagoon (brackish water lake) in India and also Asia's largest. Loktak Lake in Manipur is the largest freshwater lake in northeastern India."
+  },
+  {
+    "id": "a104",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "Which article of the Indian Constitution abolishes untouchability?",
+    "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+    "correct": 3,
+    "explanation": "Article 17 of the Indian Constitution abolishes 'untouchability' and forbids its practice in any form. Enforcement of any disability arising out of untouchability is made a punishable offense. The Protection of Civil Rights Act (1955) and the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act (1989) were enacted to give effect to this constitutional provision."
+  },
+  {
+    "id": "a105",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "The Preamble of the Indian Constitution was amended in which year to include the words 'Socialist,' 'Secular,' and 'Integrity'?",
+    "options": ["1952 (First Amendment)", "1966 (Seventeenth Amendment)", "1976 (Forty-Second Amendment)", "1984 (Forty-Fourth Amendment)"],
+    "correct": 2,
+    "explanation": "The Preamble was amended by the 42nd Constitutional Amendment Act, 1976 (during the Emergency) to insert the words 'Socialist,' 'Secular,' and 'Integrity.' The original Preamble declared India a 'Sovereign Democratic Republic'; it now reads 'Sovereign Socialist Secular Democratic Republic.' This was the only amendment to the Preamble."
+  },
+  {
+    "id": "a106",
+    "subject": "Science",
+    "difficulty": "easy",
+    "text": "What is the chemical symbol for the element Gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2,
+    "explanation": "Gold's chemical symbol Au comes from the Latin word 'Aurum.' Gold has atomic number 79 and is a dense, soft, malleable transition metal known for its resistance to corrosion and oxidation. Silver's symbol (Ag) comes from 'Argentum,' which is why the two are sometimes confused."
+  },
+  {
+    "id": "a107",
+    "subject": "Science",
+    "difficulty": "medium",
+    "text": "Which gas is primarily responsible for the Greenhouse Effect that leads to global warming?",
+    "options": ["Oxygen (O2)", "Nitrogen (N2)", "Carbon Dioxide (CO2)", "Argon (Ar)"],
+    "correct": 2,
+    "explanation": "Carbon dioxide (CO2) is the most significant anthropogenic greenhouse gas responsible for climate change, though water vapor is the most abundant natural greenhouse gas. CO2 traps outgoing infrared radiation from Earth's surface. Other important greenhouse gases include methane (CH4), nitrous oxide (N2O), and fluorinated gases."
+  },
+  {
+    "id": "a108",
+    "subject": "Science",
+    "difficulty": "medium",
+    "text": "The SI unit of electric current is:",
+    "options": ["Volt", "Watt", "Ampere", "Ohm"],
+    "correct": 2,
+    "explanation": "The Ampere (symbol: A) is the SI (International System of Units) base unit of electric current. It is defined since 2019 in terms of the elementary charge: one ampere corresponds to the flow of approximately 6.241 × 10^18 elementary charges (electrons) per second. Volt measures electric potential, Watt measures power, and Ohm measures resistance."
+  },
+  {
+    "id": "a109",
+    "subject": "Science",
+    "difficulty": "hard",
+    "text": "The process by which plants manufacture food using sunlight, water, and carbon dioxide is called photosynthesis. In which organelle does this process primarily occur?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+    "correct": 3,
+    "explanation": "Photosynthesis primarily occurs in the chloroplast, an organelle found in plant cells and algae. Chloroplasts contain chlorophyll, the green pigment that absorbs light energy (primarily in the red and blue spectrum) to drive the conversion of CO2 and H2O into glucose (C6H12O6) and oxygen. The mitochondria performs cellular respiration, the reverse process."
+  },
+  {
+    "id": "a110",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Majuli island in Assam has been nominated for UNESCO World Heritage Site status primarily on account of its:",
+    "options": ["Unique geological formation as a river island", "Rich biodiversity including rare bird species", "Living cultural heritage — Vaishnavite Sattra monasteries and associated traditions", "Ancient Ahom archaeological sites and maidams"],
+    "correct": 2,
+    "explanation": "Majuli's UNESCO nomination is based on its outstanding living cultural heritage — it is the cultural and spiritual center of Assamese Neo-Vaishnavism, hosting approximately 22 Sattras (Vaishnavite monasteries) that are living centers of Sattriya dance, music, theater, and manuscript traditions. However, Majuli faces severe erosion threat — its area has reduced from about 880 sq km in 1916 to under 500 sq km today."
   }
 ]

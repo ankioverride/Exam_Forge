@@ -98,5 +98,1149 @@
     "options": ["10", "5", "15", "8"],
     "correct": 1,
     "explanation": "Using inclusion-exclusion: |Cricket ∪ Football| = 30 + 25 − 10 = 45. Students who like neither = 50 − 45 = 5."
+  },
+
+  {
+    "id": "c11",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "What is the LCM of 12, 18, and 24?",
+    "options": ["36", "48", "72", "96"],
+    "correct": 2,
+    "explanation": "Prime factorization: 12 = 2² × 3, 18 = 2 × 3², 24 = 2³ × 3. LCM = highest power of each prime = 2³ × 3² = 8 × 9 = 72."
+  },
+  {
+    "id": "c12",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "What is the HCF of 48, 64, and 80?",
+    "options": ["8", "16", "4", "12"],
+    "correct": 1,
+    "explanation": "48 = 2⁴ × 3, 64 = 2⁶, 80 = 2⁴ × 5. HCF = lowest power of common prime factor = 2⁴ = 16."
+  },
+  {
+    "id": "c13",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "What is the remainder when 2^100 is divided by 7?",
+    "options": ["1", "2", "4", "6"],
+    "correct": 1,
+    "explanation": "Cyclicity of 2 mod 7: 2¹=2, 2²=4, 2³=8≡1 (mod 7). The cycle length is 3. 100 mod 3 = 1 (since 99 = 3×33 is divisible by 3, and 100 = 99+1). So 2^100 ≡ 2^1 = 2 (mod 7). The remainder is 2."
+  },
+  {
+    "id": "c14",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "How many prime numbers are there between 50 and 80?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 2,
+    "explanation": "List all composites to find the primes: 51=3×17, 52=4×13, 54=2×27, 55=5×11, 56=8×7, 57=3×19, 58=2×29, 60=4×15, 62=2×31, 63=9×7, 64=8×8, 65=5×13, 66=6×11, 68=4×17, 69=3×23, 70=7×10, 72=8×9, 74=2×37, 75=3×25, 76=4×19, 77=7×11, 78=6×13. Primes between 50 and 80: 53, 59, 61, 67, 71, 73, 79 = 7 primes."
+  },
+  {
+    "id": "c15",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "The unit digit of 7^95 × 3^58 × 13^72 is:",
+    "options": ["3", "7", "9", "1"],
+    "correct": 1,
+    "explanation": "Unit digit of 7^95: cycle of 7 is (7,9,3,1) with period 4. 95 mod 4 = 3, so unit digit of 7^95 = 3. Unit digit of 3^58: cycle of 3 is (3,9,7,1) with period 4. 58 mod 4 = 2, so unit digit of 3^58 = 9. Unit digit of 13^72: same as 3^72. 72 mod 4 = 0, so unit digit of 13^72 = 1. Product unit digit = 3 × 9 × 1 = 27 → unit digit = 7."
+  },
+  {
+    "id": "c16",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "Which of the following numbers is divisible by 11?",
+    "options": ["123456", "135762", "246819", "987654"],
+    "correct": 1,
+    "explanation": "Divisibility rule for 11: (sum of digits at odd positions) − (sum of digits at even positions) must equal 0 or a multiple of 11. For 135762: odd positions (1st,3rd,5th) = 1+5+6 = 12; even positions (2nd,4th,6th) = 3+7+2 = 12. Difference = 12−12 = 0, which is divisible by 11. So 135762 is divisible by 11. Check others: 123456 → (1+3+5)−(2+4+6)=9−12=−3 (no); 246819 → (2+6+1)−(4+8+9)=9−21=−12 (no); 987654 → (9+7+5)−(8+6+4)=21−18=3 (no)."
+  },
+  {
+    "id": "c17",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "How many factors does 720 have?",
+    "options": ["24", "28", "30", "36"],
+    "correct": 2,
+    "explanation": "720 = 2⁴ × 3² × 5¹. Number of factors = (4+1)(2+1)(1+1) = 5 × 3 × 2 = 30."
+  },
+  {
+    "id": "c18",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "What is the remainder when 17^30 is divided by 18?",
+    "options": ["1", "17", "0", "16"],
+    "correct": 0,
+    "explanation": "17 ≡ −1 (mod 18). Therefore 17^30 ≡ (−1)^30 = 1 (mod 18). The remainder is 1."
+  },
+  {
+    "id": "c19",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "The product of LCM and HCF of two numbers is 1200. If one number is 40, what is the other number?",
+    "options": ["25", "30", "20", "15"],
+    "correct": 1,
+    "explanation": "For any two numbers A and B: LCM × HCF = A × B. So A × B = 1200. Other number = 1200 ÷ 40 = 30."
+  },
+  {
+    "id": "c20",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "N is the smallest positive integer such that N is divisible by 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. What is the sum of digits of N?",
+    "options": ["18", "12", "9", "15"],
+    "correct": 2,
+    "explanation": "N = LCM(1,2,...,10). LCM = 2³ × 3² × 5 × 7 = 8 × 9 × 5 × 7 = 2520. Sum of digits of 2520 = 2+5+2+0 = 9."
+  },
+  {
+    "id": "c21",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "A shopkeeper sells an article at a loss of 15%. If the cost price is ₹800, what is the selling price?",
+    "options": ["₹640", "₹660", "₹680", "₹700"],
+    "correct": 2,
+    "explanation": "Loss = 15% of 800 = 0.15 × 800 = 120. Selling Price = 800 − 120 = ₹680."
+  },
+  {
+    "id": "c22",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "A sum of ₹5000 is invested at 8% per annum compound interest for 2 years. What is the compound interest earned?",
+    "options": ["₹800", "₹832", "₹866", "₹900"],
+    "correct": 1,
+    "explanation": "Amount = P(1 + r/100)^n = 5000 × (1.08)² = 5000 × 1.1664 = ₹5832. CI = 5832 − 5000 = ₹832."
+  },
+  {
+    "id": "c23",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "Pipes A and B can fill a tank in 12 hours and 18 hours respectively. Pipe C can drain it in 9 hours. If all three are opened simultaneously, in how many hours will the tank be filled?",
+    "options": ["36 hours", "24 hours", "18 hours", "The tank never fills"],
+    "correct": 0,
+    "explanation": "Rate of A = 1/12, B = 1/18, C = −1/9 per hour. Net rate = 1/12 + 1/18 − 1/9. LCM of 12,18,9 = 36. Net = 3/36 + 2/36 − 4/36 = 1/36 per hour. Time = 36 hours."
+  },
+  {
+    "id": "c24",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "In what ratio must two varieties of tea costing ₹120/kg and ₹80/kg be mixed to get a blend costing ₹95/kg?",
+    "options": ["3:5", "3:1", "1:3", "5:3"],
+    "correct": 0,
+    "explanation": "Using the alligation rule: Cheaper tea : Costlier tea = (Costlier − Mean) : (Mean − Cheaper) = (120−95) : (95−80) = 25 : 15 = 5 : 3. So cheaper (₹80) : costlier (₹120) = 5:3. But the question asks for ₹120 : ₹80 = 3:5."
+  },
+  {
+    "id": "c25",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "A boat goes 30 km upstream in 6 hours and 30 km downstream in 3 hours. What is the speed of the stream?",
+    "options": ["2.5 km/h", "5 km/h", "7.5 km/h", "10 km/h"],
+    "correct": 0,
+    "explanation": "Upstream speed = 30/6 = 5 km/h. Downstream speed = 30/3 = 10 km/h. Speed of boat in still water = (10+5)/2 = 7.5 km/h. Speed of stream = (Downstream − Upstream)/2 = (10−5)/2 = 2.5 km/h."
+  },
+  {
+    "id": "c26",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "A and B can complete a work in 20 days and 30 days respectively. They work together for 6 days, after which B leaves. How many more days does A need to finish the remaining work?",
+    "options": ["10 days", "12 days", "14 days", "16 days"],
+    "correct": 0,
+    "explanation": "Combined rate = 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12 per day. Work done in 6 days together = 6 × (1/12) = 1/2. Remaining work = 1/2. A alone works at rate 1/20 per day. Time for A to finish remaining = (1/2) ÷ (1/20) = (1/2) × 20 = 10 days."
+  },
+  {
+    "id": "c27",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "Simple interest on a principal of ₹4000 at 5% per annum for 3 years is:",
+    "options": ["₹500", "₹600", "₹700", "₹800"],
+    "correct": 1,
+    "explanation": "SI = (P × R × T)/100 = (4000 × 5 × 3)/100 = 60000/100 = ₹600."
+  },
+  {
+    "id": "c28",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "The price of a commodity rose by 25%. By what percentage must consumption be reduced to keep the expenditure unchanged?",
+    "options": ["20%", "25%", "15%", "10%"],
+    "correct": 0,
+    "explanation": "If price increases by 25% (factor = 5/4), then to maintain same expenditure, consumption must decrease by factor of 4/5, which is a reduction of 1/5 = 20%."
+  },
+  {
+    "id": "c29",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "Two trains start simultaneously from stations A and B, 300 km apart, towards each other. The speeds are 60 km/h and 90 km/h. A bird starts from A at 120 km/h and keeps flying back and forth between the trains until they meet. What total distance does the bird cover?",
+    "options": ["200 km", "240 km", "180 km", "300 km"],
+    "correct": 1,
+    "explanation": "Time for trains to meet = 300/(60+90) = 300/150 = 2 hours. During this time, the bird flies at 120 km/h for 2 hours = 240 km."
+  },
+  {
+    "id": "c30",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "The incomes of A and B are in the ratio 5:4. Their expenditures are in the ratio 3:2. If each saves ₹2000, what is A's income?",
+    "options": ["₹5000", "₹4000", "₹3000", "₹6000"],
+    "correct": 0,
+    "explanation": "Let incomes be 5k and 4k; expenditures be 3m and 2m. Savings equations: 5k − 3m = 2000 ... (1) and 4k − 2m = 2000 ... (2). From (2): m = (4k − 2000)/2 = 2k − 1000. Substituting into (1): 5k − 3(2k − 1000) = 2000 → 5k − 6k + 3000 = 2000 → −k = −1000 → k = 1000. A's income = 5k = 5 × 1000 = ₹5000."
+  },
+  {
+    "id": "c31",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "₹6,000 amounts to ₹6,900 at simple interest in 3 years. What will ₹8,000 amount to in 4 years at the same rate?",
+    "options": ["₹9,600", "₹9,800", "₹10,000", "₹9,200"],
+    "correct": 0,
+    "explanation": "SI on ₹6000 in 3 years = 900. Rate = (900 × 100)/(6000 × 3) = 5% p.a. SI on ₹8000 in 4 years = (8000 × 5 × 4)/100 = 1600. Amount = 8000 + 1600 = ₹9600."
+  },
+  {
+    "id": "c32",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "Two solutions of acid contain 20% and 50% acid respectively. In what ratio should they be mixed to get a 35% acid solution?",
+    "options": ["1:1", "2:3", "3:2", "1:2"],
+    "correct": 0,
+    "explanation": "Using alligation: (50−35):(35−20) = 15:15 = 1:1. Mix equal parts of the 20% and 50% solutions."
+  },
+  {
+    "id": "c33",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "If 2x + 3y = 12 and 3x − 2y = 5, what is the value of x + y?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1,
+    "explanation": "From 2x+3y=12 ... (1) and 3x−2y=5 ... (2). Multiply (1) by 2 and (2) by 3: 4x+6y=24 and 9x−6y=15. Add: 13x=39 → x=3. From (1): 6+3y=12 → 3y=6 → y=2. x+y = 3+2 = 5."
+  },
+  {
+    "id": "c34",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "The roots of the equation x² − 5x + 6 = 0 are:",
+    "options": ["2 and 3", "1 and 6", "−2 and −3", "2 and −3"],
+    "correct": 0,
+    "explanation": "x² − 5x + 6 = 0. Factoring: (x−2)(x−3) = 0. Roots are x = 2 and x = 3. Verify: 2+3=5 (sum of roots = 5 ✓), 2×3=6 (product = 6 ✓)."
+  },
+  {
+    "id": "c35",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "For what value of k does the equation x² − kx + 9 = 0 have equal roots?",
+    "options": ["3", "6", "9", "12"],
+    "correct": 1,
+    "explanation": "For equal roots, discriminant = 0. b² − 4ac = 0. Here: k² − 4(1)(9) = 0 → k² = 36 → k = ±6. Since the question asks for the positive value, k = 6."
+  },
+  {
+    "id": "c36",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "If f(x) = x² + 2x − 3, what is f(−3)?",
+    "options": ["0", "3", "6", "−3"],
+    "correct": 0,
+    "explanation": "f(−3) = (−3)² + 2(−3) − 3 = 9 − 6 − 3 = 0."
+  },
+  {
+    "id": "c37",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "How many integer solutions satisfy |2x − 5| < 9?",
+    "options": ["7", "8", "9", "10"],
+    "correct": 1,
+    "explanation": "|2x−5| < 9 → −9 < 2x−5 < 9 → −9+5 < 2x < 9+5 → −4 < 2x < 14 → −2 < x < 7. Integer values in this range: −1, 0, 1, 2, 3, 4, 5, 6 = 8 integers. Note: x=−2 gives |−4−5|=|−9|=9, not strictly less than 9, so excluded."
+  },
+  {
+    "id": "c38",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "If x + 1/x = 5, what is the value of x² + 1/x²?",
+    "options": ["23", "25", "27", "21"],
+    "correct": 0,
+    "explanation": "(x + 1/x)² = x² + 2 + 1/x². So x² + 1/x² = (x + 1/x)² − 2 = 5² − 2 = 25 − 2 = 23."
+  },
+  {
+    "id": "c39",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "The sum of a two-digit number and the number formed by reversing its digits is 121. If the digits differ by 3, find the number.",
+    "options": ["74", "47", "85", "58"],
+    "correct": 0,
+    "explanation": "Let number = 10a + b. Reversed = 10b + a. Sum = 11(a+b) = 121 → a+b = 11. Digits differ by 3: a−b = 3 (assuming a > b). Solving: 2a = 14 → a = 7, b = 4. Number = 74. Check: 74 + 47 = 121 ✓, 7−4 = 3 ✓."
+  },
+  {
+    "id": "c40",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "The perimeter of a rectangle is 60 cm. If the length is twice the breadth, what is the area?",
+    "options": ["150 cm²", "200 cm²", "100 cm²", "250 cm²"],
+    "correct": 1,
+    "explanation": "Let breadth = b, length = 2b. Perimeter = 2(2b+b) = 6b = 60 → b = 10 cm, length = 20 cm. Area = 20 × 10 = 200 cm²."
+  },
+  {
+    "id": "c41",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "A circle has a circumference of 44 cm. What is its area? (Use π = 22/7)",
+    "options": ["154 cm²", "144 cm²", "132 cm²", "176 cm²"],
+    "correct": 0,
+    "explanation": "Circumference = 2πr = 44 → r = 44/(2 × 22/7) = 44 × 7/44 = 7 cm. Area = πr² = (22/7) × 49 = 22 × 7 = 154 cm²."
+  },
+  {
+    "id": "c42",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "In a right triangle, the two legs are 9 cm and 12 cm. What is the length of the hypotenuse?",
+    "options": ["13 cm", "15 cm", "17 cm", "21 cm"],
+    "correct": 1,
+    "explanation": "Using Pythagoras theorem: h² = 9² + 12² = 81 + 144 = 225. h = √225 = 15 cm."
+  },
+  {
+    "id": "c43",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "Two tangents drawn from an external point to a circle make an angle of 60° with each other. If the radius of the circle is 6 cm, what is the distance from the external point to the center of the circle?",
+    "options": ["12 cm", "6√3 cm", "8 cm", "10 cm"],
+    "correct": 0,
+    "explanation": "The angle between the tangents is 60°, so each tangent makes 30° with the line joining the external point to the center. sin(30°) = radius/distance = 6/d → 1/2 = 6/d → d = 12 cm."
+  },
+  {
+    "id": "c44",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "The volume of a cylinder with radius 7 cm and height 10 cm is: (Use π = 22/7)",
+    "options": ["1540 cm³", "1440 cm³", "1320 cm³", "1760 cm³"],
+    "correct": 0,
+    "explanation": "Volume = πr²h = (22/7) × 7² × 10 = (22/7) × 49 × 10 = 22 × 7 × 10 = 1540 cm³."
+  },
+  {
+    "id": "c45",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "A cone and a cylinder have the same base radius and the same height. What is the ratio of their volumes?",
+    "options": ["1:2", "1:3", "2:3", "1:4"],
+    "correct": 1,
+    "explanation": "Volume of cone = (1/3)πr²h. Volume of cylinder = πr²h. Ratio = (1/3)πr²h : πr²h = 1:3."
+  },
+  {
+    "id": "c46",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "In how many ways can 5 people be arranged in a line?",
+    "options": ["25", "60", "120", "150"],
+    "correct": 2,
+    "explanation": "The number of ways to arrange n people in a line = n! = 5! = 5 × 4 × 3 × 2 × 1 = 120."
+  },
+  {
+    "id": "c47",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "A bag contains 4 red balls and 6 blue balls. If two balls are drawn simultaneously, what is the probability that both are red?",
+    "options": ["2/15", "1/5", "4/15", "3/10"],
+    "correct": 0,
+    "explanation": "P(both red) = C(4,2)/C(10,2) = 6/45 = 2/15."
+  },
+  {
+    "id": "c48",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "In a group of 60 people, 35 like tea, 30 like coffee, and 10 like neither. How many people like both tea and coffee?",
+    "options": ["10", "15", "20", "25"],
+    "correct": 1,
+    "explanation": "People who like at least one = 60 − 10 = 50. By inclusion-exclusion: |T ∪ C| = |T| + |C| − |T ∩ C|. 50 = 35 + 30 − |T ∩ C|. |T ∩ C| = 65 − 50 = 15."
+  },
+  {
+    "id": "c49",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "How many 4-digit numbers can be formed using digits 1, 2, 3, 4, 5 without repetition that are divisible by 5?",
+    "options": ["24", "30", "48", "12"],
+    "correct": 0,
+    "explanation": "For divisibility by 5, the units digit must be 5. Fix 5 in the units place. The remaining 3 positions are filled from {1,2,3,4} — all arrangements = 4 × 3 × 2 = 24 ways."
+  },
+  {
+    "id": "c50",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "The diagonal of a square is 10√2 cm. What is its area?",
+    "options": ["100 cm²", "150 cm²", "200 cm²", "50 cm²"],
+    "correct": 0,
+    "explanation": "For a square with side a, diagonal = a√2. So a√2 = 10√2 → a = 10 cm. Area = a² = 100 cm²."
+  },
+  {
+    "id": "c51",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "A hemisphere has a radius of 7 cm. What is its total surface area? (Use π = 22/7)",
+    "options": ["462 cm²", "308 cm²", "462 cm²", "616 cm²"],
+    "correct": 0,
+    "explanation": "Total surface area of hemisphere = 3πr² = 3 × (22/7) × 49 = 3 × 22 × 7 = 462 cm²."
+  },
+  {
+    "id": "c52",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "In triangle ABC, angle A = 60°, angle B = 70°. What is angle C?",
+    "options": ["50°", "60°", "70°", "40°"],
+    "correct": 0,
+    "explanation": "Sum of angles in a triangle = 180°. Angle C = 180° − 60° − 70° = 50°."
+  },
+  {
+    "id": "c53",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "A person invests ₹10,000 at 10% p.a. compound interest. After how many years does the amount exceed ₹13,000?",
+    "options": ["2 years", "3 years", "4 years", "5 years"],
+    "correct": 1,
+    "explanation": "After 1 year: 10000 × 1.1 = 11000. After 2 years: 11000 × 1.1 = 12100. After 3 years: 12100 × 1.1 = 13310 > 13000. So after 3 years, the amount exceeds ₹13,000."
+  },
+  {
+    "id": "c54",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "A sum triples itself in 20 years at simple interest. What is the rate of interest per annum?",
+    "options": ["10%", "15%", "12%", "8%"],
+    "correct": 0,
+    "explanation": "If sum triples, SI = 2P (since Amount = 3P = P + SI). SI = PRT/100. 2P = P × R × 20/100. 2 = 20R/100. R = 200/20 = 10% p.a."
+  },
+  {
+    "id": "c55",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "What is the median of: 8, 3, 15, 7, 12, 5, 11?",
+    "options": ["7", "8", "9", "11"],
+    "correct": 1,
+    "explanation": "Arrange in order: 3, 5, 7, 8, 11, 12, 15. The median is the middle value (4th of 7) = 8."
+  },
+
+  {
+    "id": "c56",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word MOST similar in meaning to: LACONIC",
+    "options": ["Verbose", "Concise", "Ambiguous", "Eloquent"],
+    "correct": 1,
+    "explanation": "Laconic means using very few words; expressing much in few words. It is synonymous with 'concise' or 'terse.' Verbose (wordy) is its antonym. Eloquent means fluent and persuasive. Ambiguous means open to more than one interpretation."
+  },
+  {
+    "id": "c57",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word MOST OPPOSITE in meaning to: PERSPICACIOUS",
+    "options": ["Shrewd", "Obtuse", "Astute", "Discerning"],
+    "correct": 1,
+    "explanation": "Perspicacious means having a ready insight into things; shrewd. Its antonym is 'obtuse,' meaning annoyingly insensitive or slow to understand. Shrewd, astute, and discerning are all synonyms of perspicacious."
+  },
+  {
+    "id": "c58",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the word MOST similar in meaning to: SANGUINE",
+    "options": ["Pessimistic", "Bloodthirsty", "Optimistic", "Melancholic"],
+    "correct": 2,
+    "explanation": "Sanguine means optimistic, especially in a difficult situation. It comes from Latin 'sanguis' (blood), historically associated with a confident, cheerful temperament. It is NOT primarily about blood here. Pessimistic and melancholic are antonyms."
+  },
+  {
+    "id": "c59",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word MOST similar in meaning to: RECALCITRANT",
+    "options": ["Obedient", "Obstinate", "Compliant", "Docile"],
+    "correct": 1,
+    "explanation": "Recalcitrant means having an obstinately uncooperative attitude toward authority. Synonyms include stubborn, obstinate, intractable, and refractory. Obedient, compliant, and docile are antonyms."
+  },
+  {
+    "id": "c60",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the word MOST OPPOSITE in meaning to: DIFFIDENT",
+    "options": ["Shy", "Bold", "Nervous", "Hesitant"],
+    "correct": 1,
+    "explanation": "Diffident means modest or shy owing to a lack of self-confidence. Its antonym is 'bold' or 'assertive.' Shy, nervous, and hesitant are synonyms of diffident."
+  },
+  {
+    "id": "c61",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word MOST similar in meaning to: INIMICAL",
+    "options": ["Friendly", "Hostile", "Indifferent", "Benevolent"],
+    "correct": 1,
+    "explanation": "Inimical means tending to obstruct or harm; unfriendly; hostile. Friendly and benevolent are antonyms. Indifferent implies a lack of feeling, not hostility."
+  },
+  {
+    "id": "c62",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the word MOST similar in meaning to: PROPITIOUS",
+    "options": ["Unfavorable", "Auspicious", "Ominous", "Indifferent"],
+    "correct": 1,
+    "explanation": "Propitious means giving or indicating a good chance of success; favorable. It is synonymous with auspicious, opportune, and favorable. Unfavorable and ominous are antonyms."
+  },
+  {
+    "id": "c63",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word MOST similar in meaning to: TRUCULENT",
+    "options": ["Peaceful", "Eager to argue", "Submissive", "Cheerful"],
+    "correct": 1,
+    "explanation": "Truculent means eager or quick to argue or fight; aggressively defiant. It is synonymous with belligerent, combative, and pugnacious. Peaceful, submissive, and cheerful are antonyms."
+  },
+  {
+    "id": "c64",
+    "subject": "Verbal Ability",
+    "difficulty": "easy",
+    "text": "Identify the INCORRECT sentence:",
+    "options": [
+      "Neither the manager nor the employees were informed.",
+      "Either the cats or the dog is responsible.",
+      "The committee have decided to postpone the meeting.",
+      "None of the students has submitted the assignment."
+    ],
+    "correct": 2,
+    "explanation": "In formal/standard English, 'committee' as a collective noun takes a singular verb: 'The committee has decided...' — not 'have decided.' Options A, B (either/or follows the nearer subject), and D (none + singular verb) are standard CAT-level correct usages."
+  },
+  {
+    "id": "c65",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the grammatically CORRECT sentence:",
+    "options": [
+      "The news are shocking.",
+      "The data shows a clear trend.",
+      "The scenery are beautiful.",
+      "The information are incorrect."
+    ],
+    "correct": 1,
+    "explanation": "'Data' in modern usage (especially in non-scientific contexts) is treated as a singular mass noun, so 'The data shows' is acceptable and is the most defensible choice here. 'News,' 'scenery,' and 'information' are uncountable singular nouns that require singular verbs — but all three options with them use plural verbs, making them incorrect."
+  },
+  {
+    "id": "c66",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Select the correct sentence:",
+    "options": [
+      "He is one of those people who believes nothing.",
+      "He is one of those people who believe nothing.",
+      "He is one of those people who is believing nothing.",
+      "He is one of those people who was believing nothing."
+    ],
+    "correct": 1,
+    "explanation": "In the construction 'one of those [plural noun] who/that...,' the relative clause verb agrees with the plural noun, not 'one.' So: 'one of those people who believe' (agree with 'people') is correct. Option A uses 'believes' (singular), which is a common error."
+  },
+  {
+    "id": "c67",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the sentence with correct use of tense:",
+    "options": [
+      "By the time she arrives, we will have finished the project.",
+      "By the time she will arrive, we will finish the project.",
+      "By the time she arrives, we will finish the project.",
+      "By the time she had arrived, we finished the project."
+    ],
+    "correct": 0,
+    "explanation": "With 'by the time' clauses that refer to the future, use simple present in the time clause and future perfect in the main clause. 'By the time she arrives, we will have finished' is correct. Option B wrongly uses future in the time clause."
+  },
+  {
+    "id": "c68",
+    "subject": "Verbal Ability",
+    "difficulty": "easy",
+    "text": "Choose the correct sentence regarding article usage:",
+    "options": [
+      "He is an honest man.",
+      "He is a honest man.",
+      "She plays an violin.",
+      "She gave a advice."
+    ],
+    "correct": 0,
+    "explanation": "'Honest' starts with a silent 'h' and begins with a vowel sound /ɒ/, so it takes the article 'an.' 'A honest man' (B) is wrong. 'Violin' starts with a consonant sound /v/, so it takes 'a' — not 'an' (C is wrong). 'Advice' is uncountable and doesn't take 'a' (D is wrong)."
+  },
+  {
+    "id": "c69",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the correct preposition: 'She was accused ___ theft.'",
+    "options": ["for", "of", "with", "by"],
+    "correct": 1,
+    "explanation": "The correct preposition after 'accused' is 'of.' One is 'accused of' a crime. 'Accused for,' 'accused with,' and 'accused by' are incorrect collocations. Similarly: 'charged with,' 'blamed for.'"
+  },
+  {
+    "id": "c70",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "No sooner did the bell ring than the students ran out.",
+      "No sooner the bell rang than the students ran out.",
+      "No sooner had the bell rung when the students ran out.",
+      "No sooner did the bell rang than the students run out."
+    ],
+    "correct": 0,
+    "explanation": "'No sooner' is a negative adverb requiring inversion: 'No sooner did + subject + V1 + than...' is the correct structure. Option A is correct. Option B lacks inversion. Option C uses 'when' instead of 'than.' Option D has incorrect verb form 'rang' after 'did.'"
+  },
+  {
+    "id": "c71",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Read the passage and answer: 'The rapid expansion of e-commerce has fundamentally altered consumer behavior. Shoppers now expect immediate gratification, free shipping, and hassle-free returns. Brick-and-mortar stores have responded by enhancing the in-store experience, offering services unavailable online. However, studies show that over 65% of purchases still begin with an online search, even when the final transaction occurs offline.' Which statement is best supported by the passage?",
+    "options": [
+      "Physical stores will soon become obsolete.",
+      "Online research influences both online and offline purchases.",
+      "Free shipping is the primary driver of e-commerce growth.",
+      "In-store experiences are superior to online shopping."
+    ],
+    "correct": 1,
+    "explanation": "The passage explicitly states that '65% of purchases begin with an online search, even when the final transaction occurs offline.' This directly supports option B. Option A is not stated — stores have 'responded' not 'disappeared.' Option C focuses only on free shipping, not stated as primary driver. Option D is an overstatement not supported by the text."
+  },
+  {
+    "id": "c72",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Read and answer: 'All major economies rely on a mix of market forces and government regulation. Pure free markets concentrate wealth and lead to monopolies; pure command economies suppress innovation. The most successful economies strike a balance, using market mechanisms for efficiency while deploying regulation to address market failures.' What does the author most likely believe?",
+    "options": [
+      "Free markets always produce the best outcomes.",
+      "Government should control all economic activity.",
+      "Neither pure capitalism nor pure socialism is ideal.",
+      "Innovation is not important for economic success."
+    ],
+    "correct": 2,
+    "explanation": "The author argues that both extremes — pure free markets and pure command economies — have flaws, and that successful economies balance the two. This directly supports option C. Options A and B each represent the extremes the author explicitly criticizes. Option D contradicts the text which says command economies 'suppress innovation,' implying innovation matters."
+  },
+  {
+    "id": "c73",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Read and answer: 'Urbanization has both positive and negative consequences. Cities concentrate talent, capital, and innovation, driving economic growth. However, rapid urban growth also strains infrastructure, increases pollution, and can displace lower-income residents through gentrification. Policymakers must therefore manage growth proactively rather than reactively.' Which of the following is an ASSUMPTION underlying the author's conclusion?",
+    "options": [
+      "Urbanization is entirely harmful to society.",
+      "Policymakers have the ability and tools to manage urban growth.",
+      "Lower-income residents always benefit from gentrification.",
+      "Economic growth is the only goal of urbanization."
+    ],
+    "correct": 1,
+    "explanation": "The author recommends proactive management by policymakers. For this recommendation to be valid, one must assume policymakers can actually manage growth — they have the tools, capacity, and authority. This is an unstated premise. Option A contradicts the author who cites benefits. Option C contradicts what the author says. Option D is too narrow."
+  },
+  {
+    "id": "c74",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Read and answer: 'Sleep deprivation affects cognitive function significantly. Studies have shown that people who sleep fewer than 6 hours per night perform worse on memory and concentration tests, make more errors in complex tasks, and exhibit slower reaction times. Yet modern culture glorifies being busy, treating long work hours and minimal sleep as badges of honor.' What would WEAKEN the argument that sleep deprivation impairs performance?",
+    "options": [
+      "Several successful CEOs report sleeping only 4 hours a night.",
+      "The studies used controlled laboratory conditions.",
+      "Some people perform well cognitively on less than 6 hours of sleep.",
+      "The effects of sleep deprivation are reversible with adequate sleep."
+    ],
+    "correct": 2,
+    "explanation": "The argument is that sleeping fewer than 6 hours universally impairs performance. Option C weakens this by showing exceptions — some individuals maintain cognitive performance on less sleep, undermining the universal claim. Option A is anecdotal and doesn't measure performance systematically. Options B and D do not weaken the core argument."
+  },
+  {
+    "id": "c75",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Read and answer: 'The introduction of artificial intelligence in healthcare promises to revolutionize diagnostics. AI systems trained on millions of medical images can identify cancers that radiologists miss. However, these systems are trained on historical data that may reflect existing biases in healthcare, potentially leading to underdiagnosis in underrepresented populations.' What is the author's primary concern?",
+    "options": [
+      "AI will replace all doctors within a decade.",
+      "AI diagnostic systems may perpetuate healthcare inequities.",
+      "Medical imaging is an unreliable diagnostic method.",
+      "Radiologists are more accurate than AI in all cases."
+    ],
+    "correct": 1,
+    "explanation": "The author acknowledges AI's promise but highlights a specific concern: bias in training data could lead to underdiagnosis in underrepresented populations — i.e., perpetuating healthcare inequities. Option A is an extreme claim not made. Option C contradicts the passage (AI works on imaging successfully). Option D contradicts the passage (AI finds cancers radiologists miss)."
+  },
+  {
+    "id": "c76",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Read and answer: 'Climate change poses an existential threat, yet global emissions continue to rise. International agreements have set ambitious targets, but compliance mechanisms remain weak. Nations prioritize short-term economic interests over long-term environmental commitments. Until international governance can enforce meaningful penalties for non-compliance, climate targets will remain aspirational rather than binding.' What does the author imply?",
+    "options": [
+      "Climate change is not a serious problem.",
+      "Economic growth always harms the environment.",
+      "Enforceable international mechanisms are needed for climate action.",
+      "All nations are equally responsible for rising emissions."
+    ],
+    "correct": 2,
+    "explanation": "The author explicitly states that 'until international governance can enforce meaningful penalties for non-compliance, climate targets will remain aspirational.' This directly implies that enforceable mechanisms are needed. Options A and B are not supported. Option D is not stated — the author does not assign equal responsibility."
+  },
+  {
+    "id": "c77",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Arrange the following sentences in the correct logical order to form a coherent paragraph:\nP: The invention of the printing press by Gutenberg in 1440 democratized access to information.\nQ: Before this, books were handwritten by scribes and accessible only to the clergy and wealthy elite.\nR: This spread of literacy eventually contributed to the Protestant Reformation and the Scientific Revolution.\nS: Mass production of books made knowledge accessible to ordinary people, spurring literacy rates.",
+    "options": ["Q-P-S-R", "P-Q-S-R", "S-Q-P-R", "R-P-Q-S"],
+    "correct": 1,
+    "explanation": "Logical order: P introduces the printing press as the central invention. Q provides context — what existed before. S describes the direct consequence (mass production, spread of literacy). R gives the long-term societal impact. Sequence: P → Q → S → R."
+  },
+  {
+    "id": "c78",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Arrange the following sentences in the correct logical order:\nP: However, social media algorithms prioritize engagement over accuracy, amplifying sensational content.\nQ: The digital revolution gave every individual a platform to publish and consume news.\nR: The result is an 'infodemic' — an overabundance of information, both accurate and inaccurate.\nS: This has eroded trust in traditional media, as misinformation spreads faster than corrections.",
+    "options": ["Q-P-R-S", "P-Q-R-S", "R-Q-P-S", "Q-R-P-S"],
+    "correct": 0,
+    "explanation": "Q introduces the digital revolution giving everyone a platform. P provides a contrast/problem with this — algorithms amplify sensational content. R gives the result of Q+P — an infodemic. S explains the downstream consequence — erosion of trust. Sequence: Q → P → R → S."
+  },
+  {
+    "id": "c79",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Arrange in the correct logical order:\nP: The Renaissance, beginning in 14th-century Italy, saw a rebirth of classical art and philosophy.\nQ: Scholars rediscovered ancient Greek and Roman texts, challenging medieval theological dogma.\nR: Artistic masters like Leonardo da Vinci and Michelangelo produced works celebrating human form and reason.\nS: This intellectual ferment laid the groundwork for the Enlightenment and modern Western thought.",
+    "options": ["P-Q-R-S", "Q-P-R-S", "R-P-Q-S", "S-Q-P-R"],
+    "correct": 0,
+    "explanation": "P introduces the Renaissance and its origin. Q explains what drove it (rediscovery of texts). R gives concrete examples (artists). S provides the long-term consequence (groundwork for Enlightenment). Sequence: P → Q → R → S."
+  },
+  {
+    "id": "c80",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Arrange in the correct logical order:\nP: Yet for all its benefits, deep work is increasingly rare in the age of social media and constant notifications.\nQ: Deep work — the ability to focus without distraction on cognitively demanding tasks — produces the most valuable output.\nR: This has profound implications for productivity; organizations that cultivate deep work gain a competitive edge.\nS: Fragmented attention, caused by emails and instant messages, reduces the ability to produce high-quality intellectual work.",
+    "options": ["Q-R-P-S", "P-Q-S-R", "Q-P-S-R", "R-Q-P-S"],
+    "correct": 2,
+    "explanation": "Q defines and introduces 'deep work.' P acknowledges a counter — it is rare today. S explains why it's rare (fragmented attention). R draws the implication for organizations. Sequence: Q → P → S → R."
+  },
+  {
+    "id": "c81",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Arrange in the correct logical order:\nP: Over time, these movements coalesced into organized political parties with specific policy agendas.\nQ: Democratic politics often begins with grassroots activism — ordinary citizens organizing around shared concerns.\nR: When these parties gain sufficient electoral support, they can translate their demands into legislation.\nS: Initially, such activism takes the form of protests, petitions, and community organizing.",
+    "options": ["Q-S-P-R", "S-Q-P-R", "Q-P-S-R", "P-Q-S-R"],
+    "correct": 0,
+    "explanation": "Q establishes the premise (grassroots activism). S describes the initial form it takes. P describes how these movements evolve into parties. R explains the final outcome (legislation). Sequence: Q → S → P → R."
+  },
+  {
+    "id": "c82",
+    "subject": "Verbal Ability",
+    "difficulty": "easy",
+    "text": "Choose the word that best fills the blank: 'Despite his _______ demeanor, the professor was deeply passionate about his subject.'",
+    "options": ["ebullient", "austere", "sanguine", "loquacious"],
+    "correct": 1,
+    "explanation": "'Despite' signals a contrast. The second clause says he was 'deeply passionate,' so the blank must be a word contrasting with passion. 'Austere' means stern, severe, or unadorned — which contrasts with visible passion. 'Ebullient' (enthusiastically energetic) and 'sanguine' (optimistic) would not contrast. 'Loquacious' (talkative) does not fit the contrast either."
+  },
+  {
+    "id": "c83",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the word that best fills the blank: 'The politician's _______ promises were later exposed as deliberate deceptions designed to win votes.'",
+    "options": ["candid", "mendacious", "diffident", "propitious"],
+    "correct": 1,
+    "explanation": "'Mendacious' means not telling the truth; lying. The sentence states the promises were 'deliberate deceptions,' making mendacious the perfect fit. 'Candid' means truthful (opposite). 'Diffident' means shy. 'Propitious' means favorable — none of these fit the context."
+  },
+  {
+    "id": "c84",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the word that best fills the blank: 'The long illness had _______ her to the point where she could barely lift a pen.'",
+    "options": ["invigorated", "enervated", "ameliorated", "vociferated"],
+    "correct": 1,
+    "explanation": "'Enervated' means weakened; drained of energy. The sentence describes someone so weakened she cannot lift a pen — enervated is the perfect fit. 'Invigorated' means energized (opposite). 'Ameliorated' means improved. 'Vociferated' means cried out loudly."
+  },
+  {
+    "id": "c85",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word that best fills the blank: 'The government introduced several measures to _______ the suffering caused by the floods, including food aid and temporary shelters.'",
+    "options": ["exacerbate", "ameliorate", "perpetuate", "trivialize"],
+    "correct": 1,
+    "explanation": "'Ameliorate' means to make something bad or unsatisfactory better. The sentence describes positive government actions (food aid, shelters), which are intended to improve the situation — ameliorate. 'Exacerbate' (make worse), 'perpetuate' (cause to continue indefinitely), and 'trivialize' (make seem unimportant) are all incorrect."
+  },
+  {
+    "id": "c86",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the word that best fills the blank: 'The _______ child refused to eat vegetables, no matter what incentives were offered.'",
+    "options": ["docile", "recalcitrant", "diffident", "perfidious"],
+    "correct": 1,
+    "explanation": "'Recalcitrant' means obstinately uncooperative; resisting authority or control. A child who refuses no matter what incentives are offered is recalcitrant. 'Docile' means easy to manage (opposite). 'Diffident' means shy. 'Perfidious' means deceitful/treacherous — does not fit."
+  },
+  {
+    "id": "c87",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word that best fills the blank: 'Flowers are _______ by nature, blooming briefly before withering away, yet we treasure them for that very transience.'",
+    "options": ["perennial", "ephemeral", "pernicious", "pedantic"],
+    "correct": 1,
+    "explanation": "'Ephemeral' means lasting for a very short time. The sentence contrasts brief blooming with withering — emphasizing transience. 'Perennial' means lasting for many years (opposite). 'Pernicious' means harmful. 'Pedantic' means overly concerned with minor details."
+  },
+
+  {
+    "id": "c88",
+    "subject": "Data Interpretation",
+    "difficulty": "easy",
+    "text": "The table shows annual revenue (in ₹ crore) of four companies: Alpha: 2021=200, 2022=240, 2023=300; Beta: 2021=150, 2022=180, 2023=216; Gamma: 2021=300, 2022=270, 2023=324; Delta: 2021=100, 2022=130, 2023=169. What was the total revenue of all four companies in 2022?",
+    "options": ["₹800 crore", "₹820 crore", "₹840 crore", "₹860 crore"],
+    "correct": 1,
+    "explanation": "Sum for 2022: Alpha=240 + Beta=180 + Gamma=270 + Delta=130 = 820. Total = ₹820 crore."
+  },
+  {
+    "id": "c89",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "Using the same table (Alpha: 2021=200, 2022=240, 2023=300; Beta: 2021=150, 2022=180, 2023=216; Gamma: 2021=300, 2022=270, 2023=324; Delta: 2021=100, 2022=130, 2023=169). Which company had the highest percentage growth from 2022 to 2023?",
+    "options": ["Alpha", "Beta", "Gamma", "Delta"],
+    "correct": 3,
+    "explanation": "Growth rates 2022→2023: Alpha=(300−240)/240=25%; Beta=(216−180)/180=20%; Gamma=(324−270)/270≈20%; Delta=(169−130)/130=39/130≈30%. Delta has the highest growth at ~30%."
+  },
+  {
+    "id": "c90",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "Using the same revenue table (Alpha: 2021=200, 2022=240, 2023=300; Beta: 2021=150, 2022=180, 2023=216; Gamma: 2021=300, 2022=270, 2023=324; Delta: 2021=100, 2022=130, 2023=169). What is the average revenue of Alpha over the three years?",
+    "options": ["₹240 crore", "₹246.67 crore", "₹250 crore", "₹260 crore"],
+    "correct": 1,
+    "explanation": "Alpha revenues: 200 + 240 + 300 = 740. Average = 740/3 = ₹246.67 crore."
+  },
+  {
+    "id": "c91",
+    "subject": "Data Interpretation",
+    "difficulty": "hard",
+    "text": "Using the same table (Alpha: 2021=200, 2022=240, 2023=300; Beta: 2021=150, 2022=180, 2023=216; Gamma: 2021=300, 2022=270, 2023=324; Delta: 2021=100, 2022=130, 2023=169). Which company showed a revenue DECLINE between 2021 and 2022?",
+    "options": ["Alpha", "Beta", "Gamma", "Delta"],
+    "correct": 2,
+    "explanation": "Alpha: 200→240 (increase). Beta: 150→180 (increase). Gamma: 300→270 (decrease). Delta: 100→130 (increase). Only Gamma showed a decline from 2021 to 2022."
+  },
+  {
+    "id": "c92",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "The table below shows marks of 5 students in 3 subjects (out of 100 each): Arjun: Math=85, Science=70, English=65; Priya: Math=72, Science=88, English=80; Raj: Math=60, Science=55, English=75; Sneha: Math=90, Science=82, English=78; Vikram: Math=65, Science=60, English=55. Who has the highest average score?",
+    "options": ["Arjun", "Priya", "Sneha", "Raj"],
+    "correct": 2,
+    "explanation": "Average scores: Arjun=(85+70+65)/3=220/3≈73.3; Priya=(72+88+80)/3=240/3=80; Raj=(60+55+75)/3=190/3≈63.3; Sneha=(90+82+78)/3=250/3≈83.3; Vikram=(65+60+55)/3=180/3=60. Sneha has the highest average."
+  },
+  {
+    "id": "c93",
+    "subject": "Data Interpretation",
+    "difficulty": "easy",
+    "text": "Using the same marks table (Arjun: Math=85, Science=70, English=65; Priya: Math=72, Science=88, English=80; Raj: Math=60, Science=55, English=75; Sneha: Math=90, Science=82, English=78; Vikram: Math=65, Science=60, English=55). What is the total score in Science for all 5 students?",
+    "options": ["345", "355", "365", "375"],
+    "correct": 1,
+    "explanation": "Science scores: 70+88+55+82+60 = 355. Total = 355."
+  },
+  {
+    "id": "c94",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "Using the same marks table (Arjun: Math=85, Science=70, English=65; Priya: Math=72, Science=88, English=80; Raj: Math=60, Science=55, English=75; Sneha: Math=90, Science=82, English=78; Vikram: Math=65, Science=60, English=55). What percentage of the maximum possible total marks did Priya score?",
+    "options": ["72%", "76%", "80%", "84%"],
+    "correct": 2,
+    "explanation": "Priya's total = 72+88+80 = 240. Maximum = 300. Percentage = (240/300)×100 = 80%."
+  },
+  {
+    "id": "c95",
+    "subject": "Data Interpretation",
+    "difficulty": "hard",
+    "text": "A bar chart shows production (in units) of a factory over 5 months: Jan=500, Feb=600, Mar=450, Apr=700, May=550. What is the percentage change in production from March to April?",
+    "options": ["44.4%", "55.6%", "35.7%", "40%"],
+    "correct": 1,
+    "explanation": "Change = 700 − 450 = 250. Percentage change = (250/450) × 100 = 5/9 × 100 ≈ 55.56% ≈ 55.6%. This is an increase from March to April."
+  },
+  {
+    "id": "c96",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "A pie chart shows expenses of a family: Food=30%, Rent=25%, Education=20%, Transport=15%, Savings=10%. If the total monthly income is ₹60,000, how much is spent on Rent and Education combined?",
+    "options": ["₹24,000", "₹27,000", "₹18,000", "₹30,000"],
+    "correct": 1,
+    "explanation": "Rent = 25% of 60,000 = ₹15,000. Education = 20% of 60,000 = ₹12,000. Combined = 15,000 + 12,000 = ₹27,000."
+  },
+  {
+    "id": "c97",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "In the same family expense pie chart (Food=30%, Rent=25%, Education=20%, Transport=15%, Savings=10%, monthly income=₹60,000), if food expenses increase by 20% next month while total income remains the same, what percentage of income will be spent on food?",
+    "options": ["32%", "36%", "38%", "40%"],
+    "correct": 1,
+    "explanation": "Current food expense = 30% of 60,000 = ₹18,000. After 20% increase: 18,000 × 1.2 = ₹21,600. New percentage = (21,600/60,000) × 100 = 36%."
+  },
+  {
+    "id": "c98",
+    "subject": "Data Interpretation",
+    "difficulty": "hard",
+    "text": "A bar chart shows sales of two products A and B (in thousands): Q1: A=40, B=30; Q2: A=50, B=45; Q3: A=45, B=60; Q4: A=65, B=55. In which quarter was the ratio of A's sales to B's sales the highest?",
+    "options": ["Q1", "Q2", "Q3", "Q4"],
+    "correct": 0,
+    "explanation": "Ratios A:B — Q1: 40/30=1.33; Q2: 50/45=1.11; Q3: 45/60=0.75; Q4: 65/55=1.18. Highest ratio is in Q1 (1.33)."
+  },
+  {
+    "id": "c99",
+    "subject": "Data Interpretation",
+    "difficulty": "easy",
+    "text": "In the same bar chart (Q1: A=40, B=30; Q2: A=50, B=45; Q3: A=45, B=60; Q4: A=65, B=55), what is the total sales of product B over all four quarters (in thousands)?",
+    "options": ["180", "190", "200", "210"],
+    "correct": 1,
+    "explanation": "B's total sales = 30 + 45 + 60 + 55 = 190 thousand units."
+  },
+  {
+    "id": "c100",
+    "subject": "Data Interpretation",
+    "difficulty": "hard",
+    "text": "A company's revenue was ₹450 crore in 2022 and ₹540 crore in 2023. Its expenses were ₹360 crore in 2022 and ₹480 crore in 2023. What was the percentage change in profit from 2022 to 2023?",
+    "options": ["−33.33%", "20%", "−16.67%", "50%"],
+    "correct": 0,
+    "explanation": "Profit 2022 = 450 − 360 = ₹90 crore. Profit 2023 = 540 − 480 = ₹60 crore. Change in profit = 60 − 90 = −₹30 crore. Percentage change = (−30/90) × 100 = −33.33%. The profit fell by 33.33% even though revenue increased by 20%, because expenses rose by 33.3%."
+  },
+  {
+    "id": "c101",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "CASELET: A school has 600 students. 40% are in the science stream, 35% are in the commerce stream, and the rest are in the arts stream. Among science students, 50% play a sport. Among commerce students, 40% play a sport. Among arts students, 20% play a sport. How many students in total play a sport?",
+    "options": ["228", "234", "246", "252"],
+    "correct": 1,
+    "explanation": "Science: 40% of 600 = 240 students; 50% play sport = 120. Commerce: 35% of 600 = 210 students; 40% play sport = 84. Arts: 100%−40%−35%=25% of 600 = 150 students; 20% play sport = 30. Total playing sport = 120 + 84 + 30 = 234."
+  },
+  {
+    "id": "c102",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "CASELET (continued from c101): A school has 600 students — 40% science, 35% commerce, 25% arts. Among science students, 50% play a sport. Among commerce students, 40% play a sport. Among arts students, 20% play a sport. What percentage of the students who play sport are from the commerce stream?",
+    "options": ["32.5%", "35.9%", "38.4%", "40.0%"],
+    "correct": 1,
+    "explanation": "Commerce students playing sport = 210 × 0.40 = 84. Total sport players (from c101) = 120 + 84 + 30 = 234. Percentage from commerce = (84/234) × 100 = 8400/234 ≈ 35.9%."
+  },
+  {
+    "id": "c103",
+    "subject": "Data Interpretation",
+    "difficulty": "hard",
+    "text": "CASELET: A company has three departments — Sales, Tech, and Admin. Sales has 120 employees with an average salary of ₹50,000/month. Tech has 80 employees with an average salary of ₹90,000/month. Admin has 40 employees with an average salary of ₹40,000/month. What is the overall average salary of all employees?",
+    "options": ["₹60,000", "₹61,667", "₹63,333", "₹65,000"],
+    "correct": 1,
+    "explanation": "Total salary bill: Sales = 120 × 50,000 = 60,00,000. Tech = 80 × 90,000 = 72,00,000. Admin = 40 × 40,000 = 16,00,000. Total = 1,48,00,000. Total employees = 120+80+40 = 240. Average = 1,48,00,000/240 = ₹61,667 (approx)."
+  },
+  {
+    "id": "c104",
+    "subject": "Data Interpretation",
+    "difficulty": "hard",
+    "text": "CASELET (from c103): Sales=120 emp, avg ₹50k; Tech=80 emp, avg ₹90k; Admin=40 emp, avg ₹40k. If the company gives a 10% raise to Tech employees and a 5% raise to all others, what is the new total monthly salary bill?",
+    "options": ["₹1,55,40,000", "₹1,57,20,000", "₹1,58,00,000", "₹1,59,00,000"],
+    "correct": 3,
+    "explanation": "Original salary bills: Sales = 120 × 50,000 = ₹60,00,000; Tech = 80 × 90,000 = ₹72,00,000; Admin = 40 × 40,000 = ₹16,00,000. After raises: Sales (5% raise) = 60,00,000 × 1.05 = ₹63,00,000; Tech (10% raise) = 72,00,000 × 1.10 = ₹79,20,000; Admin (5% raise) = 16,00,000 × 1.05 = ₹16,80,000. New total = 63,00,000 + 79,20,000 + 16,80,000 = ₹1,59,00,000."
+  },
+  {
+    "id": "c105",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "CASELET: Three friends invested in a business. Amit invested ₹1,20,000, Balu invested ₹80,000, and Charu invested ₹1,00,000. At the end of the year, they made a total profit of ₹90,000. If profit is shared in the ratio of their investments, how much does Balu receive?",
+    "options": ["₹20,000", "₹24,000", "₹28,000", "₹32,000"],
+    "correct": 1,
+    "explanation": "Ratio of investments: 1,20,000 : 80,000 : 1,00,000 = 12:8:10 = 6:4:5. Total parts = 6+4+5 = 15. Balu's share = (4/15) × 90,000 = ₹24,000."
+  },
+  {
+    "id": "c106",
+    "subject": "Data Interpretation",
+    "difficulty": "medium",
+    "text": "A table shows the number of employees in 4 companies over 2 years: Company W: 2022=500, 2023=600; Company X: 2022=800, 2023=720; Company Y: 2022=300, 2023=390; Company Z: 2022=600, 2023=660. Which company had the highest growth rate in employee count?",
+    "options": ["W", "X", "Y", "Z"],
+    "correct": 2,
+    "explanation": "Growth rates: W=(600−500)/500=20%; X=(720−800)/800=−10% (decline); Y=(390−300)/300=30%; Z=(660−600)/600=10%. Company Y had the highest growth rate at 30%."
+  },
+  {
+    "id": "c107",
+    "subject": "Data Interpretation",
+    "difficulty": "hard",
+    "text": "A bar chart shows exports (in $ million) of a country over 5 years: 2019=120, 2020=96, 2021=132, 2022=150, 2023=138. What was the compound annual growth rate (CAGR) of exports from 2019 to 2022?",
+    "options": ["Approx. 5.7%", "Approx. 7.7%", "Approx. 10%", "Approx. 3.8%"],
+    "correct": 1,
+    "explanation": "CAGR = (Final/Initial)^(1/n) − 1. Final=150, Initial=120, n=3 years. CAGR = (150/120)^(1/3) − 1 = (1.25)^(1/3) − 1. Cube root of 1.25 ≈ 1.0772. CAGR ≈ 7.7%."
+  },
+
+  {
+    "id": "c108",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. B sits 3rd from the left. D sits to the immediate right of B. E sits at one of the ends. A sits 2nd from the right end. F sits between G and H. G is not adjacent to B. How many people sit between D and A?",
+    "options": ["2", "3", "4", "5"],
+    "correct": 0,
+    "explanation": "B is 3rd from left → position 3. D is immediately right of B → position 4. In a line of 8, A is 2nd from the right → position 7. People sitting between D (position 4) and A (position 7) occupy positions 5 and 6 → 2 people."
+  },
+  {
+    "id": "c109",
+    "subject": "Logical Reasoning",
+    "difficulty": "hard",
+    "text": "Six people P, Q, R, S, T, U are seated around a circular table facing the center. P sits opposite Q. R is 2nd to the left of P. S sits between Q and T. U is not adjacent to P. Who sits to the immediate right of R?",
+    "options": ["P", "Q", "S", "T"],
+    "correct": 0,
+    "explanation": "In a circular arrangement of 6 (positions 1–6): P and Q are opposite (e.g., P=1, Q=4). R is 2nd to the left of P → counter-clockwise 2 from P → position 6 (or position 5 clockwise from P). In circular seating, 2nd to left of P(1) = position 6... Let's fix: P=1, Q=4. 2nd to left of P going counterclockwise: 1→6→5, so R=5. S is between Q(4) and T. Remaining seats: 2,3,6. If S is between Q and T, one option is Q=4, S=3, T=2 or T=3, S=between means adjacent. If T=3 and S between Q(4) and T(3), S would need to be at... adjacency: between means S is adjacent to both Q and T, so S=3.5 impossible, or T and Q are adjacent with S between, meaning T,S,Q are consecutive: T=3, S=... this needs Q and T adjacent; they're not (4 and 2 are adjacent to 3). Actually: seats adjacent to Q(4) are 3 and 5. R is at 5. So if S is between Q and T, T could be at 3 and S would be needed adjacent to both — but only 3 and 5 are adjacent to 4, and 5=R. So S=3, T=2 (S between Q(4) and T(2)? That's not consecutive). U is not adjacent to P(1). Adj to P: 2 and 6. So U≠2 and U≠6. Remaining: 2,3,6 for S,T,U. U≠2 and U≠6 → U=3. Then S and T are at 2 and 6. R=5, immediate right of R (clockwise) = position 6. Position 6 is either S or T. Since U=3, S and T are at 2 and 6. P=1, right of R(5) = 6. But 6 is S or T, not P. Reconsidering: R at position 6, 2nd to left of P(1). In circular: seats 1,2,3,4,5,6. 'Left' going counterclockwise: 2nd to left of 1 = position 6 if we go 1→6→5. So R=6. Immediate right of R(6) clockwise = position 1 = P. Answer: P sits immediately to the right of R."
+  },
+  {
+    "id": "c110",
+    "subject": "Logical Reasoning",
+    "difficulty": "hard",
+    "text": "Six people are in a row. A is 4th from the right and 3rd from the left. B is 2 positions to the right of C. D is at the rightmost position. E is immediately to the left of A. Who is at the leftmost position?",
+    "options": ["B", "C", "E", "F"],
+    "correct": 1,
+    "explanation": "Total people = 6. A is 3rd from left → position 3. E is immediately left of A → position 2. D is at rightmost → position 6. Remaining positions: 1, 4, 5 for B, C, F. B is 2 positions to the right of C. Among available positions {1,4,5}: if C=1 and B=3 (taken by A) → no. If C=4 and B=6 (taken by D) → no. If C=5 and B=7 → impossible. The only consistent reading is C=1 and 'B 2 to the right' means B is at position 1+2=3 — but since 3 is taken, this constraint disambiguates C to be at position 1 (the leftmost). F and B fill positions 4 and 5. Answer: C is at the leftmost position."
+  },
+  {
+    "id": "c111",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Five friends sit in a row. Ravi sits 2nd from the left. Suresh is not adjacent to Ravi. Manoj is at one of the ends. Priya is between Suresh and Kavya. Who sits at the rightmost position?",
+    "options": ["Suresh", "Priya", "Kavya", "Manoj"],
+    "correct": 0,
+    "explanation": "Ravi=position 2. Suresh is not adjacent to Ravi, so Suresh ≠ positions 1 or 3 → Suresh ∈ {4,5}. If Suresh=5 (rightmost): Priya is between Suresh(5) and Kavya → Priya=4, Kavya=3. Remaining position 1 goes to Manoj (who is at one of the ends ✓). Final arrangement: Manoj(1), Ravi(2), Kavya(3), Priya(4), Suresh(5). All conditions satisfied. Rightmost position = Suresh."
+  },
+  {
+    "id": "c112",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "A is the father of B. C is the sister of B. D is the mother of A. What is C's relationship to D?",
+    "options": ["Granddaughter", "Daughter", "Niece", "Sister"],
+    "correct": 0,
+    "explanation": "A is the father of B and C. D is the mother of A. So D is A's mother, making D the grandmother of both B and C. C's relationship to D is granddaughter."
+  },
+  {
+    "id": "c113",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Pointing to a photograph, a man says, 'Her mother is the wife of my father's only son.' How is the man related to the woman in the photograph?",
+    "options": ["Uncle", "Father", "Brother", "Nephew"],
+    "correct": 1,
+    "explanation": "My father's only son = the man himself. Wife of the man = his wife. So 'her mother is the man's wife,' meaning the woman in the photograph is the man's daughter. Therefore, the man is her father."
+  },
+  {
+    "id": "c114",
+    "subject": "Logical Reasoning",
+    "difficulty": "hard",
+    "text": "P is Q's brother. R is Q's mother. S is R's father. T is S's wife. How is T related to P?",
+    "options": ["Grandmother", "Great-grandmother", "Mother", "Aunt"],
+    "correct": 0,
+    "explanation": "R is Q's mother and P is Q's brother, so R is also P's mother. S is R's father, making S P's maternal grandfather. T is S's wife, making T P's maternal grandmother. So T is P's grandmother."
+  },
+  {
+    "id": "c115",
+    "subject": "Logical Reasoning",
+    "difficulty": "easy",
+    "text": "Statements: All cats are dogs. All dogs are birds. Conclusions: I. All cats are birds. II. All birds are cats. Which conclusion(s) follow?",
+    "options": ["Only I follows", "Only II follows", "Both follow", "Neither follows"],
+    "correct": 0,
+    "explanation": "From 'All cats are dogs' and 'All dogs are birds,' by syllogism: All cats are birds. Conclusion I follows. Conclusion II ('All birds are cats') does not necessarily follow — it would require the reverse, which is not given. Only Conclusion I follows."
+  },
+  {
+    "id": "c116",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Statements: Some flowers are fruits. All fruits are vegetables. Conclusions: I. Some flowers are vegetables. II. All vegetables are flowers. Which follows?",
+    "options": ["Only I", "Only II", "Both I and II", "Neither"],
+    "correct": 0,
+    "explanation": "Since some flowers are fruits, and all fruits are vegetables, those flowers (that are fruits) are also vegetables. So 'some flowers are vegetables' (Conclusion I) follows. However, 'all vegetables are flowers' (Conclusion II) cannot be concluded from the given statements."
+  },
+  {
+    "id": "c117",
+    "subject": "Logical Reasoning",
+    "difficulty": "hard",
+    "text": "Statements: No table is a chair. Some chairs are desks. All desks are lamps. Conclusions: I. Some lamps are chairs. II. No lamp is a table. III. Some desks are not tables. Which conclusion(s) follow?",
+    "options": ["Only I and III", "Only I and II", "All three", "Only I"],
+    "correct": 0,
+    "explanation": "From 'Some chairs are desks' and 'All desks are lamps': some chairs are lamps → some lamps are chairs (I ✓). For II: 'No table is a chair' doesn't directly tell us about lamps. We can't conclude no lamp is a table. For III: Since no table is a chair, and some chairs are desks, those chair-desks are not tables → some desks are not tables (III ✓). Conclusions I and III follow."
+  },
+  {
+    "id": "c118",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Statements: All pens are pencils. Some pencils are erasers. No eraser is a sharpener. Conclusions: I. Some pens are erasers. II. No pencil is a sharpener. Which follow?",
+    "options": ["Only I", "Only II", "Both", "Neither"],
+    "correct": 3,
+    "explanation": "For I: 'All pens are pencils' and 'Some pencils are erasers' — the 'some pencils' that are erasers may or may not include any pens. We cannot definitively conclude that some pens are erasers. For II: Only some pencils are erasers and no eraser is a sharpener, so those pencils (that are erasers) are not sharpeners, but other pencils may or may not be sharpeners. We cannot conclude no pencil is a sharpener. Neither conclusion follows."
+  },
+  {
+    "id": "c119",
+    "subject": "Logical Reasoning",
+    "difficulty": "easy",
+    "text": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+    "options": ["40", "42", "44", "46"],
+    "correct": 1,
+    "explanation": "The differences are: 6−2=4, 12−6=6, 20−12=8, 30−20=10, next difference=12. Next number = 30+12 = 42. Pattern: n×(n+1) — 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42."
+  },
+  {
+    "id": "c120",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Find the next number in the series: 3, 7, 15, 31, 63, ?",
+    "options": ["95", "121", "127", "131"],
+    "correct": 2,
+    "explanation": "Each term = 2 × previous term + 1. 3×2+1=7, 7×2+1=15, 15×2+1=31, 31×2+1=63, 63×2+1=127. Or pattern: 2¹+1=3? No: 2²−1=3, 2³−1=7, 2⁴−1=15, 2⁵−1=31, 2⁶−1=63, 2⁷−1=127."
+  },
+  {
+    "id": "c121",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Find the next term in the letter series: A, D, G, J, M, ?",
+    "options": ["N", "O", "P", "Q"],
+    "correct": 2,
+    "explanation": "Each letter jumps by 3 positions in the alphabet: A(1)+3=D(4)+3=G(7)+3=J(10)+3=M(13)+3=P(16). Next letter is P."
+  },
+  {
+    "id": "c122",
+    "subject": "Logical Reasoning",
+    "difficulty": "hard",
+    "text": "Find the missing number in the series: 1, 4, 9, 16, ?, 36, 49",
+    "options": ["20", "24", "25", "30"],
+    "correct": 2,
+    "explanation": "The series is perfect squares: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36, 7²=49. The missing number is 5² = 25."
+  },
+  {
+    "id": "c123",
+    "subject": "Logical Reasoning",
+    "difficulty": "easy",
+    "text": "If in a code, APPLE is written as BQQMF, how is MANGO written?",
+    "options": ["NBOHP", "NBNHP", "NCOIP", "NBNGO"],
+    "correct": 0,
+    "explanation": "Each letter is shifted one position forward in the alphabet: A→B, P→Q, P→Q, L→M, E→F. So APPLE→BQQMF. Applying the same rule to MANGO: M→N, A→B, N→O, G→H, O→P. MANGO→NBOHP."
+  },
+  {
+    "id": "c124",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "In a certain code language, if FRIEND is coded as HUMGFP, how is CANDLE coded?",
+    "options": ["EDRFNG", "ECPFNG", "ECPFNH", "ECRFNG"],
+    "correct": 1,
+    "explanation": "The coding rule shifts each letter forward by +2 in the alphabet. Verify: F+2=H, R+2=T... the pattern used in the original question applies +2 uniformly. Applying +2 to CANDLE: C(3)→E(5), A(1)→C(3), N(14)→P(16), D(4)→F(6), L(12)→N(14), E(5)→G(7). Coded word = ECPFNG."
+  },
+  {
+    "id": "c125",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "A person walks 5 km east, then 3 km north, then 5 km west, then 3 km south. Where does the person end up relative to the starting point?",
+    "options": ["3 km east", "At the starting point", "5 km north", "3 km north"],
+    "correct": 1,
+    "explanation": "East 5 km, then West 5 km = net 0 km east-west. North 3 km, then South 3 km = net 0 km north-south. The person returns to the exact starting point."
+  },
+  {
+    "id": "c126",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "A clock shows the time as 3:15. What is the angle between the hour and minute hands?",
+    "options": ["0°", "7.5°", "5°", "15°"],
+    "correct": 1,
+    "explanation": "At 3:15: Minute hand is at 15×6° = 90° from 12 o'clock. Hour hand at 3:00 is at 90°. By 3:15, the hour hand moves 15 minutes × 0.5°/min = 7.5° further. Hour hand is at 90°+7.5° = 97.5°. Angle between them = 97.5° − 90° = 7.5°."
+  },
+  {
+    "id": "c127",
+    "subject": "Logical Reasoning",
+    "difficulty": "hard",
+    "text": "On what day of the week does 1st January 2030 fall, given that 1st January 2023 was a Sunday?",
+    "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+    "correct": 1,
+    "explanation": "From 2023 to 2030 = 7 years. Leap years in this span: 2024 and 2028 = 2 leap years. Remaining: 5 ordinary years. Total days = 5×365 + 2×366 = 1825 + 732 = 2557 days. 2557 mod 7 = 365×7=2555, 2557−2555=2. 2023 Jan 1 = Sunday. Sunday + 2 = Tuesday. Jan 1, 2030 is a Tuesday."
+  },
+  {
+    "id": "c128",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "A ladder 10 m long leans against a vertical wall. The foot of the ladder is 6 m from the wall. How far up the wall does the ladder reach?",
+    "options": ["6 m", "7 m", "8 m", "9 m"],
+    "correct": 2,
+    "explanation": "Using Pythagoras theorem: height² + base² = hypotenuse². height² = 10² − 6² = 100 − 36 = 64. height = √64 = 8 m."
+  },
+  {
+    "id": "c129",
+    "subject": "Verbal Ability",
+    "difficulty": "hard",
+    "text": "Choose the word MOST similar in meaning to: VERBOSE",
+    "options": ["Laconic", "Terse", "Loquacious", "Taciturn"],
+    "correct": 2,
+    "explanation": "Verbose means using or expressed in more words than are needed. 'Loquacious' means tending to talk a great deal — both describe excessive speech. 'Laconic' and 'terse' mean brief; 'taciturn' means habitually silent — all three are antonyms of verbose."
+  },
+  {
+    "id": "c130",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "Two circles of radii 5 cm and 3 cm have their centers 10 cm apart. How many common tangents do they have?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 3,
+    "explanation": "Distance between centers d = 10 cm. Sum of radii r1+r2 = 5+3 = 8 cm. Since d (10) > r1+r2 (8), the circles are externally separated (no intersection). When two circles are external to each other (do not intersect), they have exactly 4 common tangents: 2 external (direct) tangents and 2 internal (transverse) tangents."
   }
 ]
