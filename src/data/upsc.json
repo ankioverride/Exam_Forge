@@ -1,0 +1,97 @@
+[
+  {
+    "id": "u1",
+    "subject": "Polity",
+    "difficulty": "easy",
+    "text": "Which Article of the Indian Constitution provides the Right to Life and Personal Liberty?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "correct": 2,
+    "explanation": "Article 21 states: \"No person shall be deprived of his life or personal liberty except according to procedure established by law.\" It is the most expansively interpreted article in the Constitution."
+  },
+  {
+    "id": "u2",
+    "subject": "Polity",
+    "difficulty": "medium",
+    "text": "The 73rd Constitutional Amendment (1992) relates to which of the following?",
+    "options": ["Right to Education", "Panchayati Raj Institutions", "Scheduled Tribe reservations", "Urban Local Bodies"],
+    "correct": 1,
+    "explanation": "The 73rd Amendment gave constitutional status to Panchayati Raj Institutions, mandating a three-tier system (Gram Panchayat, Panchayat Samiti, Zila Parishad) in states with a population over 20 lakh."
+  },
+  {
+    "id": "u3",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Jharkhand"],
+    "correct": 2,
+    "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. Maharashtra is NOT among them."
+  },
+  {
+    "id": "u4",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Westerlies are planetary winds that blow from:",
+    "options": [
+      "Equatorial low pressure to subtropical high pressure",
+      "Subtropical high pressure to sub-polar low pressure",
+      "Polar high pressure to sub-polar low pressure",
+      "Sub-polar low pressure to subtropical high pressure"
+    ],
+    "correct": 1,
+    "explanation": "Westerlies blow from subtropical high pressure belts (around 30° N/S) towards sub-polar low pressure belts (around 60° N/S). They are responsible for carrying weather systems in the mid-latitudes."
+  },
+  {
+    "id": "u5",
+    "subject": "Economy",
+    "difficulty": "easy",
+    "text": "SEBI (Securities and Exchange Board of India) was established as a statutory body in which year?",
+    "options": ["1988", "1992", "1995", "1990"],
+    "correct": 1,
+    "explanation": "SEBI was set up as a non-statutory body in 1988, but received statutory status through the SEBI Act, 1992. It regulates and develops the securities market in India."
+  },
+  {
+    "id": "u6",
+    "subject": "History",
+    "difficulty": "easy",
+    "text": "Who was the first Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Vallabhbhai Patel", "Jawaharlal Nehru"],
+    "correct": 0,
+    "explanation": "Lord Mountbatten served as the first Governor-General of independent India from August 15, 1947 to June 21, 1948. He was succeeded by C. Rajagopalachari, the first and only Indian Governor-General."
+  },
+  {
+    "id": "u7",
+    "subject": "Economy",
+    "difficulty": "hard",
+    "text": "Which Five Year Plan introduced the concept of \"Growth with Social Justice and Removal of Poverty\"?",
+    "options": ["4th Plan", "5th Plan", "6th Plan", "7th Plan"],
+    "correct": 1,
+    "explanation": "The 5th Five Year Plan (1974–79) introduced the twin objectives of \"Garibi Hatao\" (Remove Poverty) and \"Growth with Social Justice.\" It also introduced the Minimum Needs Programme."
+  },
+  {
+    "id": "u8",
+    "subject": "History",
+    "difficulty": "hard",
+    "text": "The Treaty of Yandabo (1826) ended which conflict?",
+    "options": ["First Anglo-Maratha War", "First Anglo-Burmese War", "First Anglo-Afghan War", "First Anglo-Sikh War"],
+    "correct": 1,
+    "explanation": "The Treaty of Yandabo was signed on February 24, 1826, between the British East India Company and Burma (Myanmar), ending the First Anglo-Burmese War. Under this treaty, Assam came under British control."
+  },
+  {
+    "id": "u9",
+    "subject": "Environment",
+    "difficulty": "medium",
+    "text": "Which of the following is a potent greenhouse gas with a global warming potential ~25 times that of CO₂ over 100 years?",
+    "options": ["Nitrogen (N₂)", "Oxygen (O₂)", "Methane (CH₄)", "Argon (Ar)"],
+    "correct": 2,
+    "explanation": "Methane (CH₄) has a Global Warming Potential of about 25 over a 100-year period, making it much more potent than CO₂. It is released from livestock, rice paddies, landfills, and fossil fuel operations."
+  },
+  {
+    "id": "u10",
+    "subject": "Science & Tech",
+    "difficulty": "hard",
+    "text": "Which Indian space mission successfully demonstrated cryogenic engine technology indigenously for the first time?",
+    "options": ["PSLV-C5", "GSLV-D5", "GSLV Mk III-D1", "PSLV-C11"],
+    "correct": 1,
+    "explanation": "GSLV-D5 (January 5, 2014) was the first successful flight of India's indigenous cryogenic upper stage (CE-7.5), making India the 6th country to master cryogenic rocket technology."
+  }
+]

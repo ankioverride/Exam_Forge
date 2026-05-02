@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "If 20% of a number is 80, what is 35% of that same number?",
+    "options": ["120", "140", "160", "100"],
+    "correct": 1,
+    "explanation": "20% = 80 → 100% = 400. Therefore 35% = 0.35 × 400 = 140."
+  },
+  {
+    "id": "c2",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "A train covers 360 km in 4 hours. At the same speed, how long will it take to cover 540 km?",
+    "options": ["5 hours", "6 hours", "7 hours", "4.5 hours"],
+    "correct": 1,
+    "explanation": "Speed = 360 ÷ 4 = 90 km/h. Time for 540 km = 540 ÷ 90 = 6 hours."
+  },
+  {
+    "id": "c3",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "easy",
+    "text": "What is the sum of the first 20 natural numbers?",
+    "options": ["190", "210", "200", "220"],
+    "correct": 1,
+    "explanation": "Sum of first n natural numbers = n(n+1)/2. For n = 20: 20 × 21 / 2 = 210."
+  },
+  {
+    "id": "c4",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "medium",
+    "text": "A shopkeeper marks up his price by 40% and then gives a discount of 20%. What is his net profit percentage?",
+    "options": ["12%", "20%", "8%", "15%"],
+    "correct": 0,
+    "explanation": "Let CP = 100. MP = 140. After 20% discount: SP = 140 × 0.8 = 112. Profit = 12 → Profit% = 12%."
+  },
+  {
+    "id": "c5",
+    "subject": "Quantitative Aptitude",
+    "difficulty": "hard",
+    "text": "The ratio of ages of A and B is 3:5. After 6 years, the ratio becomes 3:4. What is A's current age?",
+    "options": ["9", "6", "12", "15"],
+    "correct": 1,
+    "explanation": "Let ages be 3x and 5x. After 6 years: (3x+6)/(5x+6) = 3/4 → 12x+24 = 15x+18 → 3x = 6 → x = 2. A's age = 3×2 = 6 years."
+  },
+  {
+    "id": "c6",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "Choose the word MOST similar in meaning to: OBSEQUIOUS",
+    "options": ["Stubborn", "Fawning", "Austere", "Candid"],
+    "correct": 1,
+    "explanation": "\"Obsequious\" means excessively eager to serve or please — synonymous with \"fawning\" or \"sycophantic.\" It carries a negative connotation of servility. Antonyms include assertive, defiant, candid."
+  },
+  {
+    "id": "c7",
+    "subject": "Verbal Ability",
+    "difficulty": "easy",
+    "text": "Identify the grammatically CORRECT sentence:",
+    "options": [
+      "Each of the boys were present",
+      "Each of the boys was present",
+      "Each of the boys are present",
+      "Each of the boys have been present"
+    ],
+    "correct": 1,
+    "explanation": "\"Each\" is a singular indefinite pronoun and always takes a singular verb. \"Each of the boys was present\" is the only grammatically correct option. \"Was\" agrees with the singular subject \"each.\""
+  },
+  {
+    "id": "c8",
+    "subject": "Logical Reasoning",
+    "difficulty": "medium",
+    "text": "Five students P, Q, R, S, T took a test. P scored more than Q. S scored more than T, and T scored more than Q. R scored less than Q. Who scored the least?",
+    "options": ["Q", "T", "S", "R"],
+    "correct": 3,
+    "explanation": "From the given information: P > Q, S > T > Q, and R < Q. So R is below Q, who is below T, who is below S. The chain is: S > T > Q > R, and P > Q. R scored the least."
+  },
+  {
+    "id": "c9",
+    "subject": "Verbal Ability",
+    "difficulty": "medium",
+    "text": "A company's profits fell despite an increase in revenue. Which of the following can be most directly inferred?",
+    "options": [
+      "Revenue growth is unsustainable",
+      "Costs rose faster than revenue",
+      "The company is planning expansion",
+      "The tax rate increased"
+    ],
+    "correct": 1,
+    "explanation": "Profit = Revenue − Costs. If revenue increased but profit fell, costs must have risen by more than revenue. This is the most direct and necessary inference from the statement."
+  },
+  {
+    "id": "c10",
+    "subject": "Data Interpretation",
+    "difficulty": "easy",
+    "text": "In a class of 50 students, 30 like cricket, 25 like football, and 10 like both. How many students like neither?",
+    "options": ["10", "5", "15", "8"],
+    "correct": 1,
+    "explanation": "Using inclusion-exclusion: |Cricket ∪ Football| = 30 + 25 − 10 = 45. Students who like neither = 50 − 45 = 5."
+  }
+]

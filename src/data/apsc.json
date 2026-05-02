@@ -1,0 +1,97 @@
+[
+  {
+    "id": "a1",
+    "subject": "Environment",
+    "difficulty": "easy",
+    "text": "Kaziranga National Park, a UNESCO World Heritage Site, is primarily known for which animal?",
+    "options": ["Bengal Tiger", "Asian Elephant", "Indian One-Horned Rhinoceros", "Snow Leopard"],
+    "correct": 2,
+    "explanation": "Kaziranga, in Golaghat and Nagaon districts of Assam, is home to two-thirds of the world's Indian One-Horned Rhinoceros population. It also has the highest density of tigers among protected areas."
+  },
+  {
+    "id": "a2",
+    "subject": "Geography",
+    "difficulty": "easy",
+    "text": "The Brahmaputra river is known as the \"Sorrow of Assam\" because:",
+    "options": [
+      "It originates outside India",
+      "It causes devastating annual floods in Assam",
+      "It drains into Bangladesh",
+      "It carries heavy silt deposits"
+    ],
+    "correct": 1,
+    "explanation": "The Brahmaputra is called the \"Sorrow of Assam\" because of the severe and recurring floods it causes each year, displacing millions and causing immense loss of life and property. The river is also prone to frequent channel migration (avulsion)."
+  },
+  {
+    "id": "a3",
+    "subject": "Art & Culture",
+    "difficulty": "easy",
+    "text": "How many times is Bihu celebrated in Assam in a year?",
+    "options": ["Once", "Twice", "Three times", "Four times"],
+    "correct": 2,
+    "explanation": "Bihu is celebrated three times a year: Rongali (Bohag) Bihu in April (spring), Kongali (Kati) Bihu in October (autumn), and Bhogali (Magh) Bihu in January (winter harvest). Rongali Bihu is the most celebrated."
+  },
+  {
+    "id": "a4",
+    "subject": "Art & Culture",
+    "difficulty": "medium",
+    "text": "In which year did Sattriya receive the status of Classical Dance from the Sangeet Natak Akademi?",
+    "options": ["1975", "1987", "2000", "2008"],
+    "correct": 2,
+    "explanation": "Sattriya was granted classical status in November 2000. Originating in the 15th-century Vaishnavite monasteries (Sattras) of Assam, it was codified by the saint-scholar Srimanta Sankardeva."
+  },
+  {
+    "id": "a5",
+    "subject": "Economy",
+    "difficulty": "easy",
+    "text": "The first oil well in Asia was drilled at which place in Assam?",
+    "options": ["Duliajan", "Digboi", "Sibsagar", "Tinsukia"],
+    "correct": 1,
+    "explanation": "Digboi in Tinsukia district is where Asia's first oil well was drilled in 1867. The Digboi Refinery (1901) is also the oldest operating oil refinery in Asia and is still in production today."
+  },
+  {
+    "id": "a6",
+    "subject": "Geography",
+    "difficulty": "medium",
+    "text": "Which is the largest district in Assam by area?",
+    "options": ["Karbi Anglong", "Cachar", "Sonitpur", "Lakhimpur"],
+    "correct": 0,
+    "explanation": "Karbi Anglong is the largest district in Assam, covering approximately 10,434 sq km. It is predominantly a tribal district and is home to the Karbi and Dimasa people."
+  },
+  {
+    "id": "a7",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Ahom Kingdom ruled Assam for approximately how many years before British annexation?",
+    "options": ["200 years", "400 years", "600 years", "800 years"],
+    "correct": 2,
+    "explanation": "The Ahom Kingdom ruled from 1228 AD (under Sukaphaa) until 1826 AD when the Treaty of Yandabo brought Assam under British control — a continuous reign of approximately 600 years. They repelled Mughal invasions 17 times."
+  },
+  {
+    "id": "a8",
+    "subject": "History",
+    "difficulty": "medium",
+    "text": "The Battle of Saraighat (1671) was fought between the Ahom Kingdom and:",
+    "options": ["British East India Company", "Mughal Empire", "Maratha Confederacy", "Burma Kingdom"],
+    "correct": 1,
+    "explanation": "The Battle of Saraighat was fought on the Brahmaputra river in 1671. Ahom commander Lachit Borphukan decisively defeated the Mughal fleet under Ram Singh I, halting Mughal expansion into Assam. Lachit Divas is celebrated on November 24."
+  },
+  {
+    "id": "a9",
+    "subject": "Polity",
+    "difficulty": "hard",
+    "text": "Which Schedule of the Indian Constitution provides for the administration of tribal areas in Assam?",
+    "options": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Ninth Schedule"],
+    "correct": 1,
+    "explanation": "The Sixth Schedule provides for autonomous district councils in tribal areas of Assam, Meghalaya, Tripura, and Mizoram. These councils have legislative, judicial, and executive powers over specified matters."
+  },
+  {
+    "id": "a10",
+    "subject": "Polity",
+    "difficulty": "easy",
+    "text": "What is the legislative capital (seat of the state legislature) of Assam?",
+    "options": ["Guwahati", "Jorhat", "Dispur", "Dibrugarh"],
+    "correct": 2,
+    "explanation": "Dispur, located within the Guwahati metropolitan area, is the capital of Assam where the Assam Legislative Assembly is situated. Guwahati is the largest city and commercial hub, but the administrative capital is Dispur."
+  }
+]

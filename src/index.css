@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; }
+
+  body {
+    @apply bg-bg text-ink font-sans;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+  }
+
+  a { @apply text-gold no-underline; }
+}
+
+@layer components {
+  /* ── Buttons ── */
+  .btn {
+    @apply inline-flex items-center gap-1.5 px-4 py-2 font-sans text-sm font-bold
+           border-none cursor-pointer transition-all duration-100 whitespace-nowrap
+           no-underline;
+  }
+  .btn-primary  { @apply bg-gold text-black hover:bg-gold-hover; }
+  .btn-outline  { @apply bg-transparent border border-border2 text-ink hover:border-gold hover:text-gold; }
+  .btn-ghost    { @apply bg-transparent text-muted hover:text-ink hover:bg-surface2 px-3; }
+  .btn-sm       { @apply text-xs px-3 py-1.5; }
+  .btn-lg       { @apply text-base px-6 py-2.5; }
+
+  /* ── Card ── */
+  .card { @apply bg-surface border border-border p-6; }
+
+  /* ── Mono label ── */
+  .mono-label {
+    @apply font-mono text-xs tracking-widest uppercase text-muted;
+  }
+
+  /* ── Section title ── */
+  .section-title {
+    @apply font-mono text-xs tracking-widest uppercase text-muted
+           pb-3 border-b border-border mb-5;
+  }
+
+  /* ── Tag ── */
+  .tag {
+    @apply inline-block font-mono text-[0.68rem] font-bold tracking-widest
+           uppercase px-2 py-0.5 leading-tight;
+  }
+  .tag-gold  { @apply bg-gold-dim text-gold border border-gold/25; }
+  .tag-green { @apply bg-correct/10 text-correct border border-correct/30; }
+  .tag-red   { @apply bg-wrong/10 text-wrong border border-wrong/30; }
+  .tag-grey  { @apply bg-surface3 text-muted border border-border; }
+
+  /* ── Stat cell ── */
+  .stat-value { @apply font-mono text-2xl font-semibold text-bright tracking-tight; }
+  .stat-label { @apply font-mono text-[0.65rem] tracking-widest uppercase text-muted; }
+}
