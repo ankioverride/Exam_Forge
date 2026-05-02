@@ -245,9 +245,9 @@ if __name__ == '__main__':
         stats = process_exam(exam, dry_run=args.stats)
         results.append(stats)
 
-    print("\n" + "─"*50)
+    print("\n" + "-"*50)
     print("SUMMARY")
-    print("─"*50)
+    print("-"*50)
     for r in results:
         action = "(dry run)" if args.stats else "written"
         print(f"{r['exam'].upper():6} {r['existing']:>5} existing + {r['new']:>5} new = {r['total']:>5} total {action}")

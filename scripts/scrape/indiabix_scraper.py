@@ -268,20 +268,64 @@ def _infer_difficulty(text: str, options: list[str]) -> str:
 
 
 def get_all_page_urls(soup: BeautifulSoup, base_url: str) -> list[str]:
-    """Collect all pagination URLs for a category (including page 1 = base_url)."""
+    """
+    Collect all pagination URLs for a category (including page 1 = base_url).
+
+    IndiaBix pagination shows pages like: 1 | 2 | … | 14 | Next
+    The ellipsis means we only see pages 1, 2, and 14 as links — not 3-13.
+    Fix: extract the last-page number from any 6-digit URL suffix (format: CCCppp
+    where CCC = 3-digit category code, ppp = 3-digit page number), then generate
+    all intermediate URLs.
+    """
     urls = [base_url]
     pagination = soup.find('ul', class_='pagination')
     if not pagination:
         return urls
-    seen = {base_url}
+
+    found_hrefs = []
     for a in pagination.find_all('a', class_='page-link'):
         href = a.get('href', '')
         if href and href != '#' and 'GotoPageModal' not in href:
             full = href if href.startswith('http') else urljoin(BASE_URL, href)
-            if full not in seen:
-                seen.add(full)
-                urls.append(full)
-    return sorted(set(urls))
+            found_hrefs.append(full)
+
+    if not found_hrefs:
+        return urls
+
+    # IndiaBix page URLs end in a 6-digit code: first 3 = category, last 3 = page
+    page_code_re = re.compile(r'^(.+/)(\d{3})(\d{3})/?$')
+    max_page = 1
+    base_prefix = None
+    cat_code = None
+
+    for href in found_hrefs:
+        m = page_code_re.match(href.rstrip('/'))
+        if m:
+            prefix = m.group(1)
+            ccode  = m.group(2)
+            pnum   = int(m.group(3))
+            if pnum > max_page:
+                max_page   = pnum
+                base_prefix = prefix
+                cat_code   = ccode
+
+    if base_prefix and cat_code and max_page > 1:
+        # Generate every page URL from 2 to max_page
+        seen = {base_url}
+        for p in range(2, max_page + 1):
+            url = f"{base_prefix}{cat_code}{p:03d}"
+            if url not in seen:
+                seen.add(url)
+                urls.append(url)
+    else:
+        # Fallback: use whatever hrefs we found
+        seen = {base_url}
+        for h in found_hrefs:
+            if h not in seen:
+                seen.add(h)
+                urls.append(h)
+
+    return urls
 
 
 # ─── Main scraper ─────────────────────────────────────────────────────────────
