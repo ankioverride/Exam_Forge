@@ -33,8 +33,17 @@ RAW_FILE_MAP = {
         RAW_DIR / "pyq_upsc_raw.json",      # from pyq_scraper.py
     ],
     'apsc': [
-        RAW_DIR / "apsc_raw.json",
-        RAW_DIR / "pyq_apsc_raw.json",
+        RAW_DIR / "apsc_raw.json",          # from indiabix_scraper.py
+        RAW_DIR / "pyq_apsc_raw.json",      # from pyq_scraper.py
+        RAW_DIR / "apsc_web_raw.json",      # from apsc_web_scraper.py
+        RAW_DIR / "apsc_telegram_raw.json", # from apsc_telegram_scraper.py
+        RAW_DIR / "apsc_pdf_raw.json",      # from apsc_pdf_scraper.py
+        RAW_DIR / "gktoday_apsc_raw.json",  # from gktoday_scraper.py
+        RAW_DIR / "tg_pdf_raw.json",        # from tg_pdf_downloader.py
+        RAW_DIR / "gemini_ocr_raw.json",      # from gemini_ocr_scraper.py
+        RAW_DIR / "gemini_apsc_raw.json",   # from gemini_generate.py
+        RAW_DIR / "apsc_official_raw.json", # from gemini_ocr_official.py (apsc.nic.in)
+        RAW_DIR / "apsc_prelims_raw.json",  # from gemini_ocr_prelims.py (assamcareer.com 1998-2024)
     ],
     'cat': [
         RAW_DIR / "cat_raw.json",
