@@ -4,7 +4,7 @@ Gemini OCR — APSC Prelims Papers (1998–2024) from assamcareer.com
 17 papers, each ~100 MCQs. Uses year-aware prompt for better accuracy.
 Output: raw/apsc_prelims_raw.json
 """
-import re, json, time, logging
+import os, re, json, time, logging
 from pathlib import Path
 from google import genai
 from google.genai import types
@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(me
     handlers=[logging.StreamHandler(), logging.FileHandler('gemini_prelims.log', encoding='utf-8')])
 log = logging.getLogger(__name__)
 
-API_KEY = 'REDACTED_API_KEY'
+API_KEY = os.environ['GEMINI_API_KEY']
 PDF_DIR     = Path(__file__).parent / 'raw' / 'pdfs'
 OUTPUT_FILE = Path(__file__).parent / 'raw' / 'apsc_prelims_raw.json'
 ANSWER_MAP  = {'A':0,'B':1,'C':2,'D':3,'a':0,'b':1,'c':2,'d':3}

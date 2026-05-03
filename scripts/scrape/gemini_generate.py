@@ -33,7 +33,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-GEMINI_API_KEY = 'REDACTED_API_KEY'
+GEMINI_API_KEY = os.environ['GEMINI_API_KEY']
 MODEL          = 'gemini-2.5-pro'
 FALLBACK_MODEL = 'gemini-2.5-flash'
 

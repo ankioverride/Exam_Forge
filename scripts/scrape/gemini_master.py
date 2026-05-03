@@ -41,7 +41,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-GEMINI_API_KEY = 'REDACTED_API_KEY'
+GEMINI_API_KEY = os.environ['GEMINI_API_KEY']
 MODEL          = 'gemini-2.5-flash'   # fast + cheap for bulk; Pro for generation
 GEN_MODEL      = 'gemini-2.5-pro'
 FALLBACK       = 'gemini-2.5-flash'

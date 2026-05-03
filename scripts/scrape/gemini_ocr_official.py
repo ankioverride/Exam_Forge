@@ -4,7 +4,7 @@ Gemini OCR — Official APSC Papers from apsc.nic.in
 Focuses on PRELIMS papers (100-150 MCQs each) + Sample booklets with answers.
 Output: raw/apsc_official_raw.json
 """
-import re, json, time, logging
+import os, re, json, time, logging
 from pathlib import Path
 from google import genai
 from google.genai import types
@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(me
     handlers=[logging.StreamHandler(), logging.FileHandler('gemini_ocr_official.log', encoding='utf-8')])
 log = logging.getLogger(__name__)
 
-API_KEY = 'REDACTED_API_KEY'
+API_KEY = os.environ['GEMINI_API_KEY']
 MODELS  = ['gemini-2.5-flash', 'gemini-2.5-pro']   # flash first — cheaper, fast
 
 PDF_DIR     = Path(__file__).parent / 'raw' / 'apsc_official_pdfs'
