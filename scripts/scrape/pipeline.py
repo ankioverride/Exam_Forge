@@ -48,6 +48,8 @@ RAW_FILE_MAP = {
     'cat': [
         RAW_DIR / "cat_raw.json",
         RAW_DIR / "pyq_cat_raw.json",
+        RAW_DIR / "examveda_cat_raw.json",    # from examveda_scraper.py
+        RAW_DIR / "cat_mock_tg_raw.json",     # from cat_mock_tg_scraper.py (Telegram mocks)
     ],
 }
 

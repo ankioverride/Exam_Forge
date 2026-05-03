@@ -46,7 +46,7 @@ const FEATURES = [
 
 const STATS = [
   { val: '3',    label: 'Exams' },
-  { val: '30',   label: 'Questions' },
+  { val: '6,707', label: 'Questions' },
   { val: 'Real', label: 'Negative Marking' },
   { val: 'Free', label: 'Always' },
 ]
